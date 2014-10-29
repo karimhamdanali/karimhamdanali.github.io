@@ -29,8 +29,8 @@
         margin: 2px;
         
         @include media-query($on-palm) {
-            max-height: 32px;
-            max-width:  32px;
+            max-height: 36px;
+            max-width:  36px;
         }
     }
 }
