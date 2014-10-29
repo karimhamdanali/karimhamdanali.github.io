@@ -21,6 +21,18 @@
     &:visited {
         color: $grey-color-dark;
     }
+    
+    > img {
+        max-height: 128px;
+        max-width:  128px;
+        border-radius: 50%;
+        margin: 2px;
+        
+        @include media-query($on-palm) {
+            max-height: 32px;
+            max-width:  32px;
+        }
+    }
 }
 
 .site-nav {
