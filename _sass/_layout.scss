@@ -4,6 +4,7 @@
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
+    //background: $grey-color-dark;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -31,6 +32,7 @@
         @include media-query($on-palm) {
             max-height: 46px;
             max-width:  46px;
+            margin:     1px;
         }
     }
 }
