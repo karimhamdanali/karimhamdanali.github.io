@@ -4,7 +4,7 @@
 .site-header {
     //border-top: 5px solid $grey-color-dark;
     //border-bottom: 1px solid $grey-color-light;
-    background: $grey-color-light;
+    background: $grey-color;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -24,8 +24,8 @@
     }
     
     > img {
-        max-height: 128px;
-        max-width:  128px;
+        max-height: 46px;
+        max-width:  46px;
         border-radius: 50%;
         margin: 2px;
         
