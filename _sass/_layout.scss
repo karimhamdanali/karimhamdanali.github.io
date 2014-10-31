@@ -30,8 +30,8 @@
         margin: 2px;
         
         @include media-query($on-palm) {
-            max-height: $profilepic-size / 2;
-            max-width:  $profilepic-size / 2;
+            max-height: 46px;
+            max-width:  46px;
             margin:     1px;
         }
     }
