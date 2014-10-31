@@ -46,12 +46,18 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: #fff;
         line-height: $base-line-height;
+        font-size: $base-font-size * 1.5;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
+        }
+        
+        &:hover {
+            text-decoration: none;
+            opacity: 0.65;
         }
     }
 
