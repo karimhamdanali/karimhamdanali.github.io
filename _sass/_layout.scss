@@ -48,7 +48,7 @@
     .page-link {
         color: #fff;
         line-height: $base-line-height;
-        font-size: $base-font-size * 1.5;
+        //font-size: $base-font-size * 1.5;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -100,7 +100,7 @@
         }
 
         .page-link {
-            font-size: $base-font-size;
+            //font-size: $base-font-size;
             display: block;
             padding: 5px 10px;
         }
