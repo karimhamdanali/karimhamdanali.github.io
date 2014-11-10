@@ -1,6 +1,15 @@
 # Site settings
 title: Karim Ali
 email: karim.ali@cased.de
+phone: +496151869512
+phoneform: +49 6151 869-512
+group: Secure Software Engineering Group
+dept: Computer Science Department
+institution: Technische Universit&auml;t Darmstadt
+address: Rheinstra&szlig;e 75, B5.09
+city: Darmstadt
+zipcode: 64295
+country: Germany
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
