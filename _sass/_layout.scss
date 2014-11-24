@@ -126,11 +126,15 @@
         }
 
         .page-link {
+            color: $text-color;
+            font-size: $base-font-size;
             display: block;
             padding: 5px 10px;
         }
         
         .page-link-active {
+            color: $text-color;
+            font-size: $base-font-size;
             display: block;
             padding: 5px 10px;
         }
