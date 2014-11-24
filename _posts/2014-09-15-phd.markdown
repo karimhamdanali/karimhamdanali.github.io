@@ -8,4 +8,4 @@ After 4.5 long years, I'm finally done with my Ph.D. studies! It has been a long
 made it that far without the continuous support of my amazing supervisor Ond&#345;ej Lhot&aacute;k and the support of 
 my family, especially my wife, Sarah Nadi. If you're interested, you can find my dissertation published [here][phd].
 
-[phd]:      http://uwspace.uwaterloo.ca/handle/10012/8835
+[phd]:      /publications/#theses

@@ -64,7 +64,24 @@
             opacity: 0.65;
         }
     }
-    
+
+    .page-link-active {
+        line-height: $base-line-height;
+        color: #fff;
+        font-size: $base-font-size * 1.25;
+        opacity: 0.65;
+
+        // Gaps between nav items, but not on the first one
+        &:not(:first-child) {
+            margin-left: 20px;
+        }
+        
+        &:hover {
+            text-decoration: none;
+            opacity: 1.0;
+        }
+    }
+        
     .trigger {
         vertical-align: middle;
     }
@@ -232,6 +249,7 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    color: $brand-color;
 
     @include media-query($on-laptop) {
         font-size: 36px;
