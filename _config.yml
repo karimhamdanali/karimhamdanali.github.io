@@ -25,3 +25,7 @@ markdown: kramdown
 # Site-wide variables
 keywords: program analysis, compiler, static analysis, java, scala, call graphs, averroes
 copyright: Copyright (c) Karim Ali
+
+# Plugins
+#gems:
+#  - jemoji

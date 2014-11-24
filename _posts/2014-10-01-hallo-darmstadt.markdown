@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hallo Darmstadt!"
+title:  "Hallo Darmstadt :-)"
 date:   2014-10-01 08:30:00
 categories: jobs tud
 ---

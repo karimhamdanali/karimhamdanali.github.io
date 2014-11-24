@@ -12,7 +12,10 @@ layout: default
 			<h2>
 				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 			</h2>
-			{{ post.excerpt | remove: '</p>'}}<a href="{{ post.url | prepend: site.baseurl }}">more...</a></p>
+			{{ post.excerpt | remove: '</p>'}}
+			{% if post.content != post.excerpt %}
+    			<a href="{{ post.url | prepend: site.baseurl }}">more...</a>
+  			{% endif %}</p>
 		</li>
     {% endfor %}
     </ul>
