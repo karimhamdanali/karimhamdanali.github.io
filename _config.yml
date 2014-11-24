@@ -10,10 +10,10 @@ address: Rheinstra&szlig;e 75, B5.09
 city: Darmstadt
 zipcode: 64295
 country: Germany
+quote: I want to put a ding in the universe.
+quoteby: Steve Jobs
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Powered by Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://karimhamdanali.github.io" # the base hostname & protocol for your site
 twitter_username: karimhamdanali
