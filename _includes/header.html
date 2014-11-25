@@ -18,7 +18,7 @@
                 {% for node in pages %}
                 	{% if node.navtitle and node.url == page.url %}
                 		<a class="page-link-active" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
-                	{% elsif node.navtitle and page.tags and node.tags == page.tags %}
+                	{% elsif node.navtitle and page.group and node.group == page.group %}
                 		<a class="page-link-active" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
                 	{% elsif node.navtitle %}
                     	<a class="page-link" href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>

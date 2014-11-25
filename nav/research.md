@@ -4,7 +4,7 @@ title: Research
 navtitle: Research
 permalink: /research/
 weight: 2
-tags: research
+group: research
 ---
 
 <div class="home">
