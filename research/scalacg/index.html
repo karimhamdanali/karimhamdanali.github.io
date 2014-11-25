@@ -113,4 +113,129 @@ tags: research
 			</li>
 		</ul>
 	</p>
+	
+	<h2>Usage</h2>
+	<p>
+		You can use our call-graph plugin to compile Scala code as follows, where &lt;analysis&gt; can be any value of: 
+		ra, tca-names, tca-bounds, tca-expand, or tca-expand-this, and defaults to tca-expand-this.
+		{% highlight bash %}
+			$ scalac -cp callgraph-plugin.jar -Xplugin:callgraph-plugin.jar [-P:callgraph:<analysis>] <code.scala>
+		{% endhighlight %}
+	</p>
+	<p>
+		The plugin will output the call graph in a file named callgraph.txt.gzip, along with a summary call graph 
+		(i.e., ignoring the edges within the library dependencies) in a file with the name callgraph-summary.txt.gzip. 
+		Both files can be viewed and queried by the ProBe tool included in callgraph-plugin.jar. To print out the edges 
+		of the call graph, run the following command:
+		{% highlight bash %}
+			$ java -cp callgraph-plugin.jar probe.CallGraphInfo callgraph.txt.gzip
+		{% endhighlight %}
+		For more information on how to use ProBe, please refer to 
+		<a href="http://plg.uwaterloo.ca/~olhotak/probe/schemas/callgraph.html" target="_blank">this page</a>.
+	</p>
+	
+	<h2>Replicating our experiments</h2>
+	<p>
+		You can either download the virtual machine, or download the tarball scalabench.tar.gz (both in the downloads 
+		section above) and then satisfy all the prerequisites. The following tutorial does not depend on which path 
+		you decide to take.
+	</p>
+	<p>
+		You can run all analyses for one of our benchmark programs (see <a href="#bench">below</a>) by executing the 
+		following commands:
+		{% highlight bash %}
+			$ cd <scalabench.tar.gz_extracted_location>
+			$ ./run <benchmark_name>
+		{% endhighlight %}
+		This will run each of our algorithms, RTA<sup>wala</sup>, and the regular Scala compiler on the given benchmark. 
+		The output of the plugin will be organized in sub-folders of scalabench, following the pattern: 
+		scalabench/dist/&lt;analysis_name&gt;/&lt;benchmark_name&gt;.
+	</p>
+	<p>
+		If you would like to run all analyses for all benchmark programs at once, you can use the scripts provided in 
+		scalabench.tar.gz as follows:
+		{% highlight bash %}
+			$ cd <scalabench.tar.gz_extracted_location>
+			$ ./run-all
+		{% endhighlight %}
+		If the script crashes due to memory-related issues, please set the environment variable $JAVA_OPTS with a 
+		higher value for the -Xmx option. If everything goes well, this process can take ~ 4.5 hours. So it might be a 
+		good idea to grab a cup of coffee, read a book, or attend to other items on your agenda while the scripts 
+		finish running. The output of the script is organized in a similar fashion to analyzing just one benchmark. 
+		Next, the script checks if the generated call graphs satisfy the following sanity check: <br />
+		TCA<sup>expand-this</sup> &sube; TCA<sup>expand</sup> &sube; TCA<sup>bounds</sup> &sube; TCA<sup>names</sup> &sube; RA.
+	</p>
+	<p>
+		Finally, the script generates the data we present in our 
+		<a href="{{ "/resources/pubs/confs/ecoop14.pdf" |  prepend: site.baseurl }}" target="_blank">ECOOP'14 paper</a>
+		in both CSV format (under scalabench/csv) and LaTeX format (under scalabench/tex). If you have LaTeX installed, 
+		run the following script and the resulting PDF will be at scalabench/Results.pdf
+		{% highlight bash %}
+			$ cd <scalabench.tar.gz_extracted_location>
+			$ ./makelatex
+		{% endhighlight %}
+	</p>
+	
+	<h2 id="bench">Benchmark programs</h2>
+	<table>
+		<thead>
+			<tr>
+				<th style="text-align:left">Program</th>
+				<th style="text-align:left">Description</th>
+				<th style="text-align:left">Source</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td class="sc">argot</td>
+				<td>a command-line parser for Scala</td>
+				<td><a href="http://github.com/bmc/argot" target="_blank">http://github.com/bmc/argot</a></td>
+			</tr>
+			<tr>
+				<td class="sc">ensime</td>
+				<td>a Scala Interaction Mode for Emacs</td>
+				<td><a href="http://github.com/aemoncannon/ensime" target="_blank">http://github.com/aemoncannon/ensime</a></td>
+			</tr>
+			<tr>
+				<td class="sc">fimpp</td>
+				<td>an interpreter for FIM++</td>
+				<td><a href="http://github.com/KarolS/fimpp" target="_blank">http://github.com/KarolS/fimpp</a></td>
+			</tr>
+			<tr>
+				<td class="sc">kiama</td>
+				<td>a Scala library for language processing</td>
+				<td><a href="http://code.google.com/p/kiama" target="_blank">http://code.google.com/p/kiama</a></td>
+			</tr>
+			<tr>
+				<td class="sc">phantm</td>
+				<td>a static analyzer for PHP applications</td>
+				<td><a href="http://github.com/colder/phantm" target="_blank">http://github.com/colder/phantm</a></td>
+			</tr>
+			<tr>
+				<td class="sc">scalaxb</td>
+				<td>an XML data-binding tool for Scala</td>
+				<td><a href="http://github.com/eed3si9n/scalaxb" target="_blank">http://github.com/eed3si9n/scalaxb</a></td>
+			</tr>
+			<tr>
+				<td class="sc">scalisp</td>
+				<td>a LISP interpreter written in Scala</td>
+				<td><a href="http://github.com/Mononofu/Scalisp" target="_blank">http://github.com/Mononofu/Scalisp</a></td>
+			</tr>
+			<tr>
+				<td class="sc">see</td>
+				<td>a Scala arithmetic expression engine</td>
+				<td><a href="http://scee.sourceforge.net" target="_blank">http://scee.sourceforge.net</a></td>
+			</tr>
+			<tr>
+				<td class="sc">squeryl</td>
+				<td>a Scala ORM and DSL for SQL databases</td>
+				<td><a href="http://github.com/max-l/Squeryl" target="_blank">http://github.com/max-l/Squeryl</a></td>
+			</tr>
+			<tr>
+				<td class="sc">tictactoe</td>
+				<td>the classic "tic-tac-toe" game</td>
+				<td><a href="http://github.com/nickknw/arbitrarily-sized-tic-tac-toe" target="_blank">http://github.com/nickknw/arbitrarily-sized-tic-tac-toe</a></td>
+			</tr>
+		</tbody>
+	</table>
 </div>
