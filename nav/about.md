@@ -17,3 +17,7 @@ You can find my thesis: **The Separate Compilation Assumption** <a href="http://
 Prior to that, I received my MMath degree at the University of Waterloo in 2010 when I was part of the 
 <a href="http://netlab.cs.uwaterloo.ca/security" target="_blank">Security Research Group</a> team led by 
 <a href="http://rboutaba.cs.uwaterloo.ca/index.html" target="_blank">Raouf Boutaba</a>.
+
+My research interests revolve around practical static program analyses and call graph construction algorithms.
+More on the projects I have been and currently involved in can be found at my 
+<a href="{{ "/research" |  prepend: site.baseurl }}">research page</a>. 
