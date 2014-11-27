@@ -14,7 +14,7 @@ programs by the word "benchmarks" throughout the rest of this tutorial.
 ## Prerequisites ##
 You can either:
 
-1. download <a href="{{ "/resources/averroes/tutorial/averroes-home.tar.gz" | prepend: site.baseurl }}">averroes-home.tar.gz</a> 
+1. download <a href="http://www.dropbox.com/s/s4sycgwqxleg3xv/averroes-home.tar.gz" target="_blank">averroes-home.tar.gz</a> 
 (the complete archive of files needed for this tutorial) on a machine that runs Java 5.0 or above (both JDK and JRE are 
 expected to be installed).
 * download <a href="http://www.dropbox.com/s/vbj5ha1s5sx6z6p/ECOOP13.ova" target="_blank">this</a> virtual machine that 
