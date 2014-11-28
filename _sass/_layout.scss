@@ -300,23 +300,11 @@
     float: right;
 
     .pub-link {
-        // line-height: 16px;
-        margin: 0;
-        padding: 0 0.25em;
-        
-        // Remove padding-left for first child
-        &:first-child {
-            padding-left: 0;
-        }
-        
-        // Remove padding-right for last child
-        &:last-child {
-            padding-right: 0;
-        }
-        
-        // Set border-right for all but the last child 
-        &:not(:first-child) {
-        	border-left: 1px solid $text-color;
+        // Set margin-right for all but the last child 
+        &:not(:last-child) {
+        	margin: 0 0.5em 0 0;
+        	padding: 0 0.25em 0 0;
+        	border-right: 1px solid $text-color;
         }
         
         > img {
@@ -324,15 +312,4 @@
         	max-height: 16px;
         }
     }
-}
-
-#publication #links img {
-	border-right: 1px solid #808080;
-	padding: 0 0.75em 0 0.5em;
-	width: 16px;
-	height: 16px;
-}
-
-#publication #links img.last {
-	border-right: none;
 }
