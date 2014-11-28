@@ -18,18 +18,9 @@ weight: 3
 {% include thesis/Ali14.html %}
 {% include thesis/Ali10.html %}
 
-
-<h2>Artifacts</h2>
-
-
-
 <h2>Short Papers</h2>
-
-
-
-<h2>Demos</h2>
-
-
+{% include conf/giis/AliB09.html %}
+{% include conf/giis/AliAB09.html %}
 
 <h2>Posters</h2>
-
+{% include poster/ecoop/Ali13.html %}
