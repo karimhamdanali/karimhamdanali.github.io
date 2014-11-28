@@ -296,9 +296,17 @@
 /**
  * Publication links
  */
+.publication {
+	margin-bottom: $base-font-size;
+}
+
+.publication-title {
+	width: 85%;
+	display: inline-block;
+}
+
 .publication-links {
     float: right;
-
     .pub-link {
         // Set margin-right for all but the last child 
         &:not(:last-child) {
