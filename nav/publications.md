@@ -6,4 +6,29 @@ permalink: /publications/
 weight: 3
 ---
 
-This is the main home page for my publications.
+## Journal Articles ##
+
+
+
+## Conference Papers ##
+
+
+
+## Theses ##
+
+
+
+## Artifacts ##
+
+
+
+## Short Papers ##
+
+
+
+## Demos ##
+
+
+
+## Posters ##
+
