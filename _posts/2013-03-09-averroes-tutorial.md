@@ -6,10 +6,12 @@ permalink: /research/averroes-tutorial
 group: research
 ---
 
-This page steps through the process to download and run Averroes to analyze the programs from the 
+This tutorial steps through the process to download and run Averroes to analyze the programs from the 
 <a href="http://sourceforge.net/projects/dacapobench/files/archive/2006-10-MR2/" target="_blank">DaCapo-2006-10MR2</a> 
 and the <a href="http://www.spec.org/jvm98/" target="_blank">SPEC JVM98</a> benchmarks. I will refer to all these 
 programs by the word "benchmarks" throughout the rest of this tutorial.
+
+{{ site.excerpt_separator }}
 
 ## Prerequisites ##
 You can either:
