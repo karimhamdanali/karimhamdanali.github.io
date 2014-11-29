@@ -8,7 +8,7 @@ I have just started a new exciting chapter in my life. New job, new country, a w
 my position as a postdoctoral researcher at the Technische Universit&auml;t Darmstadt.
 
 <figure>
-	<img width="100%" src="{{ "/resources/images/tud.png" |  prepend: site.baseurl }}" alt="Technische Univeristat Darmstadt"></img>
+	<img width="25%" src="{{ "/resources/images/tud.png" |  prepend: site.baseurl }}" alt="Technische Univeristat Darmstadt"></img>
 </figure>
 
 I am working within the [Secure Software Engineering (SSE) group][sseblog] which is led by [Eric Bodden][bodden].
