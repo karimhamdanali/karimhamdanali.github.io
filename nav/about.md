@@ -10,7 +10,7 @@ Since October 2014, I have started a new step in my career as a postdoctoral res
 Darmstadt, Germany. I am working within the 
 <a href="http://sseblog.ec-spride.de/" target="_blank">Secure Software Engineering (SSE) Group</a> led by 
 <a href="http://bodden.de/" target="_blank">Eric Bodden</a>. Just before moving to Germany, I finished my Ph.D. studies 
-under the supervision of <a href="http://plg.uwaterloo.ca/~olhotak/" target="_blank">Ond&rcaron;ej Lhot&aacute;k</a> in 
+under the supervision of <a href="http://plg.uwaterloo.ca/~olhotak/" target="_blank">Ondřej Lhoták</a> in 
 the <a href="http://plg.uwaterloo.ca/" target="_blank">Programming Languages Group</a> at the University of Waterloo. 
 You can find my thesis: **The Separate Compilation Assumption** <a href="http://hdl.handle.net/10012/8835">here</a>. 
                 	
