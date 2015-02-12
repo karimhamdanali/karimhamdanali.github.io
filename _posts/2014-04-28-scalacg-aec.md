@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Hallo Darmstadt :-)"
+title:  "ECOOP'14 Distinguished Artifact Award"
 date:   2014-07-31 19:00:00
 categories: research
-permalink: /scalacg-aec/
+permalink: /scalacg-daa/
 ---
 
 <figure>
