@@ -145,3 +145,12 @@ where options can be any combination of the following:
   	-a2l : print application to library edges
   	-l2a : print library to application edges
 ```
+
+## ECOOP'13 Validated Artifact ##
+
+<figure>
+	<img width="25%" src="{{ "/resources/images/aec-badge-ecoop.png" |  prepend: site.baseurl }}" alt="ECOOP AEC"></img>
+</figure>
+
+All of the experiments that are discussed in the tutorial above is part of the artifact we have submitted to ECOOP'13 in Montpellier, France. 
+**averroes** has been verified by the Artifact Evaluation Committee to be consistent, complete, well-documented, and easy to reuse. 
