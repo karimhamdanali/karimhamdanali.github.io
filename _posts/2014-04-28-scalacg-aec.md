@@ -10,4 +10,4 @@ permalink: /scalacg-daa/
 	<img width="25%" src="{{ "/resources/images/daa.png" |  prepend: site.baseurl }}" alt="ECCOP AEC"></img>
 </figure>
 
-*scalacg* just won the Distinguished Artifact Award at ECOOP'14 in Uppsala, Sweden.
+**scalacg** just won the Distinguished Artifact Award at ECOOP'14 in Uppsala, Sweden.
