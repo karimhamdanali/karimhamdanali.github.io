@@ -4,6 +4,7 @@ title: Publications
 navtitle: Publications
 permalink: /publications/
 weight: 3
+group: pubs
 ---
 
 ## Journal Articles ##
