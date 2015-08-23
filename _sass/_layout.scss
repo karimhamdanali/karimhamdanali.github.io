@@ -5,15 +5,15 @@
     //border-top: 5px solid $grey-color-dark;
     //border-bottom: 1px solid $grey-color-light;
     background: $grey-color;
-    min-height: 56px;
+    min-height: $header-height;
 
     // Positioning context for the mobile navigation icon
     position: relative;
 }
 
 .site-title {
-    font-size: 26px;
-    line-height: $profilepic-size;
+    //font-size: 26px;
+    line-height: $header-height;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -24,26 +24,26 @@
     }
     
     > img {
-        max-height: $profilepic-size;
-        max-width:  $profilepic-size;
+        max-height: $header-height;
+        max-width:  $header-height;
         border-radius: 50%;
         margin: 2px;
         
         @include media-query($on-palm) {
-            max-height: 46px;
-            max-width:  46px;
+            max-height: $header-height;
+            max-width:  $header-height;
             margin:     1px;
         }
     }
     
     @include media-query($on-palm) {
-        line-height: 56px;
+        line-height: $header-height;
     }
 }
 
 .site-nav {
     float: right;
-    line-height: $profilepic-size;
+    line-height: $header-height;
 
     .menu-icon {
         display: none;
@@ -52,7 +52,7 @@
     .page-link {
         line-height: $base-line-height;
         color: #fff;
-        font-size: $base-font-size * 1.25;
+        font-size: $page-nav-font;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -68,7 +68,7 @@
     .page-link-active {
         line-height: $base-line-height;
         color: #fff;
-        font-size: $base-font-size * 1.25;
+        font-size: $page-nav-font;
         opacity: 0.65;
 
         // Gaps between nav items, but not on the first one
@@ -152,7 +152,7 @@
 }
 
 .footer-heading {
-    font-size: 18px;
+    font-size: $footer-font-size;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -163,7 +163,7 @@
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
+    font-size: $footer-font-size;
     //color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
@@ -331,5 +331,24 @@
     
     @include media-query($on-palm) {
         height: 275px;
+    }
+}
+
+/**
+ * Profile picture on home page
+ */
+.profile-home {
+    float: right;
+    max-height: $profilepic-size;
+    max-width:  $profilepic-size;
+    border-radius: 5%;
+    margin-left: 2px;
+    margin-bottom: 2px;
+    
+    @include media-query($on-palm) {
+    	max-height: $profilepic-size * 0.5;
+        max-width:  $profilepic-size * 0.5;
+        margin-left: 1px;
+    	margin-bottom: 1px;
     }
 }

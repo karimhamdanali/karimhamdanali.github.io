@@ -1,9 +1,10 @@
 <header class="site-header">    
     <div class="wrapper">
-        <a class="site-title" href="{{ "/" | prepend: site.baseurl }}">
-            <img src="{{ "/resources/images/karim.jpg" | prepend: site.baseurl }}" alt="Karim Ali" />
-        </a>
-
+    	<a class="site-title" href="{{ "/" | prepend: site.baseurl }}"
+    	{% if page.title == 'Home' %} style="visibility: hidden" {% endif %}>
+        	<img src="{{ "/resources/images/karim.jpg" | prepend: site.baseurl }}" alt="Karim Ali" />
+		</a>
+        
         <nav class="site-nav">
             <a href="#" class="menu-icon">
                 <svg viewBox="0 0 18 15">
@@ -14,6 +15,11 @@
             </a>
 
             <div class="trigger">
+            	{% if page.title == 'News' %}
+                	<a class="page-link-active" href="{{ "/news/index.html" | prepend: site.baseurl }}">News</a>
+                {% else %}
+                    <a class="page-link" href="{{ "/news/index.html" | prepend: site.baseurl }}">News</a>
+                {% endif %}
             	{% assign pages = site.pages | sort:'weight', 'last'  %}
                 {% for node in pages %}
                 	{% if node.navtitle and node.url == page.url %}

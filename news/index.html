@@ -1,0 +1,43 @@
+---
+layout: default
+title: News
+---
+
+<div class="home">
+    <!-- This loops through the paginated posts -->
+	<ul class="post-list">
+	{% for post in paginator.posts %}
+		<li>
+			<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+			<h2>
+				<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</h2>
+			{% if post.content contains site.excerpt_separator %}
+				{{ post.content | split:site.excerpt_separator | first }}
+				<a href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
+			{% else %}
+				{{ post.content }}
+			{% endif %}
+		</li>
+    {% endfor %}
+    </ul>
+    
+	<!-- Pagination links -->
+	<div class="pagination">
+		<a href="{{ "/news/index.html" | prepend: site.baseurl }}" class="previous">&lt;&lt;</a>
+		{% if paginator.previous_page %}
+			<a href="{{ paginator.previous_page_path }}" class="previous">&lt;</a>
+		{% else %}
+			<span class="previous">&lt;</span>
+		{% endif %}
+		<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+		{% if paginator.next_page %}
+			<a href="{{ paginator.next_page_path }}" class="next">&gt;</a>
+		{% else %}
+			<span class="next ">&gt;</span>
+		{% endif %}
+		<a href="{{ "/news/page" | append: paginator.total_pages | prepend: site.baseurl}}" class="next">&gt;&gt;</a>
+	</div>
+
+  	<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+</div>

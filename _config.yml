@@ -28,6 +28,7 @@ quoteby: Steve Jobs
 markdown: kramdown
 highlighter: pygments
 paginate: 3
+paginate_path: "/news/page:num/"
 excerpt_separator: <!--more-->
 
 # Site-wide variables
