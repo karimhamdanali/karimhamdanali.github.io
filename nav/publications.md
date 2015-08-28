@@ -3,7 +3,7 @@ layout: page
 title: Publications
 navtitle: Publications
 permalink: /publications/
-weight: 3
+weight: 1
 group: pubs
 ---
 

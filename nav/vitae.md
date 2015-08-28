@@ -3,7 +3,7 @@ layout: page
 title: Vitae
 navtitle: Vitae
 permalink: /vitae/
-weight: 6
+weight: 5
 ---
 
 <iframe class="pdf-viewer" src="{{ "/resources/ViewerJS/#../docs/ali-cv.pdf" | prepend: site.baseurl }}" allowfullscreen webkitallowfullscreen>

@@ -15,11 +15,11 @@
             </a>
 
             <div class="trigger">
-            	{% if page.title == 'News' %}
+            	<!-- {% if page.title == 'News' %}
                 	<a class="page-link-active" href="{{ "/news/index.html" | prepend: site.baseurl }}">News</a>
                 {% else %}
                     <a class="page-link" href="{{ "/news/index.html" | prepend: site.baseurl }}">News</a>
-                {% endif %}
+                {% endif %} -->
             	{% assign pages = site.pages | sort:'weight', 'last'  %}
                 {% for node in pages %}
                 	{% if node.navtitle and node.url == page.url %}

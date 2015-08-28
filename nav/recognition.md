@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Recognition
-navtitle: Recognition
 permalink: /recognition/
 weight: 5
 group: awards
