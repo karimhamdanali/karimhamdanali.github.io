@@ -212,3 +212,19 @@ pre {
 .sc {
 	font-variant: small-caps;
 }
+
+/**
+ * Tables
+ */
+.schedule { 
+    border-collapse: collapse;
+    
+    th { 
+    	border-top: 2pt solid black;
+    	border-bottom: 2pt solid black;
+    }
+    
+    td {
+		border-bottom: 1pt solid black;
+	} 
+}
