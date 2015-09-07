@@ -10,7 +10,7 @@ group: teaching
 ## Winter Semester 2015/16 ##
 
 <ul class="post-list">
-{% assign posts = site.posts | | where: 'group','teaching' %}
+{% assign posts = site.posts | where: 'group','teaching' | sort:'weight', 'last' %}
 {% for post in posts %}
 <li>
 	<!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
