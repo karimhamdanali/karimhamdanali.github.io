@@ -3,7 +3,7 @@ layout: page
 title: Vitae
 navtitle: Vitae
 permalink: /vitae/
-weight: 5
+weight: 6
 ---
 
 <iframe class="pdf-viewer" src="{{ "/resources/pdf.js/web/viewer.html" | prepend: site.baseurl }}">

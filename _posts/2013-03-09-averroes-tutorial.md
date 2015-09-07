@@ -3,7 +3,8 @@ layout: post
 title: Analyzing DaCapo and SPEC JVM with averroes - Tutorial
 date: 2013-03-09 01:41:00
 permalink: /averroes-tutorial
-group: research
+group: tutorials
+weight: 1
 ---
 
 This tutorial steps through the process to download and run Averroes to analyze the programs from the 
