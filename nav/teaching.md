@@ -7,6 +7,8 @@ weight: 4
 group: teaching
 ---
 
-## Winter Semester 2015/16 ##
+### Winter Semester 2015/16 ###
 
-{% include filteredposts.html %}
+* [Static Analysis Seminar (SAS)][sas]
+
+[sas]:   http://sseblog.ec-spride.de/teaching/sas/
