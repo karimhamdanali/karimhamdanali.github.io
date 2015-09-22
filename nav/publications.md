@@ -25,7 +25,7 @@ group: pubs
 {% include conf/giis/AliAB09.html %}
 
 ## Posters ##
-{% include poster/ecoop/Ali13.html %}
+{% include poster/ecoop/AliL13.html %}
 
 ---
 
