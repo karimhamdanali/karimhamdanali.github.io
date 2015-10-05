@@ -8,6 +8,7 @@ group: pubs
 ---
 
 ## Journal Articles ##
+{% include journal/tosem/AliRLDT15.html %}
 {% include journal/ijcsns/AlyNH08.html %}
 
 ## Conference Papers ##
