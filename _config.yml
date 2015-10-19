@@ -36,5 +36,6 @@ keywords: program analysis, compiler, static analysis, java, scala, call graphs,
 copyright: Copyright (c) Karim Ali
 
 # Plugins
-#gems:
+gems:
+  - jekyll-sitemap
 #  - jemoji
