@@ -11,4 +11,4 @@ group: teaching
 
 * [Static Analysis Seminar (SAS)][sas]
 
-[sas]:   http://sseblog.ec-spride.de/teaching/sas/
+[sas]:   {{ "/sas/" | prepend: site.baseurl }}

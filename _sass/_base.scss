@@ -226,5 +226,13 @@ pre {
     
     td {
 		border-bottom: 1pt solid black;
-	} 
+	}
+	
+	th:last-child, td:last-child {
+    	text-align: right;
+  	}
+  	
+  	td:last-child[colspan] {
+    	text-align: left;
+  	}
 }
