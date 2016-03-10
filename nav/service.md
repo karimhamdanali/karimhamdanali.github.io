@@ -8,23 +8,23 @@ group: service
 ---
 
 # Conference Committees #
-* **ISSTA '16**, Artifact Evaluation Committee Member.
-* **PLDI '15**, Artifact Evaluation Committee Member.
-* **ECOOP '15**, Artifact Evaluation Committee Member.
-* **ECOOP '14**, Artifact Evaluation Committee Member.
+* **ISSTA &#39;16**, Artifact Evaluation Committee Member
+* **PLDI &#39;15**, Artifact Evaluation Committee Member
+* **ECOOP &#39;15**, Artifact Evaluation Committee Member
+* **ECOOP &#39;14**, Artifact Evaluation Committee Member
 
 # Conference Organization #
-* **ECOOP '18**, Publicity Chair and Webmaster.
-* **ISSTA '18**, Publicity Chair and Webmaster.
+* **ECOOP &#39;18**, Publicity Chair and Webmaster
+* **ISSTA &#39;18**, Publicity Chair and Webmaster
 
 # Journal Reviewer #
-* **SCP**, Science of Computer Programming, 2015.
-* **TSE**, Transactions on Software Engineering, 2013.
+* **SCP**, Science of Computer Programming, 2015
+* **TSE**, Transactions on Software Engineering, 2013
 
 # Workshop Organization #
-* [DECAF][decaf] @ ISSTA'16.
-* [SOAP][soap] @ PLDI'16.
-* [Workshop on WALA][wow] @ PLDI'15.
+* [DECAF][decaf] @ ISSTA &#39;16
+* [SOAP][soap] @ PLDI &#39;16
+* [Workshop on WALA][wow] @ PLDI &#39;15
 
 [wow]: http://researcher.watson.ibm.com/researcher/view_group.php?id=5750
 [soap]: http://www.sable.mcgill.ca/soap/
