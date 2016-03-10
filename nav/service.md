@@ -22,6 +22,10 @@ group: service
 * **TSE**, Transactions on Software Engineering, 2013.
 
 # Workshop Organization #
+* Co-organizer, [DECAF][decaf], co-located with ISSTA'16.
+* Co-organizer, [SOAP][soap], co-located with PLDI'16.
 * Co-organizer, [Workshop on WALA][wow], co-located with PLDI'15.
 
 [wow]: http://researcher.watson.ibm.com/researcher/view_group.php?id=5750
+[soap]: http://www.sable.mcgill.ca/soap/
+[decaf]: http://karimali.ca
