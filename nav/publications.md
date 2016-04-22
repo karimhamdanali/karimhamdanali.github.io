@@ -12,6 +12,7 @@ group: pubs
 {% include journal/ijcsns/AlyNH08.html %}
 
 ## Conference Papers ##
+{% include conf/ecoop/SpaethNAB16.html %}
 {% include conf/oopsla/ArztNABEM15.html %}
 {% include conf/ecoop/AliRLDT14.html %}
 {% include conf/ecoop/AliL13.html %}
