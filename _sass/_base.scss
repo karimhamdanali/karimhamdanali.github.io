@@ -216,7 +216,7 @@ pre {
 /**
  * Tables
  */
-.schedule { 
+.classschedule { 
     border-collapse: collapse;
     
     th { 
@@ -235,4 +235,45 @@ pre {
   	td:last-child[colspan] {
     	text-align: left;
   	}
+}
+
+.schedule { 
+    border-collapse: collapse;
+   	width: 100%;
+    
+    .session {
+    	font-weight: bold;
+    	border-top: 2pt solid black;
+    	border-bottom: none;
+    }
+    
+    .chairs {
+    	font-weight: bold;
+    	font-style: italic;
+    	font-size: $small-font-size;
+    	border-top: none;
+    }
+    
+    .lastchairs {
+    	font-weight: bold;
+    	font-style: italic;
+    	font-size: $small-font-size;
+    	border-top: none;
+    	border-bottom: 2pt solid black;
+    }
+    
+    .title {
+    	border-bottom: none;
+    }
+    
+    .speakers {
+    	font-style: italic;
+    	font-size: $small-font-size;
+    	border-top: none;
+    }
+    
+    td {
+    	border-top: 1pt solid black;
+		border-bottom: 1pt solid black;
+	}
 }
