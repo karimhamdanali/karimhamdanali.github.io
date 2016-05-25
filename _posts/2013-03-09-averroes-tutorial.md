@@ -22,6 +22,13 @@ You can either:
 
 After the download is complete, extract `averroes-home.tar.gz` to any directory you want.
 
+## Source code ##
+The source code for `averroes` and this tutorial is available at the following links:
+
+* [averroes](https://github.com/karimhamdanali/averroes){:target="_blank"}
+* [averroes-experiments](https://github.com/karimhamdanali/averroes-experiments){:target="_blank"}
+* [averroes-experiments-data](https://github.com/karimhamdanali/averroes-experiments-data){:target="_blank"}
+
 ## Contents of `averroes-home` ##
 The directory `averroes-home` should now contain the following artifacts:
 
