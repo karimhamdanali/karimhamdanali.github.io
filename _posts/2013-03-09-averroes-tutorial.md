@@ -17,8 +17,8 @@ programs by the word **benchmarks** throughout the rest of this tutorial.
 ## Prerequisites ##
 You can either:
 
-1. download [averroes-home.tar.gz](){:target="_blank"} (the complete archive of files needed for this tutorial) on a machine that runs Java 1.7 or above (both JDK and JRE are expected to be installed), OR
-2. download [this virtual machine](){:target="_blank"} that comes with all the prerequisites pre-installed and contains `averroes-home.tar.gz` on the desktop. Both the user name and the password for the administrator account on the virtual machine are `aec`. The virtual machine requires at least 10GB of RAM and has been tested on VirtualBox Version 5.0.20 r106931 on a MacBook Pro with 16GB RAM and running OS X El Capitan 10.11.5.  
+1. download [averroes-home.tar.gz](http://bit.ly/averroes-home){:target="_blank"} (~174MB, and represents the complete archive of files needed for this tutorial) on a machine that runs Java 1.7 or above (both JDK and JRE are expected to be installed), OR
+2. download [this virtual machine](http://bit.ly/averroes-vm){:target="_blank"} (~12GB) that comes with all the prerequisites pre-installed and contains `averroes-home.tar.gz` on the desktop. Both the user name and the password for the administrator account on the virtual machine are `aec`. The virtual machine requires at least 10GB of RAM and has been tested on VirtualBox Version 5.0.20 r106931 on a MacBook Pro with 16GB RAM and running OS X El Capitan 10.11.5.  
 
 After the download is complete, extract `averroes-home.tar.gz` to any directory you want.
 
