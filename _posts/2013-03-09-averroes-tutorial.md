@@ -17,12 +17,8 @@ programs by the word **benchmarks** throughout the rest of this tutorial.
 ## Prerequisites ##
 You can either:
 
-1. download <a href="">averroes-home.tar.gz</a> 
-(the complete archive of files needed for this tutorial) on a machine that runs Java 1.7 or above (both JDK and JRE are 
-expected to be installed), OR
-2. download <a href="" target="_blank">this</a> virtual machine that 
-comes with all the prerequisites pre-installed and contains `averroes-home.tar.gz` on the desktop. Both the user name and the password 
-for the administrator account on the virtual machine are "aec", the machine name is "toplas". The virtual machine requires at least 10GB of RAM and has been tested on VirtualBox Version 5.0.20 r106931 on a MacBook Pro with 16GB RAM and running OS X El Capitan 10.11.5.  
+1. download [averroes-home.tar.gz](){:target="_blank"} (the complete archive of files needed for this tutorial) on a machine that runs Java 1.7 or above (both JDK and JRE are expected to be installed), OR
+2. download [this virtual machine](){:target="_blank"} that comes with all the prerequisites pre-installed and contains `averroes-home.tar.gz` on the desktop. Both the user name and the password for the administrator account on the virtual machine are "aec", the machine name is "toplas". The virtual machine requires at least 10GB of RAM and has been tested on VirtualBox Version 5.0.20 r106931 on a MacBook Pro with 16GB RAM and running OS X El Capitan 10.11.5.  
 
 After the download is complete, extract `averroes-home.tar.gz` to any directory you want.
 
@@ -114,10 +110,10 @@ where options can be any combination of the following:
   -lib file : ignore methods in packages listed in file
 ~~~
 
-## ECOOP'13 Validated Artifact ##
+## ECOOP &#39;13 Validated Artifact ##
 
 <figure>
 	<img width="25%" src="{{ "/resources/images/aec-badge-ecoop.png" |  prepend: site.baseurl }}" alt="ECOOP AEC"></img>
 </figure>
 
-Most of the experiments that are discussed in the tutorial above was part of the artifact we have submitted to ECOOP'13 in Montpellier, France. `averroes` has been verified by the Artifact Evaluation Committee to be consistent, complete, well-documented, and easy to reuse. 
+Most of the experiments that are discussed in the tutorial above was part of the artifact we have submitted to ECOOP &#39;13 in Montpellier, France. `averroes` has been verified by the Artifact Evaluation Committee to be consistent, complete, well-documented, and easy to reuse. 
