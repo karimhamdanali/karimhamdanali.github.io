@@ -270,6 +270,14 @@ pre {
     	font-style: italic;
     	font-size: $small-font-size;
     	border-top: none;
+    	
+    	.pub-link {
+    		// PDF links 
+    		> img {
+        		max-width: 16px;
+        		max-height: 16px;
+        	}
+        }
     }
     
     td {
