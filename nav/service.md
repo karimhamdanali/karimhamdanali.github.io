@@ -6,23 +6,24 @@ permalink: /service/
 weight: 5
 group: service
 ---
-
-# Conference Committees #
-* **ISSTA &#39;16**, Artifact Evaluation Committee Member
-* **PLDI &#39;15**, Artifact Evaluation Committee Member
-* **ECOOP &#39;15**, Artifact Evaluation Committee Member
-* **ECOOP &#39;14**, Artifact Evaluation Committee Member
-
-# Conference Organization #
-* **ECOOP &#39;18**, Publicity Chair and Webmaster
-* **ISSTA &#39;18**, Publicity Chair and Webmaster
-
-# Journal Reviewer #
-* **SCP**, Science of Computer Programming, 2015
-* **TSE**, Transactions on Software Engineering, 2013
-
-# Workshop Organization #
-* <a href="{{ "/decaf" | prepend: site.baseurl }}">DECAF @ ISSTA &#39;16</a>
-* [Workshop on WALA @ PLDI &#39;15][wow]
+* **2018**
+  * ECOOP Organizing Committee
+  * ISSTA Organizing Committee
+* **2017**
+  * Onward! PC
+  * SOAP PC Co-Chair
+  * FSE Demonstration Track Co-Chair
+* **2016**
+  * ISSTA Artifact Evaluation PC
+  * <a href="{{ "/decaf" | prepend: site.baseurl }}">DECAF @ ISSTA &#39;16</a> Co-Organizer
+* **2015**
+  * PLDI Artifact Evaluation PC
+  * [Workshop on WALA][wow] Co-Organizer
+  * ECOOP Artifact Evaluation PC
+  * SCP Reviewer
+* **2014**
+  * ECOOP Artifact Evaluation PC
+* **2013**
+  * TSE Reviewer
 
 [wow]: http://researcher.watson.ibm.com/researcher/view_group.php?id=5750
