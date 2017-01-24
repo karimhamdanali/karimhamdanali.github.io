@@ -159,40 +159,22 @@
 }
 
 .header-col-1 {
-    width: -webkit-calc(27% - (#{$spacing-unit} / 2));
-    width:         calc(27% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
+    margin-right: $spacing-unit * 1.5;
 }
 
 .header-col-2 {
-    width: -webkit-calc(43% - (#{$spacing-unit} / 2));
-    width:         calc(43% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+    width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
 .header-col-3 {
-    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
-    width:         calc(30% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
 }
 
-// @include media-query($on-laptop) {
-//     .header-col-1,
-//     .header-col-3 {
-//         width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-//         width:         calc(50% - (#{$spacing-unit} / 2));
-//     }
-//
-//     .header-col-2 {
-//         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-//         width:         calc(100% - (#{$spacing-unit} / 2));
-//     }
-// }
-
 @include media-query($on-palm) {
-    // .header-col {
-    //     float: none;
-    //     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    //     width:         calc(100% - (#{$spacing-unit} / 2));
-    // }
-
     .header-col-1 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
@@ -389,40 +371,11 @@
 }
 
 /**
- * PDF Viewer
- */
-.pdf-viewer {
-    height: 950px;
-    width: 99%;
-
-    @include media-query($on-palm) {
-        height: 275px;
-        width: 70%;
-    }
-}
-
-/**
  * Profile picture on home page
  */
-.profile-home {
-    float: right;
-    max-height: $profilepic-size;
-    max-width:  $profilepic-size;
-    border-radius: 5%;
-    margin-left: 2px;
-    margin-bottom: 2px;
-
-    @include media-query($on-palm) {
-    	max-height: $profilepic-size * 0.5;
-        max-width:  $profilepic-size * 0.5;
-        margin-left: 1px;
-    	margin-bottom: 1px;
-    }
-}
-
 .profile-nav {
-    max-height: $profilepic-size;
-    max-width:  $profilepic-size;
+    // max-height: $profilepic-size;
+    // max-width:  $profilepic-size;
     border-radius: 5%;
     padding: 4px;
     width: 100%;
