@@ -198,11 +198,7 @@ pre {
         display: inline-block;
         width: 16px;
         height: 16px;
-        vertical-align: middle;
-
-        path {
-            fill: $grey-color;
-        }
+        vertical-align: middle
     }
 }
 
@@ -216,44 +212,44 @@ pre {
 /**
  * Tables
  */
-.classschedule { 
+.classschedule {
     border-collapse: collapse;
-    
-    th { 
+
+    th {
     	border-top: 2pt solid black;
     	border-bottom: 2pt solid black;
     }
-    
+
     td {
 		border-bottom: 1pt solid black;
 	}
-	
+
 	th:last-child, td:last-child {
     	text-align: right;
   	}
-  	
+
   	td:last-child[colspan] {
     	text-align: left;
   	}
 }
 
-.schedule { 
+.schedule {
     border-collapse: collapse;
    	width: 100%;
-    
+
     .session {
     	font-weight: bold;
     	border-top: 2pt solid black;
     	border-bottom: none;
     }
-    
+
     .chairs {
     	font-weight: bold;
     	font-style: italic;
     	font-size: $small-font-size;
     	border-top: none;
     }
-    
+
     .lastchairs {
     	font-weight: bold;
     	font-style: italic;
@@ -261,25 +257,25 @@ pre {
     	border-top: none;
     	border-bottom: 2pt solid black;
     }
-    
+
     .title {
     	border-bottom: none;
     }
-    
+
     .speakers {
     	font-style: italic;
     	font-size: $small-font-size;
     	border-top: none;
-    	
+
     	.pub-link {
-    		// PDF links 
+    		// PDF links
     		> img {
         		max-width: 16px;
         		max-height: 16px;
         	}
         }
     }
-    
+
     td {
     	border-top: 1pt solid black;
 		border-bottom: 1pt solid black;

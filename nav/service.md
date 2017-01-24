@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Service
-navtitle: Service
 permalink: /service/
 weight: 5
 group: service
@@ -11,8 +10,10 @@ group: service
   * ISSTA Organizing Committee
 * **2017**
   * Onward! PC
-  * SOAP PC Co-Chair
+  * WALA Hackathon @ PLDI Co-Organizer
+  * SOAP @ PLDI PC Co-Chair
   * FSE Demonstration Track Co-Chair
+  * CC Sub-reviewer
 * **2016**
   * ISSTA Artifact Evaluation PC
   * <a href="{{ "/decaf" | prepend: site.baseurl }}">DECAF @ ISSTA &#39;16</a> Co-Organizer

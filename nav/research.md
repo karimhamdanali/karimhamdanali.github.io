@@ -1,30 +1,25 @@
 ---
-layout: page
+layout: default
 title: Research
-navtitle: Research
 permalink: /research/
-weight: 2
+weight: 1
 group: research
+redirect_from: "/"
 ---
 
-## Research Interests ##
-Very few of static analyses make their way to real-world compilers. This is usually due to the unreasonable 
-assumptions these analyses make that might not applicable in realistic scenarios. That is why my primary research 
-focus is about designing practical static analyses.
-
-In general, the following areas of research intrigue me the most:
+Few static analyses make their way to the real-world due to the unrealistic assumptions that they make. My primary research interest is to develop and evaluate various program analysis techniques that can be used in practice. In particular, I am interested in researching the following areas:
 
 * partial program analysis
-* static analyses for Scala
-* analyzing dynamically-typed languages
-* static analyses in the context of secure software engineering
-
+* scalable and precise points-to/call graph analyses
+* usability of static analysis tools
+* JIT compiler optimizations
+* secure software engineering
+* GPU/FPGA program analysis and optimizations
 
 ## Current Projects ##
 {% include filteredposts.html %}
 
-
-## Inactive Projects ##
+## Past Projects ##
 
 * <a href="http://sourceforge.net/projects/algorizmi/" target="_blank">algorizmi</a>: a configurable virtual testbed for intrusion detection systems evaluation.
 * <a href="http://sourceforge.net/projects/beep/" target="_blank">beep</a>: a J2ME implementation of the Jabber protocol.

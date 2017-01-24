@@ -10,8 +10,12 @@ email: karim.ali@ualberta.ca
 phone: +496151869512
 phoneform: +49 6151 869-512
 group: Software Systems Group
+#groupweb: https://webdocs.cs.ualberta.ca/~systems/
+groupweb: "#"
 dept: Department of Computing Science
+deptweb: http://cs.ualberta.ca
 institution: University of Alberta
+institutionweb: http://ualberta.ca
 address: 3-42 Athabasca Hall
 city: Edmonton, Alberta
 zipcode: T6G 2E8
@@ -38,4 +42,5 @@ copyright: Copyright (c) Karim Ali
 # Plugins
 gems:
   - jekyll-sitemap
+  - jekyll-redirect-from
 #  - jemoji
