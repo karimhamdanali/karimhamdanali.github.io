@@ -148,7 +148,7 @@
 }
 
 .header-col-wrapper {
-    font-size: $footer-font-size;
+    font-size: $header-font-size;
     @extend %clearfix;
 }
 
@@ -176,7 +176,7 @@
 
 @include media-query($on-palm) {
     .header-col {
-      font-size: $footer-font-size * 0.5;
+      font-size: $header-font-size-small;
     }
 
     .header-col-1 {
