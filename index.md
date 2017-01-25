@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Research
-permalink: /research/
 weight: 1
 group: research
-redirect_from: "/"
 ---
 
 Few static analyses make their way to the real-world due to the unrealistic assumptions that they make. My primary research interest is to develop and evaluate various program analysis techniques that can be used in practice. In particular, I am interested in researching the following areas:

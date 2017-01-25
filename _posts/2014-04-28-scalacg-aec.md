@@ -8,7 +8,7 @@ group: awards
 ---
 
 <figure>
-	<img width="25%" src="{{ "/resources/images/daa.png" |  prepend: site.baseurl }}" alt="ECCOP AEC"></img>
+	<img width="25%" src="{{ "/resources/images/daa.png" |  prepend: site.baseurl }}" alt="ECCOP AEC" />
 </figure>
 
 **scalacg** just won the Distinguished Artifact Award at ECOOP'14 in Uppsala, Sweden.
