@@ -42,5 +42,4 @@ copyright: Copyright (c) Karim Ali
 # Plugins
 gems:
   - jekyll-sitemap
-  - jekyll-redirect-from
 #  - jemoji
