@@ -11,12 +11,12 @@ group: service
 * **2017**
   * Onward! PC
   * WALA Hackathon @ PLDI Co-Organizer
-  * SOAP @ PLDI PC Co-Chair
+  * <a href="{{ "/soap" | prepend: site.baseurl }}">SOAP @ PLDI</a> PC Co-Chair
   * FSE Demonstration Track Co-Chair
   * CC Sub-reviewer
 * **2016**
   * ISSTA Artifact Evaluation PC
-  * <a href="{{ "/decaf" | prepend: site.baseurl }}">DECAF @ ISSTA &#39;16</a> Co-Organizer
+  * <a href="{{ "/decaf" | prepend: site.baseurl }}">DECAF @ ISSTA</a> Co-Organizer
 * **2015**
   * PLDI Artifact Evaluation PC
   * [Workshop on WALA][wow] Co-Organizer
