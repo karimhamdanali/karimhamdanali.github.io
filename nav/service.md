@@ -11,7 +11,7 @@ group: service
 * **2017**
   * Onward! PC
   * WALA Hackathon @ PLDI Co-Organizer
-  * <a href="{{ "/soap" | prepend: site.baseurl }}">SOAP @ PLDI</a> PC Co-Chair
+  * [SOAP @ PLDI](http://conf.researchr.org/track/pldi-ecoop-2017/SOAP-2017-papers) PC Co-Chair
   * FSE Demonstration Track Co-Chair
   * CC Sub-reviewer
 * **2016**
