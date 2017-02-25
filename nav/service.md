@@ -9,7 +9,9 @@ group: service
   * ECOOP Organizing Committee
   * ISSTA Organizing Committee
 * **2017**
+  * SPLASH-I Co-Organizer
   * Onward! PC
+  * ESSoS Artifact Evaluation Co-Chair
   * WALA Hackathon @ PLDI Co-Organizer
   * [SOAP @ PLDI](http://conf.researchr.org/track/pldi-ecoop-2017/SOAP-2017-papers) PC Co-Chair
   * FSE Demonstration Track Co-Chair
