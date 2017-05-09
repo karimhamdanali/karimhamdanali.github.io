@@ -6,11 +6,13 @@ weight: 5
 group: service
 ---
 * **2018**
-  * ECOOP Organizing Committee
-  * ISSTA Organizing Committee
+  * ECOOP PC
+  * ECOOP Publicity Chair
+  * ISSTA Publicity Chair
 * **2017**
   * SPLASH-I Co-Organizer
   * Onward! PC
+  * CASCON PC
   * ESSoS Artifact Evaluation Co-Chair
   * WALA Hackathon @ PLDI Co-Organizer
   * [SOAP @ PLDI](http://conf.researchr.org/track/pldi-ecoop-2017/SOAP-2017-papers) PC Co-Chair

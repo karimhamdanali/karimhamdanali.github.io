@@ -7,13 +7,21 @@ group: students
 ---
 Are you interested in joining my research group? Apply to the [Computing Science Department at UAlberta](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions).
 
-## Current ##
-* Erick Ochoa (Master's, University of Alberta)
-* Lisa Nguyen (PhD, University of Paderborn)
-* Johannes Späth (PhD, University of Paderborn)
-* Stefan Krüger (PhD, University of Paderborn)
+## PhD ##
+* Lisa Nguyen (University of Paderborn)
+* Johannes Späth (University of Paderborn)
+* Stefan Krüger (University of Paderborn)
+
+## Master's ##
+* Erick Ochoa (University of Alberta)
+
+## BSc. ##
+* Jeff Chong (University of Alberta)
+* Alexander MacKenzie (University of Alberta)
+* Stuart Hoye (University of Alberta)
+
 
 ## Alumni ##
-* Michael Appel [Master's]
-* Manuel Benz (PhD at University of Paderborn) [Master's]
-* Stefan Triller (Deutsche Telekom) [*Withdrawn*]
+* Michael Appel (Master's)
+* Manuel Benz (Master's) [PhD at University of Paderborn]
+* Stefan Triller (PhD, *withdraw*) [Deutsche Telekom]
