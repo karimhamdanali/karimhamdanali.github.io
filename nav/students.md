@@ -16,7 +16,7 @@ Are you interested in joining my research group? Apply to the [Computing Science
 * Erick Ochoa (University of Alberta)
 
 ## BSc. ##
-* Jeff Chong (University of Alberta)
+* Jeff Cho (University of Alberta)
 * Alexander MacKenzie (University of Alberta)
 * Stuart Hoye (University of Alberta)
 
