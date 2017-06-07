@@ -7,6 +7,7 @@ group: pubs
 ---
 
 ## 2017 ##
+{% include conf/issta/NguyenALBSM17.html %}
 {% include conf/icse/NguyenALBSM17.html %}
 
 ## 2016 ##
