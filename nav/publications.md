@@ -7,11 +7,15 @@ group: pubs
 ---
 
 ## 2017 ##
-{% include conf/issta/NguyenALBSM17.html %}
-{% include conf/icse/NguyenALBSM17.html %}
+{% include conf/ase/KruegerNRAMBGGWDK17.html %}
+{% include conf/oopsla/SpaethAB17.html %}
+{% include conf/fsp/LloydCOAA17.html %}
+{% include conf/scam/NashaatAM17.html %}
+{% include conf/issta/DoALBSM17.html %}
+{% include conf/icse/DoALBSM17.html %}
 
 ## 2016 ##
-{% include conf/ecoop/SpaethNAB16.html %}
+{% include conf/ecoop/SpaethDAB16.html %}
 
 ## 2015 ##
 {% include journal/tosem/AliRLDT15.html %}
