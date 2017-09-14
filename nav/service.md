@@ -12,14 +12,14 @@ group: service
   * Web Chair, ECOOP
   * Web Chair, ISSTA
 * **2017**
-  * Co-Organizer, CDP @ CASCON
-  * Program Committee, CASCON
   * Co-Chair, SPLASH-I
+  * Co-Organizer, CDP @ CASCON
+  * Demonstration Track Co-Chair, FSE
+  * Program Committee, CASCON
   * Program Committee, Onward!
-  * Artifact Evaluation Co-Chair, ESSoS
   * Co-Organizer, WALA Hackathon @ PLDI
   * PC Co-Chair, SOAP @ PLDI
-  * Demonstration Track Co-Chair, FSE
+  * Artifact Evaluation Co-Chair, ESSoS
   * Subreviewer, CC
 * **2016**
   * Artifact Evaluation PC, ISSTA
