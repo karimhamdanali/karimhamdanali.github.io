@@ -17,11 +17,12 @@ Are you interested in joining my research group? Apply to the [Computing Science
 
 ## BSc. ##
 * Jeff Cho (University of Alberta)
-* Alexander MacKenzie (University of Alberta)
-* Stuart Hoye (University of Alberta)
-
 
 ## Alumni ##
+* Alexander MacKenzie (BSc.)
+* Stuart Hoye (BSc.)
+* Adrian Margel (High School)
+* Noah Weninger (BSc.)
 * Michael Appel (Master's)
 * Manuel Benz (Master's) [PhD at University of Paderborn]
-* Stefan Triller (PhD, *withdraw*) [Deutsche Telekom]
+* Stefan Triller (PhD, *withdrawn*) [Deutsche Telekom]
