@@ -7,10 +7,7 @@ url: "http://karimali.ca" # the base hostname & protocol for your site
 # User settings
 title: Karim Ali
 email: karim.ali@ualberta.ca
-phone: +496151869512
-phoneform: +49 6151 869-512
 group: Software Systems Group
-#groupweb: https://webdocs.cs.ualberta.ca/~systems/
 groupweb: "#"
 dept: Department of Computing Science
 deptweb: http://cs.ualberta.ca
@@ -20,10 +17,8 @@ address: 3-42 Athabasca Hall
 city: Edmonton, Alberta
 zipcode: T6G 2E8
 country: Canada
-twitter_username: karim3ali
+twitter_username: karimhamdanali
 github_username:  karimhamdanali
-quote: I want to put a ding in the universe.
-quoteby: Steve Jobs
 
 # Build settings
 #markdown: redcarpet
