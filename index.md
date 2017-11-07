@@ -7,12 +7,12 @@ group: research
 
 Few static analyses make their way to the real-world due to the unrealistic assumptions that they make. My primary research interest is to develop and evaluate various program analysis techniques that can be used in practice. In particular, I am interested in researching the following areas:
 
-* partial program analysis
+* library code summaries
 * scalable and precise points-to/call graph analyses
 * usability of static analysis tools
+* crypto APIs misuse
 * JIT compiler optimizations
-* secure software engineering
-* GPU/FPGA program analysis and optimizations
+
 
 ## Current Projects ##
 {% include filteredposts.html %}
