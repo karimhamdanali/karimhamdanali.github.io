@@ -6,6 +6,9 @@ weight: 3
 group: pubs
 ---
 
+## 2018 ##
+{% include conf/icse/DoKHAB18.html %}
+
 ## 2017 ##
 {% include conf/ase/KruegerNRAMBGGWDK17.html %}
 {% include conf/oopsla/SpaethAB17.html %}
