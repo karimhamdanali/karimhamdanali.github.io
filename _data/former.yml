@@ -1,0 +1,122 @@
+- name: "Mark Mroz"
+  prog: undergrad
+  id: mmroz
+  start: 2018
+  end: 2018
+  bio:
+  current:
+
+- name: "Bryan Tam"
+  prog: undergrad
+  id: btam
+  start: 2018
+  end: 2018
+  bio:
+  current:
+
+- name: "Leo Li"
+  prog: undergrad
+  id: ao
+  start: 2017
+  end: 2018
+  bio:
+  current: "Master's at the University of Toronto"
+
+- name: "Swapnil Shah"
+  prog: undergrad
+  id: swapnil
+  start: 2018
+  end: 2018
+  bio:
+  current:
+
+- name: "Tyler Maxwell Pavlovic"
+  prog: undergrad
+  id: tyler
+  start: 2018
+  end: 2018
+  bio:
+  current:
+
+- name: "Alex Li"
+  prog: undergrad
+  id: alex
+  start: 2018
+  end: 2018
+  bio:
+  current:
+
+- name: "Yaser Alkayale"
+  prog: undergrad
+  id: yaser
+  start: 2017
+  end: 2017
+  bio:
+  thesis:
+  current: ""
+
+- name: "Lydia Wu"
+  prog: undergrad
+  id: lydia
+  start: 2017
+  end: 2017
+  bio:
+  current: ""
+
+- name: "Chen Song"
+  prog: undergrad
+  id: chen
+  start: 2017
+  end: 2017
+  bio:
+  current: ""
+
+- name: "Jeff Cho"
+  prog: undergrad
+  id: gojeffcho
+  start: 2017
+  end: 2018
+  bio:
+  current: "Senior Undergrad at the University of Alberta"
+
+- name: "Stuart Hoye"
+  prog: undergrad
+  id: hoye
+  start: 2017
+  end: 2017
+  bio:
+  current:
+
+- name: "Adrian Margel"
+  prog: highschool
+  id: amargel
+  start: 2017
+  end: 2017
+  bio:
+  current:
+
+- name: "Noah Weninger"
+  prog: undergrad
+  id: nweninge
+  start: 2017
+  end: 2017
+  bio:
+  current: "Senior Undergrad at the University of Alberta"
+
+- name: "Michael Appel"
+  prog: masters
+  id: mappel
+  start: 2016
+  end: 2016
+  bio:
+  thesis:
+  current:
+
+- name: "Manuel Benz"
+  prog: masters
+  id: mbenz
+  start: 2016
+  end: 2016
+  bio:
+  thesis:
+  current: "PhD at Paderborn University"

@@ -7,6 +7,20 @@ group: students
 ---
 Are you interested in joining my research group? Apply to the [Computing Science Department at UAlberta](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions).
 
+## Current Students
+{% for member in site.data.advisees %}
+<div class="publication">
+	<div class="publication-title">
+		{{ member.name }}
+	</div>
+	<div class="publication-links">
+		{{ member.prog }}
+	</div>
+</div>
+{% endfor %}
+
+
+<hr>
 ## PhD ##
 * Lisa Nguyen (University of Paderborn)
 * Johannes Späth (University of Paderborn)

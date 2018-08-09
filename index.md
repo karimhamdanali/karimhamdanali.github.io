@@ -5,7 +5,14 @@ weight: 1
 group: research
 ---
 
-Few static analyses make their way to the real-world due to the unrealistic assumptions that they make. My primary research interest is to develop and evaluate various program analysis techniques that can be used in practice by exploring three aspects: scalability, precision, and usability. My interests span programming languages, software systems, and software engineering. In particular, I am interested in researching the following areas:
+Few static analyses make their way to the real-world due to the unrealistic assumptions that they make. I am interested in developing and evaluating various program analysis techniques that can be used in practice by exploring three aspects: scalability, precision, and usability. My interests span programming languages, software systems, and software engineering.
+
+
+
+
+
+
+In particular, I am interested in researching the following areas:
 
 * library code summaries
 * scalable and precise points-to and call graph analyses

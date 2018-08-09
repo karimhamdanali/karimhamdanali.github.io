@@ -1,0 +1,63 @@
+- name: "Detecting Crypto APIs Misuses at Runtime"
+  github:
+  start: 2018
+  end:
+  members:
+  publications:
+  abstract:
+
+- name: "Program Analysis for Machine Learning Systems"
+  github:
+  start: 2018
+  end:
+  members:
+  publications:
+  abstract:
+
+- name: RoadRunner
+  github:
+  start: 2017
+  end:
+  members:
+  publications:
+  abstract: "Program Analysis for Swift"
+
+- name: VisuFlow
+  github:
+  start: 2017
+  end:
+  members:
+  publications:
+  abstract: ""
+
+- name: "Just-in-Time Compiler Optimizations"
+  github:
+  start: 2016
+  end:
+  members:
+  publications:
+  abstract:
+
+- name: "Scalable and Precise Pointer Analysis"
+  github:
+  start: 2016
+  end:
+  members:
+  publications:
+  abstract:
+
+- name: Averroes
+  github:
+  start: 2012
+  end:
+  members:
+  publications:
+  abstract: "Generating efficient library code summaries"
+
+- name: CROSSING
+  github:
+  start: 2014
+  end:
+  members:
+  publications:
+  abstract: "secure integration of Crypto APIs"
