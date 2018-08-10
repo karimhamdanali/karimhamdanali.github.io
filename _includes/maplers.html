@@ -1,0 +1,17 @@
+{% for mapler in include.data %}
+<div class="student" name="{{ mapler.id }}">
+  <div class="student-pic">
+    <img alt="{{ mapler.name }}" src="{{ "/resources/images/maplers/anon.png" | prepend: site.baseurl }}" />
+  </div>
+	<div class="student-info">
+		<p>
+      {{ mapler.name }}
+      <mark><a href="{{ mapler.thesis }}" target="_blank">{{ mapler.prog }}</a></mark>
+      {% if mapler.website %}
+        <mark><a href="{{ mapler.website }}" target="_blank">website</a></mark>
+      {% endif %}
+    </p>
+    <p>{{ mapler.bio }}</p>
+	</div>
+</div>
+{% endfor %}

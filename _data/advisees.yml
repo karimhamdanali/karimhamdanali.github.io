@@ -2,46 +2,34 @@
   prog: phd
   id: ikabir
   website: "http://www.ifazk.com"
-  start: 2018
-  end:
   bio: "Ifaz is a PhD student in Computing Science. He's interested in programming languages, and has focused on type systems."
 
 - name: "Abdul Ali Bangash"
   prog: phd
   id: bangash
   website:
-  start: 2018
-  end:
   bio:
 
 - name: "Kristen Newbury"
   prog: masters
   id: knewbury
   website:
-  start: 2018
-  end:
   bio:
 
 - name: "Erick Ochoa"
   prog: masters
   id: eochoa
   website:
-  start: 2017
-  end:
   bio:
 
 - name: "Alexander MacKenzie"
   prog: undergrad
   id: almacken
   website:
-  start: 2017
-  end: 2018
   bio:
 
 - name: "Revan MacQueen"
   prog: undergrad
   id: revan
   website:
-  start: 2018
-  end: 2018
   bio:
