@@ -1,8 +1,14 @@
 {% for mapler in include.data %}
 <div class="student" name="{{ mapler.id }}">
   <div class="student-pic">
-    <img alt="{{ mapler.name }}" src="{{ "/resources/images/maplers/anon.png" | prepend: site.baseurl }}" />
-  </div>
+		{% assign maplerpic = "/resources/images/maplers/" | append: mapler.id | append: ".jpg" | prepend: site.baseurl %}
+		{% capture maplerpicexists %}{% include /functions/fileexists.html filename=maplerpic %}{% endcapture %}
+		{% if maplerpicexists == true%}
+		  <img alt="{{ mapler.name }}" src="{{ maplerpic }}" />
+		{% else %}
+      <img alt="{{ mapler.name }}" src="{{ "/resources/images/maplers/anon.png" | prepend: site.baseurl }}" />
+		{% endif %}
+	</div>
 	<div class="student-info">
 		<p>
       {{ mapler.name }}
