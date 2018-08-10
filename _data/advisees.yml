@@ -1,10 +1,10 @@
 - name: "Ifaz Kabir"
   prog: phd
   id: ikabir
-  website:
+  website: "http://www.ifazk.com"
   start: 2018
   end:
-  bio:
+  bio: "Ifaz is a PhD student in Computing Science. He's interested in programming languages, and has focused on type systems."
 
 - name: "Abdul Ali Bangash"
   prog: phd
