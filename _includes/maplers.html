@@ -5,11 +5,12 @@
 	</div>
 	<div class="student-info">
 		<p>
-      {{ mapler.name }}
+      <a href="{{ mapler.website | default: "#" }}" target="_blank">{{ mapler.name }}</a>
+      <!-- {{ mapler.name }} -->
       <a href="{{ mapler.thesis }}" target="_blank"><mark>{{ mapler.prog }}</mark></a>
-      {% if mapler.website %}
+      <!-- {% if mapler.website %}
         <a href="{{ mapler.website }}" target="_blank"><mark>website</mark></a>
-      {% endif %}
+      {% endif %} -->
     </p>
     <p>{{ mapler.bio }}</p>
 	</div>

@@ -415,6 +415,7 @@
 
 .student-info {
   @media (min-width: $on-laptop) {
+    width: 75%;
   }
 }
 
@@ -424,6 +425,7 @@ mark {
   border-radius: 6px;
   background-color: $brand-color;
   color: $mark-color;
+  font-size: $small-font-size;
 
   > a {
       color: $mark-color;
