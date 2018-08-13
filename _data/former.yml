@@ -2,8 +2,8 @@
   prog: undergrad
   id: gojeffcho
   website: "http://www.jeffcho.com"
-  bio: "Jeff is an undergrad student in computing science with a passion for game development. Jeff has worked in the lab for over a year to help kickstart RoadRunner by co-mentoring 8 undergrad students through <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a>."
-  
+  bio: "Jeff is an undergrad student in Computing Science with a passion for game development. Jeff has worked in the lab for over a year (2017–2018) to help kickstart RoadRunner by co-mentoring 8 undergrad students under the umbrella of <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a>."
+
 - name: "Mark Mroz"
   prog: undergrad
   id: mmroz
@@ -22,7 +22,8 @@
 - name: "Swapnil Shah"
   prog: undergrad
   id: swapnil
-  bio:
+  website: https://www.linkedin.com/in/swapnilshahlinked/
+  bio: Swapnil obtained an honors bachelors degree in Computer Science from the University of Toronto. He worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM">ABM</a>. He went on to work as a Software Engineer at <a href="https://www.okera.com" alt="Okera">Okera</a>.
 
 - name: "Tyler Maxwell Pavlovic"
   prog: undergrad
@@ -55,9 +56,9 @@
   bio:
 
 - name: "Adrian Margel"
-  prog: highschool
-  id: amargel
-  bio:
+  prog: high school
+  id: margel
+  bio: Adrian was a high school student who worked in the lab in the summer of 2017. He built Java web crawlers for GitHub and BitBucket projects that were later integrated in <a href="https://github.com/ABenchM" alt="ABM">ABM</a>, a platform for automated benchmark management.
 
 - name: "Noah Weninger"
   prog: undergrad
