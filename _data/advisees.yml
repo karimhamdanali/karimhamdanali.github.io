@@ -1,35 +1,35 @@
-- name: "Ifaz Kabir"
+- name: Ifaz Kabir
   prog: phd
   id: ikabir
-  website: "http://www.ifazk.com"
-  bio: "Ifaz is a PhD student in Computing Science. He's interested in programming languages, and has focused on type systems."
+  website: http://www.ifazk.com
+  bio: Ifaz is a PhD student in Computing Science. He's interested in programming languages, and has focused on type systems.
 
-- name: "Abdul Ali Bangash"
+- name: Abdul Ali Bangash
   prog: phd
   id: bangash
   website:
-  bio:
+  bio: Abdul Ali is a PhD student in Computing Science. He's interested in developing program anlayses to help developers build energy-efficient software systems.
 
-- name: "Kristen Newbury"
+- name: Kristen Newbury
   prog: masters
   id: knewbury
   website:
-  bio:
+  bio: Kristen is a Master's student in Computing Science. She's interested in using program analysis to detect crypto API misuses.
 
-- name: "Erick Ochoa"
+- name: Erick Ochoa
   prog: masters
   id: eochoa
   website:
-  bio:
+  bio: Erick is a Master's student in Computing Science. He's interested in improving the decision-making process for various Just-in-Time compiler optimizations.
 
-- name: "Alexander MacKenzie"
+- name: Alexander MacKenzie
   prog: undergrad
   id: almacken
   website:
-  bio:
+  bio: Alex is a Computing Science undergrad student who has worked in the lab in the summers of 2017 and 2018 to help build various components in <a href="https://github.com/ABenchM" alt="Delphi">ABM</a> and <a href="https://github.com/delphi-hub" alt="Delphi">Delphi</a>.
 
 - name: "Revan MacQueen"
   prog: undergrad
   id: revan
   website:
-  bio:
+  bio: Revan is a Computing Science undergrad student working in the lab in the summer of 2018 on applying programming language techniques to machine learning systems.
