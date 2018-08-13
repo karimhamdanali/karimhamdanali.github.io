@@ -390,6 +390,11 @@
   clear: both;
 }
 
+.student-pic, .student-info {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 .student-pic {
   > img {
     width: 140px;
@@ -402,12 +407,15 @@
     box-sizing: border-box;
   }
 
-  width: 25%;
-  float: left;
+  @media (min-width: $on-laptop) {
+    width: 25%;
+    float: left;
+  }
 }
 
 .student-info {
-  width: 75%;
+  @media (min-width: $on-laptop) {
+  }
 }
 
 mark {

@@ -1,0 +1,10 @@
+{% assign pic = "/resources/images/maplers/anon.png" | prepend: site.baseurl %}
+{% for file in site.static_files %}
+    {% if file.path contains include.mapler.id %}
+      {% assign pic = file.path %}
+      {% break %}
+    {% endif %}
+{% endfor %}
+
+{% assign pic = pic | strip_newlines | replace: " ", "" %}
+<img alt="{{ mapler.name }}" src="{{ pic }}" />

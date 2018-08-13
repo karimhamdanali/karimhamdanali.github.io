@@ -46,7 +46,8 @@
 - name: "Jeff Cho"
   prog: undergrad
   id: gojeffcho
-  bio: "Senior Undergrad at the University of Alberta"
+  website: "http://www.jeffcho.com"
+  bio: "Jeff is an undergrad student in computing science with a passion for game development. Jeff has worked in the lab for over a year to help kickstart RoadRunner by co-mentoring 8 undergrad students through <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a>."
 
 - name: "Stuart Hoye"
   prog: undergrad

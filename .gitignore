@@ -2,3 +2,4 @@ _site
 .sass-cache
 /GemFile
 /Gemfile.lock
+resources/images/.DS_Store
