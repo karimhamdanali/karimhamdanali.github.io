@@ -393,6 +393,9 @@
 .student-pic, .student-info {
   padding-right: 15px;
   padding-left: 15px;
+  box-sizing: border-box;
+  position: relative;
+  float: left;
 }
 
 .student-pic {
@@ -437,6 +440,10 @@ mark {
   &:hover {
       opacity: $hover-opacity;
   }
+}
+
+h3 {
+  margin-top: $spacing-unit;
 }
 
 /**

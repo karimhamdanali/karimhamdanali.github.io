@@ -1,14 +1,14 @@
-- name: "Stefan Krüger"
+- name: Stefan Krüger
   prog: phd
   id: skrueger
   website:
-  bio:
+  bio: Stefan is a PhD Student at Paderborn University (supervised by Eric Bodden), and a member of the collaborative research center CROSSING. In 2014, he received his Master's Degree in Computer Science at Otto-von-Guericke University in Magdeburg. CROSSING aims at devising future-proof cryptography that is sound and easy to use even for non-experts. In that vein, his main research interests are API usability, DSLs for the specification of security properties of programs, and automated detection of crypto API misuses.
 
 - name: "Lisa Nguyen Quang Do"
   prog: phd
   id: lnqd
   website:
-  bio:
+  bio: Lisa is a PhD Student at Paderborn University (supervised by Eric Bodden). She has received her MSc. in Computer Science from EPFL in 2014. Her research focuses on improving the usability of program analysis tools for code developers through different aspects that range from the optimization of the analysis algorithm to the implementation of its framework to the usability of its interface.
 
 - name: "Johannes Späth"
   prog: phd

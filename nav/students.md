@@ -7,13 +7,13 @@ group: students
 ---
 Are you interested in joining my research group? Apply to the [Computing Science Department at UAlberta](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions).
 
-## Current Maplers
+### Current Maplers
 {% include maplers.html data=site.data.advisees %}
 
-## Affiliated Maplers
+### Affiliated Maplers
 {% include maplers.html data=site.data.affiliated %}
 
-## Former Maplers
+### Former Maplers
 {% include maplers.html data=site.data.former %}
 
 <hr>
