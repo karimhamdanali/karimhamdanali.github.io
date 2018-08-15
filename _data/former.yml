@@ -20,6 +20,11 @@
   website: http://leeeo.me/
   bio: Leo obtained a bachelor's degree in Computer Science from Simon Fraser University where he was interested in programming languages and software engineering. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to RoadRunner. He went on to do his Master's degree at the University of Toronto.
 
+- name: Anthony Hill
+  prog: undergrad
+  id: ahill
+  bio: Anthony obtained his bachelor's degree in Computer Science from Wilfrid Laurier University. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to RoadRunner.
+
 - name: Swapnil Shah
   prog: undergrad
   id: swapnil
