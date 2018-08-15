@@ -2,7 +2,7 @@
   prog: undergrad
   id: gojeffcho
   website: http://www.jeffcho.com
-  bio: Jeff is a senior undergrad student in Computing Science with a passion for game development. Jeff has worked in the lab for over a year (2017–2018) to help kickstart RoadRunner by co-mentoring 8 undergrad students under the umbrella of <a href="http://ucosp.ca" alt="UCOSP">UCOSP</a>.
+  bio: Jeff is a senior undergrad student in Computing Science with a passion for game development. Jeff has worked in the lab for over a year (2017–2018) to help kickstart RoadRunner by co-mentoring 8 undergrad students under the umbrella of <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a>.
 
 - name: Mark Mroz
   prog: undergrad
@@ -18,51 +18,51 @@
   prog: undergrad
   id: ao
   website: http://leeeo.me/
-  bio: Leo obtained a bachelor's degree in Computer Science from Simon Fraser University where he was interested in programming languages and software engineering. He worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2018, and contributed to RoadRunner. He went on to do his Master's degree at the University of Toronto.
+  bio: Leo obtained a bachelor's degree in Computer Science from Simon Fraser University where he was interested in programming languages and software engineering. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to RoadRunner. He went on to do his Master's degree at the University of Toronto.
 
 - name: Swapnil Shah
   prog: undergrad
   id: swapnil
   website: https://www.linkedin.com/in/swapnilshahlinked/
-  bio: Swapnil obtained an honors bachelor's degree in Computer Science from the University of Toronto. He worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM">ABM</a>. He went on to work as a software engineer at <a href="https://www.okera.com" alt="Okera">Okera</a>.
+  bio: Swapnil obtained an honors bachelor's degree in Computer Science from the University of Toronto. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>. He went on to work as a software engineer at <a href="https://www.okera.com" alt="Okera" target="_blank">Okera</a>.
 
 - name: Tyler Pavlovic
   prog: undergrad
   id: tyler
   website: https://www.linkedin.com/in/tyler-pavlovic/
-  bio: Tyler obtained his bachelor's degree in Computer Science from the University of New Brunswick. He worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM">ABM</a>. He went on to work as an Application Developer at the Atlantic Canada Opportunities Agency, a government agency that provides funding through grants and loans to small and medium enterprises in Atlantic Canada.
+  bio: Tyler obtained his bachelor's degree in Computer Science from the University of New Brunswick. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>. He went on to work as an Application Developer at the Atlantic Canada Opportunities Agency, a government agency that provides funding through grants and loans to small and medium enterprises in Atlantic Canada.
 
 - name: Alex Li
   prog: undergrad
   id: alex
-  bio: Alex obtained his bachelor's degree in Computer Science from the University of New Brunswick. He worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM">ABM</a>.
+  bio: Alex obtained his bachelor's degree in Computer Science from the University of New Brunswick. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>.
 
 - name: Yaser Alkayale
   prog: undergrad
   id: yaser
   website: https://www.yaser.ca
-  bio: Yaser obtained a bachelor's degree in Computer Science from Dalhousie University where he developed his passion for algorithms engineering research. He worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2017, and contributed to RoadRunner. He went on to work as a software engineer at Microsoft with the Azure Data Factory Team.
+  bio: Yaser obtained a bachelor's degree in Computer Science from Dalhousie University where he developed his passion for algorithms engineering research. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to RoadRunner. He went on to work as a software engineer at Microsoft with the Azure Data Factory Team.
 
 - name: Lydia Wu
   prog: undergrad
   id: lydia
-  bio: Qi (Lydia) Wu is an undergraduate student at Simon Fraser University (Dual Degree Program with Zhejiang University, China). Her research interests include computing systems and computer vision. She worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2017, and contributed to RoadRunner.
+  bio: Qi (Lydia) Wu is an undergraduate student at Simon Fraser University (Dual Degree Program with Zhejiang University, China). Her research interests include computing systems and computer vision. She worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to RoadRunner.
 
 - name: Chen Song
   prog: undergrad
   id: chen
   website: http://www.songc.me
-  bio: Chen Song is an undergraduate student at Simon Fraser University (Dual Degree Program with Zhejiang University, China). His research interests include performance issues in cloud computing and deep-learning based image generation. He worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2017, and contributed to RoadRunner.
+  bio: Chen Song is an undergraduate student at Simon Fraser University (Dual Degree Program with Zhejiang University, China). His research interests include performance issues in cloud computing and deep-learning based image generation. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to RoadRunner.
 
-- name: "Stuart Hoye"
+- name: Stuart Hoye
   prog: undergrad
   id: hoye
-  bio:
+  bio: Stuart obtained his bachelor's degree in Computing Science from the University of Alberta in 2017. He worked in the lab in teh summer of 2017 to build <a href="https://github.com/cmput229/TA_classroom_manager" alt="Classroom Management" target="_blank">a suite of classroom management tools</a> that are based on GitHub Classroom.
 
 - name: Adrian Margel
   prog: high school
   id: margel
-  bio: Adrian was a high school student who worked in the lab in the summer of 2017. He built Java web crawlers for GitHub and BitBucket projects that were later integrated in <a href="https://github.com/ABenchM" alt="ABM">ABM</a>, a platform for automated benchmark management.
+  bio: Adrian was a high school student who worked in the lab in the summer of 2017. He built Java web crawlers for GitHub and BitBucket projects that were later integrated in <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>, a platform for automated benchmark management.
 
 - name: Noah Weninger
   prog: undergrad
