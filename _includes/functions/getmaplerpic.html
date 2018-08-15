@@ -1,6 +1,8 @@
 {% assign pic = "/resources/images/maplers/anon.png" | prepend: site.baseurl %}
+{% assign key = "/resources/images/maplers/" | append: include.mapler.id %}
+
 {% for file in site.static_files %}
-    {% if file.path contains include.mapler.id %}
+    {% if file.path contains key %}
       {% assign pic = file.path %}
       {% break %}
     {% endif %}

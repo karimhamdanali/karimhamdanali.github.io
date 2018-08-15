@@ -67,12 +67,13 @@
   id: nweninge
   bio: "Senior Undergrad at the University of Alberta"
 
-- name: "Michael Appel"
+- name: Michael Appel
   prog: masters
   id: mappel
-  bio:
+  bio: Michael obtained his Master’s degree in Computer Science at TU Darmstadt, where his thesis was about modelling the side effects of the Android SDK.
 
-- name: "Manuel Benz"
+- name: Manuel Benz
   prog: masters
   id: mbenz
-  bio: "PhD at Paderborn University"
+  website: https://www.linkedin.com/in/manuel-benz-39b5b698/
+  bio: Manuel obtained his Master’s degree in Computer Science and IT-Security at TU Darmstadt, where his thesis was about finding misuses of crypto APIs. His main research interests are static and dynamic program analysis and, especially, how we can combine them to mitigate the drawbacks of each other. He went on to be a PhD researcher at Paderborn University, Germany.
