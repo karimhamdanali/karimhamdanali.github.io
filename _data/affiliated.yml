@@ -13,5 +13,4 @@
 - name: Johannes Späth
   prog: phd
   id: spaeth
-  website:
-  bio:
+  bio: Johannes is a Research Associate at the Software Engineering and IT Security Department of Fraunhofer IEM in Paderborn. In 2013, Johannes finished his Master's degree in Mathematics at TU Darmstadt. He joined the research group of Eric Bodden in 2014 and since then his research focuses on static analysis where he enjoys developing efficient and precise algorithms, e.g., points-to or typestate analysis. 
