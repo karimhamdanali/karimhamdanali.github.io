@@ -1,39 +1,41 @@
-- name: "Jeff Cho"
+- name: Jeff Cho
   prog: undergrad
   id: gojeffcho
-  website: "http://www.jeffcho.com"
-  bio: "Jeff is an undergrad student in Computing Science with a passion for game development. Jeff has worked in the lab for over a year (2017–2018) to help kickstart RoadRunner by co-mentoring 8 undergrad students under the umbrella of <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a>."
+  website: http://www.jeffcho.com
+  bio: Jeff is a senior undergrad student in Computing Science with a passion for game development. Jeff has worked in the lab for over a year (2017–2018) to help kickstart RoadRunner by co-mentoring 8 undergrad students under the umbrella of <a href="http://ucosp.ca" alt="UCOSP">UCOSP</a>.
 
-- name: "Mark Mroz"
+- name: Mark Mroz
   prog: undergrad
   id: mmroz
   bio:
 
-- name: "Bryan Tam"
+- name: Bryan Tam
   prog: undergrad
   id: btam
   bio:
 
-- name: "Leo Li"
+- name: Leo Li
   prog: undergrad
   id: ao
-  bio: "Master's at the University of Toronto"
+  website: http://leeeo.me/
+  bio: Leo obtained a bachelor's degree in Computer Science from Simon Fraser University where he was interested in programming languages and software engineering. He worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2018, and contributed to RoadRunner. He went on to do his Master's degree at the University of Toronto.
 
-- name: "Swapnil Shah"
+- name: Swapnil Shah
   prog: undergrad
   id: swapnil
   website: https://www.linkedin.com/in/swapnilshahlinked/
   bio: Swapnil obtained an honors bachelor's degree in Computer Science from the University of Toronto. He worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM">ABM</a>. He went on to work as a software engineer at <a href="https://www.okera.com" alt="Okera">Okera</a>.
 
-- name: "Tyler Maxwell Pavlovic"
+- name: Tyler Pavlovic
   prog: undergrad
   id: tyler
-  bio:
+  website: https://www.linkedin.com/in/tyler-pavlovic/
+  bio: Tyler obtained his bachelor's degree in Computer Science from the University of New Brunswick. He worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM">ABM</a>. He went on to work as an Application Developer at the Atlantic Canada Opportunities Agency, a government agency that provides funding through grants and loans to small and medium enterprises in Atlantic Canada.
 
 - name: Alex Li
   prog: undergrad
   id: alex
-  bio:
+  bio: Alex obtained his bachelor's degree in Computer Science from the University of New Brunswick. He worked in the lab through a <a href='http://ucosp.ca' alt='UCOSP'>UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM">ABM</a>.
 
 - name: Yaser Alkayale
   prog: undergrad
@@ -57,15 +59,16 @@
   id: hoye
   bio:
 
-- name: "Adrian Margel"
+- name: Adrian Margel
   prog: high school
   id: margel
   bio: Adrian was a high school student who worked in the lab in the summer of 2017. He built Java web crawlers for GitHub and BitBucket projects that were later integrated in <a href="https://github.com/ABenchM" alt="ABM">ABM</a>, a platform for automated benchmark management.
 
-- name: "Noah Weninger"
+- name: Noah Weninger
   prog: undergrad
   id: nweninge
-  bio: "Senior Undergrad at the University of Alberta"
+  website: https://byte.observer
+  bio: Noah is a senior undergrad student in Computing Science with a passion for programming languages, algorithms, games, and procedural art. Noah has worked in the lab in the winter of 2017 to help kickstart RoadRunner.
 
 - name: Michael Appel
   prog: masters

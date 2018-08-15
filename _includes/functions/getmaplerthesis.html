@@ -1,0 +1,16 @@
+{% assign thesis = "#" | prepend: site.baseurl %}
+{% assign key = "/resources/theses/" | append: include.mapler.id %}
+
+{% if mapler.thesis %}
+  {% assign thesis = mapler.thesis %}
+{% else %}
+  {% for file in site.static_files %}
+    {% if file.path contains key %}
+      {% assign thesis = file.path %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% assign thesis = thesis | strip_newlines | replace: " ", "" %}
+<a href="{{ thesis }}" target="_blank"><mark>{{ mapler.prog }}</mark></a>
