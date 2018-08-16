@@ -1,18 +1,9 @@
-- name: Cheetah
-  github:
-  start: 2015
-  end: 2017
-  members:
-  publications:
-  abstract: ""
-
 - name: ScalaCG
-  github:
   start: 2013
   end: 2015
   members:
   publications:
-  abstract: "A collection of low-cost call graph analyses for Scala"
+  abstract: A collection of low-cost call graph analyses for Scala
 
 - name: CGC
   github:
@@ -20,7 +11,7 @@
   end: 2012
   members:
   publications:
-  abstract: "Datalog-based library code summaries"
+  abstract: Datalog-based library code summaries
 
 - name: Algorizmi
   github:
@@ -28,7 +19,7 @@
   end: 2009
   members:
   publications:
-  abstract: "A configurable virtual testbed for intrusion detection systems evaluation"
+  abstract: A configurable virtual testbed for intrusion detection systems evaluation
 
 - name: Beep
   github:
@@ -36,4 +27,4 @@
   end: 2007
   members:
   publications:
-  abstract: "A J2ME implementation of the Jabber protocol"
+  abstract: A J2ME implementation of the Jabber protocol

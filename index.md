@@ -7,18 +7,13 @@ group: research
 
 Few static analyses make their way to the real-world due to the unrealistic assumptions that they make. I am interested in developing and evaluating various program analysis techniques that can be used in practice by exploring three aspects: scalability, precision, and usability. My interests span programming languages, software systems, and software engineering.
 
+Below is a list of my current and inactive projects.
 
+### Current Projects
+<!-- {% include projects.html data=site.data.projects %} -->
 
-
-
-
-In particular, I am interested in researching the following areas:
-
-* library code summaries
-* scalable and precise points-to and call graph analyses
-* usability of static analysis tools
-* crypto APIs misuse
-* JIT compiler optimizations
+### Inactive Projects
+<!-- {% include projects.html data=site.data.inactives %} -->
 
 
 ## Current Projects ##

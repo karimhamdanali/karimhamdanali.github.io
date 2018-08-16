@@ -62,7 +62,8 @@
 - name: Stuart Hoye
   prog: undergrad
   id: hoye
-  bio: Stuart obtained his bachelor's degree in Computing Science from the University of Alberta in 2017. He worked in the lab in teh summer of 2017 to build <a href="https://github.com/cmput229/TA_classroom_manager" alt="Classroom Management" target="_blank">a suite of classroom management tools</a> that are based on GitHub Classroom.
+  website: https://stuarthoye.github.io
+  bio: Stuart obtained his bachelor's degree in Computing Science from the University of Alberta in 2017. He worked in the lab in the summer of 2017 to build <a href="https://github.com/cmput229/TA_classroom_manager" alt="Classroom Management" target="_blank">a suite of classroom management tools</a> that are based on GitHub Classroom. He went on to work as an application consultant for Ontracks Consulting.
 
 - name: Adrian Margel
   prog: high school
