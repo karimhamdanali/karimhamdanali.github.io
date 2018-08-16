@@ -10,10 +10,10 @@ Few static analyses make their way to the real-world due to the unrealistic assu
 Below is a list of my current and inactive projects.
 
 ### Current Projects
-<!-- {% include projects.html data=site.data.projects %} -->
+{% include projects.html data=site.data.projects %}
 
 ### Inactive Projects
-<!-- {% include projects.html data=site.data.inactives %} -->
+{% include projects.html data=site.data.inactives %}
 
 
 ## Current Projects ##

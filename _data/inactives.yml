@@ -1,30 +1,25 @@
 - name: ScalaCG
+  website: https://github.com/olhotak/scalacg
   start: 2013
   end: 2015
-  members:
   publications:
   abstract: A collection of low-cost call graph analyses for Scala
 
 - name: CGC
-  github:
+  website:
   start: 2010
   end: 2012
-  members:
   publications:
   abstract: Datalog-based library code summaries
 
 - name: Algorizmi
-  github:
+  website: https://sourceforge.net/projects/algorizmi/
   start: 2008
   end: 2009
-  members:
-  publications:
-  abstract: A configurable virtual testbed for intrusion detection systems evaluation
+  abstract: An open-source configurable virtual testbed (based on the Eucalyptus cloud platform) for evaluating Intrusion Detection Systems.
 
 - name: Beep
-  github:
+  website: https://sourceforge.net/projects/beep/
   start: 2006
   end: 2007
-  members:
-  publications:
-  abstract: A J2ME implementation of the Jabber protocol
+  abstract: A wireless telecommunication framework based on the Jabber protocol, targeting JME (known before as J2ME) enabled devices.
