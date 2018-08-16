@@ -2,13 +2,14 @@
   prog: phd
   id: ikabir
   website: http://www.ifazk.com
-  bio: Ifaz is a PhD student in Computing Science. He's interested in programming languages, and has focused on type systems.
+  bio: Ifaz is a PhD student in Computing Science. He obtained a bachelor's degree in Pure Mathematics and Computer Science as well as a Masters degree in Computer Science, all at the University of Waterloo. He's interested in type systems, type inference, null safety, type systems for logic, and program analysis.
 
 - name: Abdul Ali Bangash
   prog: phd
   id: bangash
-  website:
-  bio: Abdul Ali is a PhD student in Computing Science. He's interested in developing program anlayses to help developers build energy-efficient software systems.
+  website: https://sites.google.com/view/bangash
+  bio: Abdul Ali is a PhD student in Computing Science. He obtained his Master's in Software Engineering at FAST National University, Pakistan. He's generally interested in helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence.
+
 
 - name: Kristen Newbury
   prog: masters

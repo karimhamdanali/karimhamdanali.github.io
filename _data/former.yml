@@ -85,4 +85,5 @@
   prog: masters
   id: mbenz
   website: https://www.linkedin.com/in/manuel-benz-39b5b698/
+  thesis: http://www.st.informatik.tu-darmstadt.de/artifacts/theses/thesis-2016-benz-interprocedural-groums.pdf
   bio: Manuel obtained his Master’s degree in Computer Science and IT-Security at TU Darmstadt, where his thesis was about finding misuses of crypto APIs. His main research interests are static and dynamic program analysis and, especially, how we can combine them to mitigate the drawbacks of each other. He went on to be a PhD researcher at Paderborn University, Germany.
