@@ -410,16 +410,12 @@
     box-sizing: border-box;
   }
 
-  @media (min-width: $on-laptop) {
-    width: 25%;
-    float: left;
-  }
+  width: 25%;
+  float: left;
 }
 
 .student-info {
-  @media (min-width: $on-laptop) {
-    width: 75%;
-  }
+  width: 75%;
 }
 
 mark {
