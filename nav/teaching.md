@@ -1,16 +1,16 @@
 ---
-layout: page
+layout: default
 title: Teaching
 permalink: /teaching/
 weight: 4
 group: teaching
 ---
-### University of Alberta ###
+### University of Alberta
 * Fall 2017: [CMPUT 620 - Static Program Analysis](https://eclass.srv.ualberta.ca/local/eclass/landing/guestlink.php?cid=39320)
 * Winter 2017: CMPUT 229 - Computer Organization and Architecture I
 * Fall 2016: [CMPUT 620 - Static Program Analysis][spa]{:target="_blank"}
 
-### TU Darmstadt ###
+### TU Darmstadt
 
 * Winter 2015/2016: [Static Analysis Seminar (SAS)][sas]
 

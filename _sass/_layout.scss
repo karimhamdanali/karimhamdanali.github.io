@@ -200,8 +200,8 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    // border-top: 1px solid $grey-color-light;
+    padding: 0 0 $spacing-unit 0;
 }
 
 .footer-heading {
@@ -218,14 +218,15 @@
 .footer-col-wrapper {
     font-size: $footer-font-size;
     //color: $grey-color;
-    margin-left: -$spacing-unit / 2;
+    // margin-left: -$spacing-unit / 2;
+    border-top: 1px solid $grey-color-light;
     @extend %clearfix;
 }
 
 .footer-col {
     float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+    // margin-bottom: $spacing-unit / 2;
+    // padding-left: $spacing-unit / 2;
 }
 
 .footer-col-1 {
@@ -269,7 +270,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit 0 $spacing-unit / 2 0;
 }
 
 .page-heading {

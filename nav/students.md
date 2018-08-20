@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Students
 permalink: /students/
 weight: 2

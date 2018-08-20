@@ -1,14 +1,12 @@
 # Site settings
-description: > # this means to ignore newlines until "baseurl:"
-  Powered by Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://karimali.ca" # the base hostname & protocol for your site
+url: https://karimali.ca # the base hostname & protocol for your site
 
 # User settings
 title: Karim Ali
 email: karim.ali@ualberta.ca
-group: Programming Languages Lab (MAPLE)
-groupweb: "https://twitter.com/themaplelab"
+group: Programming Languages Lab (Maple)
+groupweb: https://twitter.com/themaplelab
 dept: Department of Computing Science
 deptweb: http://cs.ualberta.ca
 institution: University of Alberta
@@ -21,13 +19,10 @@ twitter_username: karimhamdanali
 github_username:  karimhamdanali
 
 # Build settings
-#markdown: redcarpet
-#redcarpet:
-#  extensions: ["no_intra_emphasis", "fenced_code_blocks", "tables", "with_toc_data", "superscript"]
 markdown: kramdown
 highlighter: rouge
 paginate: 3
-paginate_path: "/news/page:num/"
+paginate_path: /news/page:num/
 excerpt_separator: <!--more-->
 
 # Site-wide variables
@@ -35,6 +30,7 @@ keywords: program analysis, compiler, static analysis, java, scala, call graphs,
 copyright: Copyright (c) Karim Ali
 
 # Plugins
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-paginate
 #  - jemoji

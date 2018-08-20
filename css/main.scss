@@ -18,6 +18,8 @@ $background-color: #fdfdfd;
 $brand-color:      #96172E;
 //$brand-color:      #007c41;
 
+$twitter-color:    #3BA9EE;
+
 //$grey-color:       #808080;
 $grey-color:       rgba(0, 0, 0, 0.6);
 $grey-color-light: lighten($grey-color, 40%);
@@ -36,7 +38,7 @@ $header-font-size:	1em;
 $header-font-size-small:	12px;
 
 // Footer
-$footer-font-size:	1em;
+$footer-font-size:	$small-font-size;
 
 // Opacities
 $hover-opacity: 0.65;
