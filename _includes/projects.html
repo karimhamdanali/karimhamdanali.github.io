@@ -1,9 +1,9 @@
 {% for project in include.data %}
-<div class="student" name="{{ mapler.id }}">
-  <div class="student-pic">
+<div class="row" name="{{ mapler.id }}">
+  <div class="row-pic">
 		{% include /functions/getmaplerpic.html mapler=mapler %}
 	</div>
-	<div class="student-info">
+	<div class="row-info">
 		<p>
       <a href="{{ mapler.website | default: "#" }}" target="_blank">{{ mapler.name }}</a>
       {% include /functions/getmaplerthesis.html mapler=mapler %}
