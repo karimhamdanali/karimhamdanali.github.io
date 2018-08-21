@@ -443,6 +443,11 @@ h3 {
   margin-top: $spacing-unit;
 }
 
+h4 small {
+  font-size: $small-font-size;
+  color: $grey-color-dark;
+}
+
 /**
  * Profile picture on home page
  */
