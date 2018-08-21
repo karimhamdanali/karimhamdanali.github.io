@@ -1,9 +1,12 @@
 {% for project in include.data %}
-<div class="row" name="{{ mapler.id }}">
+{% assign members = project.members | append: ',karim' | split: ',' | sort %}
+<div class="row" name="{{ project.id }}">
   <div class="row-pic">
-		{% include /functions/getmaplerpic.html mapler=mapler %}
+		{% include /functions/getprojectpic.html project=project %}
 	</div>
 	<div class="row-info">
+    <p> {{ members }}
+    </p>
 		<p>
       <a href="{{ mapler.website | default: "#" }}" target="_blank">{{ mapler.name }}</a>
       {% include /functions/getmaplerthesis.html mapler=mapler %}

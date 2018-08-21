@@ -1,0 +1,12 @@
+{% assign pic = "/resources/images/projects/anon.png" | prepend: site.baseurl %}
+{% assign key = "/resources/images/projects/" | append: include.project.id %}
+
+{% for file in site.static_files %}
+    {% if file.path contains key %}
+      {% assign pic = file.path %}
+      {% break %}
+    {% endif %}
+{% endfor %}
+
+{% assign pic = pic | strip_newlines | replace: " ", "" %}
+<img alt="{{ project.name }}" src="{{ pic }}" />

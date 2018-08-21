@@ -1,50 +1,57 @@
 - name: Program Analysis for Machine Learning Systems
+  id: plml
   start: 2018
   end:
-  members:
+  members: revan,ikabir
   publications:
   abstract:
 
 - name: RoadRunner
+  id: swift
   start: 2017
   end:
-  members:
+  members: bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
   publications:
   abstract: Program Analysis for Swift
 
 - name: Just-in-Time Compilers
+  id: jit
   github:
   start: 2016
   end:
-  members:
+  members: eochoa
   publications:
   abstract:
 
 - name: Misuses of Crypto APIs
+  id: crypto
   start: 2015
   end:
-  members:
+  members: knewbury,skrueger,mbenz
   publications:
   abstract:
 
 - name: Usability of Static Analysis Tools
+  id: usability
   start: 2014
   end:
-  members:
+  members: lnqd,almacken,alex,tyler,swapnil
   publications:
-  abstract: ""
+  abstract:
 
 - name: Scalable and Precise Pointer Analysis
+  id: scale
   start: 2014
   end:
-  members:
+  members: spaeth
   publications:
   abstract:
 
 - name: Averroes
+  id: ave
   github:
   start: 2012
   end:
-  members:
+  members: mappel
   publications:
   abstract: Generating efficient library code summaries
