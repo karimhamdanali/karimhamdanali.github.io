@@ -12,7 +12,7 @@ If you are interested in joining Maple, I strongly encourage you to apply to the
 - A one-page summary for your research interests. Ideally, this summary should specify at least one of [my current projects](/) that you find interesting.
 - A one-page summary for one of [my published papers](/publications/) that you find interesting.
 - Any relevant background that you have and may be useful for you to pursue your future research directions.
-- The phrase "Messi is the GOAT". This will just show that you are serious enough about joining Maple to read all the way till the end of the list of instructions :)
+- The phrase "Messi is the GOAT". This will just show that you are serious enough about joining Maple to read all the way till the end of the list of instructions.
 
 Below is a list of current, affiliated, and former Maplers.
 
