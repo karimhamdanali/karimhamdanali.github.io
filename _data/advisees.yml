@@ -20,8 +20,8 @@
 - name: Erick Ochoa
   prog: masters
   id: eochoa
-  website:
-  bio: Erick is a Master's student in Computing Science. He's interested in improving the decision-making process for various Just-in-Time compiler optimizations.
+  website: https://efferifick.gitlab.io/compiler-dictionary/
+  bio: Erick is a Master's student in Computing Science. He has worked on FPGAs, benchmarking, and managed runtimes. He's also interested in program verification, program synthesis, and new media art.
 
 - name: Alexander MacKenzie
   prog: undergrad
@@ -32,5 +32,5 @@
 - name: Revan MacQueen
   prog: undergrad
   id: revan
-  website:
-  bio: Revan is a Computing Science undergrad student working in the lab in the summer of 2018 on applying programming language techniques to machine learning systems.
+  website: https://www.linkedin.com/in/revan-macqueen-931ab716a/
+  bio: Revan is a senior honours Computing Science undergrad student working in the lab in the summer of 2018 on applying programming language techniques to machine learning systems.
