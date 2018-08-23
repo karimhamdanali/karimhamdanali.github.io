@@ -68,7 +68,7 @@
 - name: Adrian Margel
   prog: high school
   id: margel
-  bio: Adrian was a high school student who worked in the lab in the summer of 2017. He built Java web crawlers for GitHub and BitBucket projects that were later integrated in <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>, a platform for automated benchmark management.
+  bio: Adrian was a high school student who worked in the lab in the summer of 2017. He built Java web crawlers for GitHub and BitBucket projects that were later integrated in <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>, a platform for automated benchmark management. He went on to attend NAIT in Fall 2018.
 
 - name: Noah Weninger
   prog: undergrad
