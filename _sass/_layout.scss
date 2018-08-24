@@ -376,6 +376,22 @@
 }
 
 /**
+ * Services
+ */
+
+.row.service {
+  margin-bottom: 0px;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+/**
  * Row layout
  */
 .row {
@@ -441,6 +457,10 @@ mark {
 
 h3 {
   margin-top: $spacing-unit;
+}
+
+h3:first-child {
+  margin-top: 0px;
 }
 
 h4 small {

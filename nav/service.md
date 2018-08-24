@@ -6,32 +6,13 @@ permalink: /service/
 weight: 5
 group: service
 ---
-* **2018**
-  * Program Committee, ECOOP
-  * Program Committee, ISSTA
-  * Web Chair, ECOOP
-  * Web Chair, ISSTA
-* **2017**
-  * Co-Chair, SPLASH-I
-  * Co-Organizer, CDP @ CASCON
-  * Demonstration Track Co-Chair, FSE
-  * Program Committee, CASCON
-  * Program Committee, Onward!
-  * Co-Organizer, WALA Hackathon @ PLDI
-  * PC Co-Chair, SOAP @ PLDI
-  * Artifact Evaluation Co-Chair, ESSoS
-  * Subreviewer, CC
-* **2016**
-  * Artifact Evaluation PC, ISSTA
-  * Co-Organizer, <a href="{{ "/decaf" | prepend: site.baseurl }}">DECAF @ ISSTA</a>
-* **2015**
-  * Artifact Evaluation PC, PLDI
-  * Co-Organizer, [Workshop on WALA][wow]
-  * Artifact Evaluation PC, ECOOP
-  * Reviewer, SCP
-* **2014**
-  * Artifact Evaluation PC, ECOOP
-* **2013**
-  * Reviewer, TSE
 
-[wow]: http://researcher.watson.ibm.com/researcher/view_group.php?id=5750
+{% assign thisYear = "now" | date: "%Y" | plus: 0 %}
+{% assign current = site.data.services | where_exp: "service", "service.year >= thisYear"%}
+{% assign past = site.data.services | where_exp: "service", "service.year < thisYear"%}
+
+### Current
+{% include services.html data=current %}
+
+### Past
+{% include services.html data=past %}

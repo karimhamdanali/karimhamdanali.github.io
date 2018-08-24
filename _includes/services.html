@@ -1,0 +1,10 @@
+{% for service in include.data %}
+<div class="row service">
+  <div class="left">
+		<a href="{{ service.website | default: "#" }}" target="_blank">{{ service.name }}</a>, {{ service.role }}
+	</div>
+	<div class="right">
+		{{ service.year }}
+	</div>
+</div>
+{% endfor %}

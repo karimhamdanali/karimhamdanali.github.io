@@ -1,0 +1,129 @@
+# 2019
+- name: ISSTA
+  role: PC Member
+  year: 2019
+  website: https://conf.researchr.org/home/issta-2019
+
+# 2018
+- name: SPLASH-I
+  role: Co-Chair
+  year: 2018
+  website: https://2018.splashcon.org/home
+
+- name: Program Analysis Hackathon (Panathon)
+  role: Co-Organizer
+  year: 2018
+  website: https://conf.researchr.org/track/ecoop-issta-2018/panathon-2018
+
+- name: Benchmarking Workshop (BenchWork)
+  role: Co-Organizer
+  year: 2018
+  website: https://conf.researchr.org/track/ecoop-issta-2018/benchwork-2018-talks
+
+- name: ECOOP
+  role: PC Member
+  year: 2018
+  website: https://2018.ecoop.org
+
+- name: ISSTA
+  role: PC Member
+  year: 2018
+  website: https://conf.researchr.org/home/issta-2018
+
+- name: ECOOP
+  role: Web-Chair
+  year: 2018
+  website: https://2018.ecoop.org
+
+- name: ISSTA
+  role: Web-Chair
+  year: 2018
+  website: https://conf.researchr.org/home/issta-2018
+
+# 2017
+- name: SPLASH-I
+  role: Co-Chair
+  year: 2017
+  website: https://2017.splashcon.org/home
+
+- name: CDP @ CASCON
+  role: Co-Organizer
+  year: 2017
+  website: https://cdp-cascon.github.io
+
+- name: FSE
+  role: Tool-Demo Co-Chair
+  year: 2017
+  website: http://esec-fse17.uni-paderborn.de
+
+- name: CASCON
+  role: PC Member
+  year: 2017
+  website: http://cascon.ca
+
+- name: Onward!
+  role: PC Member
+  year: 2017
+  website: https://2017.onward-conference.org/home
+
+- name: WALA Hackathon @ PLDI
+  role: Co-Organizer
+  year: 2017
+  website: https://pldi17.sigplan.org/event/pldi-2017-workshops-and-tutorials-wala-hack-a-thon
+
+- name: SOAP @ PLDI
+  role: PC Co-Chair
+  year: 2017
+  website: https://pldi17.sigplan.org/track/SOAP-2017-papers
+
+- name: ESSoS
+  role: Artifact Evaluation PC Co-Chair
+  year: 2017
+  website: https://distrinet.cs.kuleuven.be/events/essos/2017/
+
+- name: CC
+  role: Subreviewer
+  year: 2017
+  website: https://conf.researchr.org/home/CC-2017
+
+# 2016
+- name: ISSTA
+  role: Artifact Evaluation PC Member
+  year: 2016
+  website: http://issta2016.cispa.saarland/index.html
+
+- name: DECAF @ ISSTA
+  role: Co-Organizer
+  year: 2016
+  website: https://karimali.ca/decaf
+
+# 2015
+- name: PLDI
+  role: Artifact Evaluation PC Member
+  year: 2015
+  website: https://conf.researchr.org/home/pldi2015
+
+- name: Workshop on WALA
+  role: Co-Organizer
+  year: 2015
+  website: http://researcher.watson.ibm.com/researcher/view_group.php?id=5750
+
+- name: ECOOP
+  role: Artifact Evaluation PC Member
+  year: 2015
+  website: https://2015.ecoop.org/home
+
+- name: SCP
+  role: Reviewer
+  year: 2015
+
+# 2014
+- name: ECOOP
+  role: Artifact Evaluation PC Member
+  year: 2014
+  website: http://ecoop14.it.uu.se
+
+# 2013
+- name: TSE
+  role: Reviewer
+  year: 2013
