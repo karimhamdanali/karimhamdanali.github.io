@@ -1,5 +1,7 @@
 {% assign members = project.members | split: "," | sort | push: "karim" %}
 {% for member in members %}
   {% assign mapler = site.data.maplers | where: "id",member | first %}
-  {% include /functions/getmaplerpic.html mapler=mapler class="img-circle" %}
+  <a href="{{ "/students/#" | append: mapler.id | prepend: site.baseurl }}">
+    {% include /functions/getmaplerpic.html mapler=mapler class="img-circle" %}
+  </a>
 {% endfor %}

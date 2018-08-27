@@ -380,12 +380,12 @@
  */
 .img-circle {
   width: 32px;
-  opacity: 0.5;
+  opacity: 1.0;
   border-radius: 50%;
 }
 
 .img-circle:hover {
-  opacity: 1.0;
+  opacity: 0.5;
 }
 
 
