@@ -17,10 +17,13 @@ If you are interested in joining Maple, I strongly encourage you to apply to the
 Below is a list of current, affiliated, and former Maplers.
 
 ### Current Maplers
-{% include maplers.html data=site.data.advisees %}
+{% assign current = site.data.maplers | where:"status","current" %}
+{% include maplers.html data=current %}
 
 ### Affiliated Maplers
-{% include maplers.html data=site.data.affiliated %}
+{% assign affiliated = site.data.maplers | where:"status","affiliated" %}
+{% include maplers.html data=affiliated %}
 
 ### Former Maplers
-{% include maplers.html data=site.data.former %}
+{% assign former = site.data.maplers | where:"status","former" %}
+{% include maplers.html data=former %}

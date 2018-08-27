@@ -13,6 +13,9 @@
 		<p>
       {{ project.abstract }}
     </p>
+    <p>
+      {% include /functions/getprojectpubs.html project=project %}
+    </p>
 	</div>
 </div>
 {% endfor %}

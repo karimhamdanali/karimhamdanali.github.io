@@ -1,89 +1,169 @@
+# Current
+- name: Ifaz Kabir
+  prog: phd
+  id: ikabir
+  website: http://www.ifazk.com
+  status: current
+  bio: Ifaz is a PhD student in Computing Science. He obtained a bachelor's degree in Pure Mathematics and Computer Science as well as a Masters degree in Computer Science, all at the University of Waterloo. He's interested in type systems, type inference, null safety, type systems for logic, and program analysis.
+
+- name: Abdul Ali Bangash
+  prog: phd
+  id: bangash
+  website: https://sites.google.com/view/bangash
+  status: current
+  bio: Abdul Ali is a PhD student in Computing Science. He obtained his Master's in Software Engineering at FAST National University, Pakistan. He's generally interested in helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence.
+
+
+- name: Kristen Newbury
+  prog: masters
+  id: knewbury
+  website:
+  status: current
+  bio: Kristen is a Master's student in Computing Science. She's interested in using program analysis to detect crypto API misuses.
+
+- name: Erick Ochoa
+  prog: masters
+  id: eochoa
+  website: https://efferifick.gitlab.io/compiler-dictionary/
+  status: current
+  bio: Erick is a Master's student in Computing Science. He has worked on FPGAs, benchmarking, and managed runtimes. He's also interested in program verification, program synthesis, and new media art.
+
+- name: Alexander MacKenzie
+  prog: undergrad
+  id: almacken
+  status: current
+  bio: Alex is a dual major Computing Science and Biology undergrad student. He has worked in the lab in the summers of 2017 and 2018 to help build various components in <a href="https://github.com/ABenchM" alt="ABM">ABM</a> and <a href="https://github.com/delphi-hub" alt="Delphi">Delphi</a>.
+
+- name: Revan MacQueen
+  prog: undergrad
+  id: revan
+  website: https://www.linkedin.com/in/revan-macqueen-931ab716a/
+  status: current
+  bio: Revan is a senior honours Computing Science undergrad student working in the lab in the summer of 2018 on applying programming language techniques to machine learning systems.
+
+# Affiliated
+- name: Stefan Krüger
+  prog: phd
+  id: skrueger
+  status: affiliated
+  bio: Stefan is a PhD Student at Paderborn University (supervised by Eric Bodden), and a member of the collaborative research center CROSSING. In 2014, he received his Master's Degree in Computer Science at Otto-von-Guericke University in Magdeburg. CROSSING aims at devising future-proof cryptography that is sound and easy to use even for non-experts. In that vein, his main research interests are API usability, DSLs for the specification of security properties of programs, and automated detection of crypto API misuses.
+
+- name: Lisa Nguyen Quang Do
+  prog: phd
+  id: lnqd
+  website: http://lisanqd.com
+  status: affiliated
+  bio: Lisa is a PhD Student at Paderborn University (supervised by Eric Bodden). She has received her MSc. in Computer Science from EPFL in 2014. Her research focuses on improving the usability of program analysis tools for code developers through different aspects that range from the optimization of the analysis algorithm to the implementation of its framework to the usability of its interface.
+
+- name: Johannes Späth
+  prog: phd
+  id: spaeth
+  status: affiliated
+  bio: Johannes is a Research Associate at the Software Engineering and IT Security Department of Fraunhofer IEM in Paderborn. In 2013, Johannes finished his Master's degree in Mathematics at TU Darmstadt. He joined the research group of Eric Bodden in 2014 and since then his research focuses on static analysis where he enjoys developing efficient and precise algorithms, e.g., points-to or typestate analysis.
+
+# Former
 - name: Jeff Cho
   prog: undergrad
   id: gojeffcho
   website: http://www.jeffcho.com
+  status: former
   bio: Jeff is a senior undergrad student in Computing Science with a passion for game development. Jeff has worked in the lab for over a year (2017–2018) to help kickstart RoadRunner by co-mentoring 8 undergrad students under the umbrella of <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a>.
 
 - name: Mark Mroz
   prog: undergrad
   id: mmroz
+  status: former
   bio: He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to RoadRunner.
 
 - name: Bryan Tam
   prog: undergrad
   id: btam
+  status: former
   bio: Bryan is a senior undergrad student in Computer Science at the University of Toronto with an interest in computer systems. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in the winter of 2018, and as a research assistant in the summer of 2018, to contribute to RoadRunner.
 
 - name: Leo Li
   prog: undergrad
   id: ao
   website: http://leeeo.me/
+  status: former
   bio: Leo obtained a bachelor's degree in Computer Science from Simon Fraser University where he was interested in programming languages and software engineering. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to RoadRunner. He went on to do his Master's degree at the University of Toronto.
 
 - name: Anthony Hill
   prog: undergrad
   id: ahill
+  status: former
   bio: Anthony obtained his bachelor's degree in Computer Science from Wilfrid Laurier University. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to RoadRunner.
 
 - name: Swapnil Shah
   prog: undergrad
   id: swapnil
   website: https://www.linkedin.com/in/swapnilshahlinked/
+  status: former
   bio: Swapnil obtained an honors bachelor's degree in Computer Science from the University of Toronto. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>. He went on to work as a software engineer at <a href="https://www.okera.com" alt="Okera" target="_blank">Okera</a>.
 
 - name: Tyler Pavlovic
   prog: undergrad
   id: tyler
   website: https://www.linkedin.com/in/tyler-pavlovic/
+  status: former
   bio: Tyler obtained his bachelor's degree in Computer Science from the University of New Brunswick. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>. He went on to work as an Application Developer at the Atlantic Canada Opportunities Agency, a government agency that provides funding through grants and loans to small and medium enterprises in Atlantic Canada.
 
 - name: Alex Li
   prog: undergrad
   id: alex
+  status: former
   bio: Alex obtained his bachelor's degree in Computer Science from Western University. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to the user interface overhaul of <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>.
 
 - name: Yaser Alkayale
   prog: undergrad
   id: yaser
   website: https://www.yaser.ca
+  status: former
   bio: Yaser obtained a bachelor's degree in Computer Science from Dalhousie University where he developed his passion for algorithms engineering research. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to RoadRunner. He went on to work as a software engineer at Microsoft with the Azure Data Factory Team.
 
 - name: Lydia Wu
   prog: undergrad
   id: lydia
+  status: former
   bio: Qi (Lydia) Wu is an undergraduate student at Simon Fraser University (Dual Degree Program with Zhejiang University, China). Her research interests include computing systems and computer vision. She worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to RoadRunner.
 
 - name: Chen Song
   prog: undergrad
   id: chen
   website: http://www.songc.me
+  status: former
   bio: Chen Song is an undergraduate student at Simon Fraser University (Dual Degree Program with Zhejiang University, China). His research interests include performance issues in cloud computing and deep-learning based image generation. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to RoadRunner.
 
 - name: Stuart Hoye
   prog: undergrad
   id: hoye
   website: https://stuarthoye.github.io
+  status: former
   bio: Stuart obtained his bachelor's degree in Computing Science from the University of Alberta in 2017. He worked in the lab in the summer of 2017 to build <a href="https://github.com/cmput229/TA_classroom_manager" alt="Classroom Management" target="_blank">a suite of classroom management tools</a> that are based on GitHub Classroom. He went on to work as an application consultant for Ontracks Consulting.
 
 - name: Adrian Margel
   prog: high school
   id: margel
+  status: former
   bio: Adrian was a high school student who worked in the lab in the summer of 2017. He built Java web crawlers for GitHub and BitBucket projects that were later integrated in <a href="https://github.com/ABenchM" alt="ABM" target="_blank">ABM</a>, a platform for automated benchmark management. He went on to attend NAIT in Fall 2018.
 
 - name: Noah Weninger
   prog: undergrad
   id: nweninge
   website: https://byte.observer
+  status: former
   bio: Noah is a senior undergrad student in Computing Science with a passion for programming languages, algorithms, games, and procedural art. Noah has worked in the lab in the winter of 2017 to help kickstart RoadRunner.
 
 - name: Michael Appel
   prog: masters
   id: mappel
+  status: former
   bio: Michael obtained his Master’s degree in Computer Science at TU Darmstadt, where his thesis was about modelling the side effects of the Android SDK.
 
 - name: Manuel Benz
   prog: masters
   id: mbenz
   website: https://www.linkedin.com/in/manuel-benz-39b5b698/
+  status: former
   thesis: http://www.st.informatik.tu-darmstadt.de/artifacts/theses/thesis-2016-benz-interprocedural-groums.pdf
   bio: Manuel obtained his Master’s degree in Computer Science and IT-Security at TU Darmstadt, where his thesis was about finding misuses of crypto APIs. His main research interests are static and dynamic program analysis and, especially, how we can combine them to mitigate the drawbacks of each other. He went on to be a PhD researcher at Paderborn University, Germany.

@@ -1,3 +1,8 @@
 {% assign members = project.members | append: ',karim' | split: ',' | sort %}
+{% assign maplers = concat: %}
+{% for member in members %}
+{% assign mapler = site.data.%}
+
+{% endfor %}
 
 {{ members }}
