@@ -1,8 +1,5 @@
-{% assign members = project.members | append: ',karim' | split: ',' | sort %}
-{% assign maplers = concat: %}
+{% assign members = project.members | append: ",karim" | split: "," | where_exp: "m","m.size > 0" | sort %}
 {% for member in members %}
-{% assign mapler = site.data.%}
-
+  {% assign mapler = site.data.maplers | where: "id",member | first %}
+  {% include /functions/getmaplerpic.html mapler=mapler class="img-circle" %}
 {% endfor %}
-
-{{ members }}

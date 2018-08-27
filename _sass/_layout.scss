@@ -376,9 +376,22 @@
 }
 
 /**
+ * Projects
+ */
+.img-circle {
+  width: 32px;
+  opacity: 0.5;
+  border-radius: 50%;
+}
+
+.img-circle:hover {
+  opacity: 1.0;
+}
+
+
+/**
  * Services
  */
-
 .row.service {
   margin-bottom: 0px;
 }

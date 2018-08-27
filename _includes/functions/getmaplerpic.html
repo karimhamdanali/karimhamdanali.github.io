@@ -9,4 +9,4 @@
 {% endfor %}
 
 {% assign pic = pic | strip_newlines | replace: " ", "" %}
-<img alt="{{ mapler.name }}" src="{{ pic }}" />
+<img class="{{ include.class | default: "" }}" alt="{{ mapler.name }}" src="{{ pic }}" />
