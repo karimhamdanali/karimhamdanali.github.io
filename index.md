@@ -10,10 +10,12 @@ Few static analyses make their way to the real-world due to the unrealistic assu
 Below is a list of my current and inactive projects.
 
 ### Current Projects
-{% include projects.html data=site.data.projects %}
+{% assign current = site.data.projects | where_exp: "project", "project.end == nil" %}
+{% include projects.html data=current %}
 
 ### Inactive Projects
-{% include projects.html data=site.data.inactives %}
+{% assign inactive = site.data.projects | where_exp: "project", "project.end != nil" %}
+{% include projects.html data=inactive %}
 
 
 ## Current Projects ##

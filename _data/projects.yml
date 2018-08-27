@@ -1,7 +1,6 @@
 - name: Program Analysis for Machine Learning Systems
   id: plml
   start: 2018
-  end:
   members: revan,ikabir
   publications:
   abstract:
@@ -9,7 +8,6 @@
 - name: RoadRunner
   id: swift
   start: 2017
-  end:
   members: bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
   publications:
   abstract: Program Analysis for Swift
@@ -18,7 +16,6 @@
   id: jit
   github:
   start: 2016
-  end:
   members: eochoa
   publications:
   abstract:
@@ -26,7 +23,6 @@
 - name: Misuses of Crypto APIs
   id: crypto
   start: 2015
-  end:
   members: knewbury,skrueger,mbenz
   publications:
   abstract:
@@ -34,7 +30,6 @@
 - name: Usability of Static Analysis Tools
   id: usability
   start: 2014
-  end:
   members: lnqd,almacken,alex,tyler,swapnil
   publications:
   abstract:
@@ -42,7 +37,6 @@
 - name: Scalable and Precise Pointer Analysis
   id: scale
   start: 2014
-  end:
   members: spaeth
   publications:
   abstract:
@@ -51,7 +45,36 @@
   id: ave
   github:
   start: 2012
-  end:
   members: mappel
   publications:
   abstract: Generating efficient library code summaries
+
+- name: ScalaCG
+  id: scalacg
+  website: https://github.com/themaplelab/scalacg
+  start: 2013
+  end: 2015
+  publications:
+  abstract: A collection of low-cost call graph analyses for Scala
+
+- name: CGC
+  id: cgc
+  website:
+  start: 2010
+  end: 2012
+  publications:
+  abstract: Datalog-based library code summaries
+
+- name: Algorizmi
+  id: algorizmi
+  website: https://sourceforge.net/projects/algorizmi/
+  start: 2008
+  end: 2009
+  abstract: An open-source configurable virtual testbed (based on the Eucalyptus cloud platform) for evaluating Intrusion Detection Systems.
+
+- name: Beep
+  id: beep
+  website: https://sourceforge.net/projects/beep/
+  start: 2006
+  end: 2007
+  abstract: A wireless telecommunication framework based on the Jabber protocol, targeting JME (known before as J2ME) enabled devices.
