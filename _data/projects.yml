@@ -45,9 +45,10 @@
   id: ave
   github:
   start: 2012
+  end: 2018
   members: mappel
   publications:
-  abstract: Generating efficient library code summaries. Averroes is a tool that generates a placeholder library overapproximating the possible behaviour of the original library. The placeholder library can be constructed quickly without analyzing the whole program (using the separate compilation assumption), and is typically in the order of 80 kB of classes (comparatively, the Java standard library is 25 MB). Any existing whole-program call graph construction framework can use the placeholder library as a replacement for the actual libraries to efficiently construct a sound and precise application call graph.
+  abstract: Averroes is a placeholder library generator that enables the use of the separate compilation assumption in any Java whole-program analysis framework. Using Averroes reduces the amount of code that needs to be analyzed by up to 300x, improving the performance of call graph analysis as it becomes up to 14x faster, and uses up to 7x less memory. Averroes is currently used by the major Java static analysis frameworks, Soot, WALA (IBM T. J. Watson Libraries for Analysis), and DOOP.
 
 - name: ScalaCG
   id: scalacg
@@ -63,7 +64,7 @@
   start: 2010
   end: 2012
   publications:
-  abstract: Datalog-based library code summaries
+  abstract: Datalog-based library code summaries. This assumption enables identifying a set of constraints that model the side effects of the unanalyzed library code (e.g., class instantiations and method calls) in a sound and precise fashion.
 
 - name: Algorizmi
   id: algorizmi
