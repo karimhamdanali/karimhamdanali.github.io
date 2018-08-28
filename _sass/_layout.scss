@@ -379,13 +379,13 @@
  * Projects
  */
 .img-circle {
-  width: 32px;
-  opacity: 1.0;
+  width: 24px;
+  opacity: $hover-opacity;
   border-radius: 50%;
 }
 
 .img-circle:hover {
-  opacity: 0.5;
+  opacity: 1.0;
 }
 
 

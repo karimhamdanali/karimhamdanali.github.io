@@ -1,9 +1,9 @@
-- name: Program Analysis for Machine Learning Systems
+- name: PL for ML
   id: plml
   start: 2018
   members: revan,ikabir
   publications:
-  abstract:
+  abstract: Program Analysis for Machine Learning Systems
 
 - name: RoadRunner
   id: swift
@@ -20,7 +20,7 @@
   publications:
   abstract:
 
-- name: Misuses of Crypto APIs
+- name: Detecting Misuses of Crypto APIs
   id: crypto
   start: 2015
   members: knewbury,skrueger,mbenz
