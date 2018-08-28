@@ -1,7 +1,7 @@
 - name: Karim Ali
   id: karim
   website: https://karimali.ca
-  
+
 # Current
 - name: Ifaz Kabir
   prog: phd
@@ -76,8 +76,9 @@
 - name: Mark Mroz
   prog: undergrad
   id: mmroz
+  website: linkedin.com/in/mark-mroz
   status: former
-  bio: He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to RoadRunner.
+  bio: Mark is a Software Engineering student at the University of Ottawa. He has expertise in iOS development using Swift and web development in Ruby On Rails. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to RoadRunner.
 
 - name: Bryan Tam
   prog: undergrad

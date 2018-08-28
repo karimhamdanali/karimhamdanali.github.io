@@ -47,7 +47,7 @@
   start: 2012
   members: mappel
   publications:
-  abstract: Generating efficient library code summaries
+  abstract: Generating efficient library code summaries. Averroes is a tool that generates a placeholder library overapproximating the possible behaviour of the original library. The placeholder library can be constructed quickly without analyzing the whole program (using the separate compilation assumption), and is typically in the order of 80 kB of classes (comparatively, the Java standard library is 25 MB). Any existing whole-program call graph construction framework can use the placeholder library as a replacement for the actual libraries to efficiently construct a sound and precise application call graph.
 
 - name: ScalaCG
   id: scalacg
