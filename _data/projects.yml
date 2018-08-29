@@ -56,7 +56,7 @@
   start: 2013
   end: 2015
   publications:
-  abstract: ScalaCG is a collection of low-cost call graph construction algorithms for Scala. ScalaCG analyzes the Scala source code and supports specific features of Scala such as traits, abstract type members, closures, and path-dependent types. Using ScalaCG produces call graphs that are up to 19x more precise than using a bytecode-based approach in terms of call edges and reachable nodes. ScalaCG was awarded a Distinguished Artifact Award at the European Conference on Object-Oriented Programming (ECOOP) in 2014. Scalacg has been extended by the original Scala research group at EPFL to improve call graph precision and decrease analysis time for non-trivial Scala programs. These extensions are integrated in the upcoming Scala Dotty compiler.
+  abstract: Is analyzing the Scala source code any different than analyzing the JVM bytecodes that the Scala compiler generates? In this work, we developed ScalaCG, a collection of low-cost call graph analyses that target the Scala source code and support various Scala features such as traits, abstract type members, closures, and path-dependent types. Using ScalaCG produces call graphs that are up to 19x more precise than using a bytecode-based approach in terms of call edges and reachable nodes. ScalaCG was awarded a Distinguished Artifact Award at the European Conference on Object-Oriented Programming (ECOOP) in 2014. Scalacg has been extended by the original Scala research group at EPFL to improve call graph precision and decrease analysis time for non-trivial Scala programs. These extensions are integrated in the upcoming Scala Dotty compiler.
 
 - name: Algorizmi
   id: algorizmi
