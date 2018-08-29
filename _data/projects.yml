@@ -3,14 +3,14 @@
   start: 2018
   members: revan,ikabir
   publications:
-  abstract: Program Analysis for Machine Learning Systems
+  description: Program Analysis for Machine Learning Systems
 
 - name: RoadRunner
   id: swift
   start: 2017
   members: bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
   publications:
-  abstract: Program Analysis for Swift
+  description: Program Analysis for Swift
 
 - name: Just-in-Time Compilers
   id: jit
@@ -18,28 +18,28 @@
   start: 2016
   members: eochoa
   publications:
-  abstract:
+  description:
 
 - name: Detecting Misuses of Crypto APIs
   id: crypto
   start: 2015
   members: knewbury,skrueger,mbenz
   publications:
-  abstract:
+  description:
 
 - name: Usability of Static Analysis Tools
   id: usability
   start: 2014
   members: lnqd,almacken,alex,tyler,swapnil
   publications:
-  abstract:
+  description:
 
 - name: Scalable and Precise Pointer Analysis
   id: scaleprecise
   start: 2014
   members: spaeth
   publications:
-  abstract:
+  description:
 
 - name: Partial-Program Analysis for Java
   id: averroes
@@ -48,7 +48,7 @@
   end: 2016
   members: mappel
   publications:
-  abstract: Can we perform whole-program analysis of a given Java application without analyzing the whole program? Through light-weight static analyses of the structure of a given application, we have shown that the answer to this question is <b>yes</b>. Moreover, we developed Averroes, a placeholder library generator that enables the use of that suite in any Java whole-program analysis framework. Using Averroes reduces the amount of code that needs to be analyzed by up to 600x, improving the performance of call graph analysis as it becomes up to 14x faster, and uses up to 7x less memory. Averroes is currently used by the major Java static analysis frameworks, <a href="https://github.com/Sable/soot/wiki/Extensions-to-Soot" target="_blank">Soot</a>, <a href="https://github.com/wala/WALA/wiki/WALA-Based-Tools" target="_blank">WALA</a>, and <a href="https://bitbucket.org/yanniss/doop" target="_blank">DOOP</a>.
+  description: Can we perform whole-program analysis of a given Java application without analyzing the whole program? Through light-weight static analyses of the structure of a given application, we have shown that the answer to this question is <b>yes</b>. Moreover, we developed Averroes, a placeholder library generator that enables the use of that suite in any Java whole-program analysis framework. Using Averroes reduces the amount of code that needs to be analyzed by up to 600x, improving the performance of call graph analysis as it becomes up to 14x faster, and uses up to 7x less memory. Averroes is currently used by the major Java static analysis frameworks, <a href="https://github.com/Sable/soot/wiki/Extensions-to-Soot" target="_blank">Soot</a>, <a href="https://github.com/wala/WALA/wiki/WALA-Based-Tools" target="_blank">WALA</a>, and <a href="https://bitbucket.org/yanniss/doop" target="_blank">DOOP</a>.
 
 - name: ScalaCG
   id: scalacg
@@ -56,18 +56,18 @@
   start: 2013
   end: 2015
   publications:
-  abstract: Is analyzing the Scala source code any different than analyzing the JVM bytecodes that the Scala compiler generates? In this work, we developed ScalaCG, a collection of low-cost call graph analyses that target the Scala source code and support various Scala features such as traits, abstract type members, closures, and path-dependent types. Using ScalaCG produces call graphs that are up to 19x more precise than using a bytecode-based approach in terms of call edges and reachable nodes. ScalaCG was awarded a Distinguished Artifact Award at the European Conference on Object-Oriented Programming (ECOOP) in 2014. Scalacg has been extended by the original Scala research group at EPFL to improve call graph precision and decrease analysis time for non-trivial Scala programs. These extensions are integrated in the upcoming Scala Dotty compiler.
+  description: Is analyzing the Scala source code any different than analyzing the JVM bytecodes that the Scala compiler generates? In this work, we developed ScalaCG, a collection of low-cost call graph analyses that target the Scala source code and support various Scala features such as traits, abstract type members, closures, and path-dependent types. Using ScalaCG produces call graphs that are up to 19x more precise than using a bytecode-based approach in terms of call edges and reachable nodes. ScalaCG was awarded a Distinguished Artifact Award at the European Conference on Object-Oriented Programming (ECOOP) in 2014. Scalacg has been extended by the original Scala research group at EPFL to improve call graph precision and decrease analysis time for non-trivial Scala programs. These extensions are integrated in the upcoming Scala Dotty compiler.
 
 - name: Algorizmi
   id: algorizmi
   website: https://sourceforge.net/projects/algorizmi/
   start: 2008
   end: 2009
-  abstract: An open-source configurable virtual testbed (based on the Eucalyptus cloud platform) for evaluating Intrusion Detection Systems.
+  description: An open-source configurable virtual testbed (based on the Eucalyptus cloud platform) for evaluating Intrusion Detection Systems.
 
 - name: Beep
   id: beep
   website: https://sourceforge.net/projects/beep/
   start: 2006
   end: 2007
-  abstract: A wireless telecommunication framework based on the Jabber protocol, targeting JME (known before as J2ME) enabled devices.
+  description: A wireless telecommunication framework based on the Jabber protocol, targeting JME (known before as J2ME) enabled devices.
