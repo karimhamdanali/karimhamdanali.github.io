@@ -35,20 +35,20 @@
   abstract:
 
 - name: Scalable and Precise Pointer Analysis
-  id: scale
+  id: scaleprecise
   start: 2014
   members: spaeth
   publications:
   abstract:
 
-- name: Averroes
-  id: ave
+- name: Partial-Program Analysis for Java
+  id: averroes
   github:
-  start: 2012
-  end: 2018
+  start: 2010
+  end: 2016
   members: mappel
   publications:
-  abstract: Averroes is a placeholder library generator that enables the use of the separate compilation assumption in any Java whole-program analysis framework. Using Averroes reduces the amount of code that needs to be analyzed by up to 300x, improving the performance of call graph analysis as it becomes up to 14x faster, and uses up to 7x less memory. Averroes is currently used by the major Java static analysis frameworks, Soot, WALA (IBM T. J. Watson Libraries for Analysis), and DOOP.
+  abstract: Can we perform whole-program analysis of a given Java application without analyzing the whole program? Through light-weight static analyses of the structure of a given application, we have shown that the answer to this question is <b>yes</b>. Moreover, we developed Averroes, a placeholder library generator that enables the use of that suite in any Java whole-program analysis framework. Using Averroes reduces the amount of code that needs to be analyzed by up to 600x, improving the performance of call graph analysis as it becomes up to 14x faster, and uses up to 7x less memory. Averroes is currently used by the major Java static analysis frameworks, <a href="https://github.com/Sable/soot/wiki/Extensions-to-Soot" target="_blank">Soot</a>, <a href="https://github.com/wala/WALA/wiki/WALA-Based-Tools" target="_blank">WALA</a>, and <a href="https://bitbucket.org/yanniss/doop" target="_blank">DOOP</a>.
 
 - name: ScalaCG
   id: scalacg
@@ -56,15 +56,7 @@
   start: 2013
   end: 2015
   publications:
-  abstract: A collection of low-cost call graph analyses for Scala
-
-- name: CGC
-  id: cgc
-  website:
-  start: 2010
-  end: 2012
-  publications:
-  abstract: Datalog-based library code summaries. This assumption enables identifying a set of constraints that model the side effects of the unanalyzed library code (e.g., class instantiations and method calls) in a sound and precise fashion.
+  abstract: ScalaCG is a collection of low-cost call graph construction algorithms for Scala. ScalaCG analyzes the Scala source code and supports specific features of Scala such as traits, abstract type members, closures, and path-dependent types. Using ScalaCG produces call graphs that are up to 19x more precise than using a bytecode-based approach in terms of call edges and reachable nodes. ScalaCG was awarded a Distinguished Artifact Award at the European Conference on Object-Oriented Programming (ECOOP) in 2014. Scalacg has been extended by the original Scala research group at EPFL to improve call graph precision and decrease analysis time for non-trivial Scala programs. These extensions are integrated in the upcoming Scala Dotty compiler.
 
 - name: Algorizmi
   id: algorizmi
