@@ -6,17 +6,16 @@ url: https://karimali.ca # the base hostname & protocol for your site
 title: Karim Ali
 email: karim.ali@ualberta.ca
 group: Programming Languages Lab (Maple)
-groupweb: https://twitter.com/themaplelab
-dept: Department of Computing Science
-deptweb: http://cs.ualberta.ca
+groupweb: https://github.com/themaplelab
+dept: Computing Science
+deptweb: https://cs.ualberta.ca
 institution: University of Alberta
-institutionweb: http://ualberta.ca
-address: 3-42 Athabasca Hall
-city: Edmonton, Alberta
-zipcode: T6G 2E8
-country: Canada
-twitter_username: karimhamdanali
-github_username:  karimhamdanali
+institutionweb: https://ualberta.ca
+address: ATH 3-42
+twitter: karimhamdanali
+github: karimhamdanali
+dblp: https://dblp.uni-trier.de/pers/hd/a/Ali_0001:Karim
+gscholar: https://scholar.google.ca/citations?user=TC8495oAAAAJ&hl=en
 
 # Build settings
 markdown: kramdown
