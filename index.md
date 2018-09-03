@@ -20,8 +20,3 @@ Below is a list of my current and inactive projects.
 
 ## Current Projects ##
 {% include filteredposts.html %}
-
-## Past Projects ##
-
-* <a href="http://sourceforge.net/projects/algorizmi/" target="_blank">algorizmi</a>: a configurable virtual testbed for intrusion detection systems evaluation.
-* <a href="http://sourceforge.net/projects/beep/" target="_blank">beep</a>: a J2ME implementation of the Jabber protocol.
