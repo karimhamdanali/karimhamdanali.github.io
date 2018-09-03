@@ -94,7 +94,8 @@ a {
     text-decoration: none;
 
     &:hover {
-        color: $text-color;
+        // color: $text-color;
+        opacity: $hover-opacity;
         cursor: pointer;
     }
 }
@@ -216,6 +217,10 @@ pre {
         vertical-align: middle;
         fill: black;
     }
+}
+
+.icon:hover {
+  opacity: $hover-opacity;
 }
 
 /**

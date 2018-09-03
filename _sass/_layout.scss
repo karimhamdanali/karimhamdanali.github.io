@@ -384,12 +384,11 @@
  */
 .img-circle {
   width: 24px;
-  opacity: $hover-opacity;
   border-radius: 50%;
 }
 
 .img-circle:hover {
-  opacity: 1.0;
+  opacity: $hover-opacity;
 }
 
 

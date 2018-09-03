@@ -32,12 +32,6 @@
   status: current
   bio: Erick is a Master's student in Computing Science. He has worked on FPGAs, benchmarking, and managed runtimes. He's also interested in program verification, program synthesis, and new media art.
 
-- name: Alexander MacKenzie
-  prog: undergrad
-  id: almacken
-  status: current
-  bio: Alex is a dual major Computing Science and Biology undergrad student. He has worked in the lab in the summers of 2017 and 2018 to help build various components in <a href="https://github.com/ABenchM" alt="ABM">ABM</a> and <a href="https://github.com/delphi-hub" alt="Delphi">Delphi</a>.
-
 - name: Revan MacQueen
   prog: undergrad
   id: revan
@@ -66,6 +60,12 @@
   bio: Johannes is a Research Associate at the Software Engineering and IT Security Department of Fraunhofer IEM in Paderborn. In 2013, Johannes finished his Master's degree in Mathematics at TU Darmstadt. He joined the research group of Eric Bodden in 2014 and since then his research focuses on static analysis where he enjoys developing efficient and precise algorithms, e.g., points-to or typestate analysis.
 
 # Former
+- name: Alexander MacKenzie
+  prog: undergrad
+  id: almacken
+  status: former
+  bio: Alex is a dual major Computing Science and Biology undergrad student. He has worked in the lab in the summers of 2017 and 2018 to help build various components in <a href="https://github.com/ABenchM" alt="ABM">ABM</a> and <a href="https://github.com/delphi-hub" alt="Delphi">Delphi</a>.
+  
 - name: Jeff Cho
   prog: undergrad
   id: gojeffcho
