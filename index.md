@@ -16,7 +16,3 @@ Below is a list of my current and inactive projects.
 ### Inactive Projects
 {% assign inactive = site.data.projects | where_exp: "project", "project.end != nil" %}
 {% include projects.html data=inactive %}
-
-
-## Current Projects ##
-{% include filteredposts.html %}

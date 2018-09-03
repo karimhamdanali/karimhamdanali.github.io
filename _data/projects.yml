@@ -18,7 +18,8 @@
   start: 2016
   members: eochoa
   publications:
-  description:
+  description: Can we help JIT compilers make better decisions when applying a code transformation? In this work, we have been developing several algorithms that enable a JIT compiler to reason not only about the cost of applying a code tranformation (e.g., method inlining), but also about the potential future benefits (e.g., further optimizations) that applying such a code transformation has.
+  impact:
 
 - name: Detecting Misuses of Crypto APIs
   id: crypto
