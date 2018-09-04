@@ -27,7 +27,7 @@
   members: knewbury,skrueger,mbenz
   publications:
   description: Can program analysis help developers use crypto APIs more securely? In this work, we have been working on an end-to-end solution to detect misuses of crypto APIs that provides a DSL to define the correct uses of an API, a compiler that generates static analysis checks based on those rules, and IDE extensions that help developers detect misuses in their code based on our infrastructure.
-  impact: Most recently, our work helped <a href="https://support.symantec.com/en_US/article.SYMSA1460.html" target="_blank">Symantec</a> fix a bug in one of its products that could lead to privilege escalation.
+  impact: Most recently, our work with <a href="https://projects.eclipse.org/projects/technology.cognicrypt" target="_blank">CogniCrypt</a> helped <a href="https://support.symantec.com/en_US/article.SYMSA1460.html" target="_blank">Symantec</a> fix a bug in one of its products that could lead to privilege escalation.
 
 - name: Usability of Static Analysis Tools
   id: usability
