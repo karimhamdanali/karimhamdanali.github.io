@@ -5,14 +5,17 @@ permalink: /teaching/
 weight: 4
 group: teaching
 ---
-### University of Alberta
-* Fall 2017: [CMPUT 620 - Static Program Analysis](https://eclass.srv.ualberta.ca/local/eclass/landing/guestlink.php?cid=39320)
-* Winter 2017: CMPUT 229 - Computer Organization and Architecture I
-* Fall 2016: [CMPUT 620 - Static Program Analysis][spa]{:target="_blank"}
-
-### TU Darmstadt
-
-* Winter 2015/2016: [Static Analysis Seminar (SAS)][sas]
-
-[sas]:   {{ "/sas/" | prepend: site.baseurl }}
-[spa]:   https://www.ualberta.ca/computing-science/graduate-studies/course-directory/courses/static-program-analysis
+These are the courses that I regularly teach.
+{% for course in site.data.courses %}
+<div class="row" name="{{ course.id }}">
+  <div class="row-pic">
+		{% include /functions/getcoursepic.html course=course %}
+	</div>
+	<div class="row-info">
+    <a href="" target="_blank">CMPUT {{ course.id }} {{ course.name }}</a>
+		<p>
+      {{ course.description }}
+    </p>
+	</div>
+</div>
+{% endfor %}
