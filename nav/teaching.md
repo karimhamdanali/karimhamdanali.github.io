@@ -12,7 +12,7 @@ These are the courses that I regularly teach.
 		{% include /functions/getcoursepic.html course=course %}
 	</div>
 	<div class="row-info">
-    <a href="" target="_blank">CMPUT {{ course.id }} {{ course.name }}</a>
+    <a href="{{ course.website | default: "#" }}" target="_blank">CMPUT {{ course.id }} {{ course.name }}</a>
 		<p>
       {{ course.description }}
     </p>
