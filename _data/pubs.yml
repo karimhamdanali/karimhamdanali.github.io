@@ -1,0 +1,173 @@
+- id: visuflow
+  title: Debugging Static Analysis
+  authors: Lisa Nguyen Quang Do, Stefan Krüger, Patrick Hill, Karim Ali, and Eric Bodden
+  venue: IEEE Transactions on Software Engineering (TSE)
+  year: 2018
+  pages:
+  doi: https://doi.org/10.1109/TSE.2018.2868349
+  code: https://github.com/visuflow
+
+- id: crysl
+  title: "CrySL: An Extensible Approach to Validating the Correct Usage of Cryptographic APIs"
+  authors: Stefan Krüger, Johannes Späth, Karim Ali, Eric Bodden, and Mira Mezini
+  venue: European Conference on Object Oriented Programming (ECOOP)
+  year: 2018
+  pages: 10:1–10:27
+  doi: https://doi.org/10.4230/LIPIcs.ECOOP.2018.10
+  code: https://github.com/CROSSINGTUD/CryptSL
+
+- id: visuflow-tool
+  title: "VISUFLOW: a debugging environment for static analyses"
+  authors: Lisa Nguyen Quang Do, Stefan Krüger, Patrick Hill, Karim Ali, and Eric Bodden
+  venue: International Conference on Software Engineering (ICSE) Companion Proceeedings
+  year: 2018
+  pages: 89–92
+  doi: http://doi.acm.org/10.1145/3183440.3183470
+  code: https://github.com/visuflow
+  video: https://www.youtube.com/watch?v=BkEfBDwiuH4
+
+- id: ideal
+  title: "IDE<sup>al</sup>: Efficient and Precise Alias-Aware Dataflow Analysis"
+  authors: Johannes Späth, Karim Ali, and Eric Bodden
+  venue: ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)
+  year: 2017
+  pages: 99:1–99:27
+  doi: http://doi.acm.org/10.1145/3133923
+  code: https://github.com/themaplelab/ideal
+
+- id: oopixy
+  title: Detecting Security Vulnerabilities in Object-Oriented PHP Programs
+  authors: Mona Nashaat, Karim Ali, and James Miller
+  venue: IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM)
+  year: 2017
+  pages: 159–164
+  doi: https://doi.org/10.1109/SCAM.2017.20
+  code: https://github.com/themaplelab/oopixy
+
+- id: cognicrypt-tool
+  title: "CogniCrypt: Supporting Developers in Using Cryptography"
+  authors: Lisa Nguyen Quang Do, Karim Ali, Benjamin Livshits, Eric Bodden, Justin Smith, and Emerson R. Murphy-Hill
+  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  year: 2017
+  pages: 931–936
+  doi: https://doi.org/10.1109/ASE.2017.8115707
+  code: https://github.com/CROSSINGTUD/CogniCrypt
+  video: https://www.youtube.com/watch?v=JUq5mRHfAWY
+
+- id: fpga
+  title: A Case for Better Integration of Host and Target Compilation When Using OpenCL for FPGAs
+  authors: Taylor Lloyd, Artem Chikin, Erick Ochoa, Karim Ali, and José Nelson Amaral
+  venue: International Workshop on FPGAs for Software Programmers (FPS)
+  year: 2017
+  pages:
+  doi:
+
+- id: jit-analysis
+  title: Just-in-Time Static Analysis
+  authors: Lisa Nguyen Quang Do, Karim Ali, Benjamin Livshits, Eric Bodden, Justin Smith, and Emerson R. Murphy-Hill
+  venue: ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA)
+  year: 2017
+  pages: 307–317
+  doi: http://doi.acm.org/10.1145/3092703.3092705
+  code: https://github.com/secure-software-engineering/cheetah
+  award: yes
+
+- id: cheetah-tool
+  title: "Cheetah: Just-in-Time Taint Analysis for Android Apps"
+  authors: Lisa Nguyen Quang Do, Karim Ali, Benjamin Livshits, Eric Bodden, Justin Smith, and Emerson R. Murphy-Hill
+  venue: International Conference on Software Engineering (ICSE) Companion Proceeedings
+  year: 2017
+  pages: 39–42
+  doi: https://doi.org/10.1109/ICSE-C.2017.20
+  code: https://github.com/secure-software-engineering/cheetah
+  video: https://www.youtube.com/watch?v=i_KQD-GTBdA
+
+- id: boomerang
+  title: "Boomerang: Demand-Driven Flow- and Context-Sensitive Pointer Analysis for Java"
+  authors: Johannes Späth, Lisa Nguyen Quang Do, Karim Ali, and Eric Bodden
+  venue: European Conference on Object Oriented Programming (ECOOP)
+  year: 2016
+  pages: "22:1–22:26"
+  doi: https://doi.org/10.4230/LIPIcs.ECOOP.2016.22
+  code: https://github.com/themaplelab/boomerang
+
+- id: scalacg-journal
+  title: Type-Based Call Graph Construction Algorithms for Scala
+  authors: Karim Ali, Marianna Rapoport, Ondřej Lhoták, Julian Dolby, and Frank Tip
+  venue: ACM Transactions on Software Engineering and Methodology (TOSEM)
+  year: 2015
+  pages: "9:1–9:43"
+  doi: http://doi.acm.org/10.1145/2824234
+  code: https://github.com/themaplelab/scalacg
+
+- id: crossing
+  title: Towards Secure Integration of Cryptographic Software
+  authors: Steven Arzt, Sarah Nadi, Karim Ali, Eric Bodden, Sebastian Erdweg, and Mira Mezini
+  venue: ACM International Symposium on New Ideas, New paradigms, and Reflections on Programming and Software (Onward!)
+  year: 2015
+  pages: 1–13
+  doi: http://doi.acm.org/10.1145/2814228.2814229
+
+- id: phd-thesis
+  title: The Separate Compilation Assumption
+  authors: Karim Ali
+  venue: PhD Thesis, David R. Cheriton School of Computer Science, University of Waterloo
+  year: 2014
+  url: http://hdl.handle.net/10012/8835
+
+- id: scalacg
+  title: Constructing Call Graphs of Scala Programs
+  authors: Karim Ali, Marianna Rapoport, Ondřej Lhoták, Julian Dolby, and Frank Tip
+  venue: European Conference on Object Oriented Programming (ECOOP)
+  year: 2014
+  pages: 54–79
+  doi: https://doi.org/10.1007/978-3-662-44202-9_3
+  code: https://github.com/themaplelab/scalacg
+
+- id: averroes
+  title: "Averroes: Whole-Program Analysis Without The Whole Program"
+  authors: Karim Ali and Ondřej Lhoták
+  venue: European Conference on Object Oriented Programming (ECOOP)
+  year: 2013
+  pages: 378–400
+  doi: https://doi.org/10.1007/978-3-642-39038-8_16
+  code: https://github.com/themaplelab/averroes
+
+- id: cgc
+  title: Application-Only Call Graph Construction
+  authors: Karim Ali and Ondřej Lhoták
+  venue: European Conference on Object Oriented Programming (ECOOP)
+  year: 2012
+  pages: 688–712
+  doi: https://doi.org/10.1007/978-3-642-31057-7_30
+  code: https://github.com/themaplelab/cgc
+
+- id: masters-thesis
+  title: "Algorizmi: A Configurable Virtual Testbed to Generate Datasets for Offline Evaluation of Intrusion Detection Systems"
+  authors: Karim Ali
+  venue: M.Math Thesis, David R. Cheriton School of Computer Science, University of Waterloo
+  year: 2010
+  url: http://hdl.handle.net/10012/4921
+
+- id: kernel-ids
+  title: Applying Kernel Methods to Anomaly-Based Intrusion Detection Systems
+  authors: Karim Ali and Raouf Boutaba
+  venue: IEEE Global Information Infrastructure Symposium (GIIS)
+  year: 2009
+  pages:
+  doi: https://doi.org/10.1109/GIIS.2009.5307054
+
+- id: p2p-ais
+  title: "P2P-AIS: A P2P Artificial Immune Systems Architecture for Detecting DDoS Flooding Attacks"
+  authors: Karim Ali, Issam Aib, and Raouf Boutaba
+  venue: IEEE Global Information Infrastructure Symposium (GIIS)
+  year: 2009
+  pages:
+  doi: https://doi.org/10.1109/GIIS.2009.5307053
+
+- id: pervasive
+  title: A Java-Based Programming Language Support of Location Management in Pervasive Systems
+  authors: Sherif G. Aly, Sarah Nadi, and Karim Hamdan
+  venue: International Journal of Computer Science and Network Security (IJCSNS)
+  year: 2008
+  pages: 329–336
