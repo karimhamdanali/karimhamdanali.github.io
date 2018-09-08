@@ -59,8 +59,7 @@
   authors: Taylor Lloyd, Artem Chikin, Erick Ochoa, Karim Ali, and José Nelson Amaral
   venue: International Workshop on FPGAs for Software Programmers (FSP)
   year: 2017
-  pages:
-  doi:
+  pages: 1–9
 
 - id: jit-analysis
   title: Just-in-Time Static Analysis
