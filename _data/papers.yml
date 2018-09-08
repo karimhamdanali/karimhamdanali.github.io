@@ -46,7 +46,7 @@
 
 - id: cognicrypt-tool
   title: "CogniCrypt: Supporting Developers in Using Cryptography"
-  authors: Lisa Nguyen Quang Do, Karim Ali, Benjamin Livshits, Eric Bodden, Justin Smith, and Emerson R. Murphy-Hill
+  authors: Stefan Krüger, Sarah Nadi, Michael Reif, Karim Ali, Mira Mezini, Eric Bodden, Florian Göpfert, Felix Günther, Christian Weinert, Daniel Demmler, and Ram Kamath
   venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
   year: 2017
   pages: 931–936
