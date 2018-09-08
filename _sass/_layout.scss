@@ -114,10 +114,7 @@
             > svg {
                 width: 12px;
                 height: 10px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
+                fill: $grey-color-dark;
             }
         }
 
@@ -156,6 +153,9 @@
     float: left;
     margin-bottom: $spacing-unit / 2;
     //padding-left: $spacing-unit / 2;
+    svg {
+      fill: black;
+    }
 }
 
 .header-col-1 {
