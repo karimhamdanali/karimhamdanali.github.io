@@ -57,7 +57,7 @@
 - id: fpga
   title: A Case for Better Integration of Host and Target Compilation When Using OpenCL for FPGAs
   authors: Taylor Lloyd, Artem Chikin, Erick Ochoa, Karim Ali, and José Nelson Amaral
-  venue: International Workshop on FPGAs for Software Programmers (FPS)
+  venue: International Workshop on FPGAs for Software Programmers (FSP)
   year: 2017
   pages:
   doi:
@@ -70,7 +70,7 @@
   pages: 307–317
   doi: http://doi.acm.org/10.1145/3092703.3092705
   code: https://github.com/secure-software-engineering/cheetah
-  award: yes
+  award: ACM SIGSOFT Distinguished Paper Award
 
 - id: cheetah-tool
   title: "Cheetah: Just-in-Time Taint Analysis for Android Apps"
@@ -123,6 +123,7 @@
   pages: 54–79
   doi: https://doi.org/10.1007/978-3-662-44202-9_3
   code: https://github.com/themaplelab/scalacg
+  award: Distinguished Artifact Award
 
 - id: averroes
   title: "Averroes: Whole-Program Analysis Without The Whole Program"
