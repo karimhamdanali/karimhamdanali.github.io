@@ -12,7 +12,16 @@ group: pubs
   {% for paper in year.items %}
   <div class="publication">
     <div class="publication-title">
-      {{ paper.authors }}. <b>{{ paper.title }}</b>. {{ paper.venue }}{% if paper.pages %}, {{ paper.pages }}{% endif %}.
+      {% if paper.award %}
+      <span class="icon">
+        <svg viewBox="0 0 16 16">
+        <path d="M9.76 8.884v-1.684h-0.363l2.779-6.72h-2.56l-2.096 5.145-2.096-5.145h-2.56l2.779 6.72h-0.362v1.684c-0.968 0.698-1.6 1.834-1.6 3.116 0 2.117 1.723 3.84 3.84 3.84s3.84-1.723 3.84-3.84c0-1.282-0.632-2.418-1.6-3.116zM5.6 7.52h0.181l0.139 0.32h3.2l0.139-0.32h0.182v1.157c-0.565-0.328-1.221-0.517-1.92-0.517s-1.354 0.189-1.92 0.516v-1.156zM7.52 15.2c-1.764 0-3.2-1.436-3.2-3.2s1.436-3.2 3.2-3.2 3.2 1.436 3.2 3.2-1.436 3.2-3.2 3.2z"/>
+        <path d="M7.52 9.28c-1.5 0-2.72 1.22-2.72 2.72s1.22 2.72 2.72 2.72 2.72-1.22 2.72-2.72-1.22-2.72-2.72-2.72zM7.52 14.4c-1.323 0-2.4-1.077-2.4-2.4s1.077-2.4 2.4-2.4 2.4 1.077 2.4 2.4-1.076 2.4-2.4 2.4z"/>
+        <path d="M7.925 11.331l-0.445-0.901-0.445 0.901-0.995 0.145 0.72 0.702-0.17 0.991 0.89-0.468 0.89 0.468-0.17-0.991 0.72-0.702z"/>
+        </svg>
+      </span>
+      {% endif %}
+      {{ paper.authors }}. {{ paper.title }}. {{ paper.venue }}{% if paper.pages %}, {{ paper.pages }}{% endif %}.
     </div>
     <div class="publication-links">
       <a href="{{ "/resources/papers/" | append: paper.id | append: ".pdf" | prepend: site.baseurl }}" target="_blank">
