@@ -1,16 +1,16 @@
-- name: PL for ML
+- name: PL & ML
   id: plml
   start: 2018
   members: revan,ikabir
   publications:
-  description: Program Analysis for Machine Learning Systems
+  description: Can research in programming languages help with machine learning? In this work, we are exploring how to use/develop programming language techniques to solve some of the common problems that researchers and practicioners encounter while building machine learning systems.
 
 - name: RoadRunner
   id: swift
   start: 2017
   members: bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
   publications:
-  description: Program Analysis for Swift
+  description: Can I build a taint analysis for my Swift app? In this work, we have been developing a program analysis framework for Swift programs based on <a href="https://github.com/wala/WALA/" target="_blank">WALA</a>. The framework enables a wide range of static analyses, from simple constant propagation to sophisticated taint anlaysis using the powerful infrastructure that <a href="https://github.com/wala/WALA/" target="_blank">WALA</a> provides.
 
 - name: Just-in-Time Compilers
   id: jit
