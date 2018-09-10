@@ -26,6 +26,16 @@
   code: https://github.com/visuflow
   video: https://www.youtube.com/watch?v=BkEfBDwiuH4
 
+- id: cognicrypt-tool
+  title: "CogniCrypt: Supporting Developers in Using Cryptography"
+  authors: Stefan Krüger, Sarah Nadi, Michael Reif, Karim Ali, Mira Mezini, Eric Bodden, Florian Göpfert, Felix Günther, Christian Weinert, Daniel Demmler, and Ram Kamath
+  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  year: 2017
+  pages: 931–936
+  doi: https://doi.org/10.1109/ASE.2017.8115707
+  code: https://github.com/CROSSINGTUD/CogniCrypt
+  video: https://www.youtube.com/watch?v=JUq5mRHfAWY
+
 - id: ideal
   title: "IDE<sup>al</sup>: Efficient and Precise Alias-Aware Dataflow Analysis"
   authors: Johannes Späth, Karim Ali, and Eric Bodden
@@ -43,16 +53,6 @@
   pages: 159–164
   doi: https://doi.org/10.1109/SCAM.2017.20
   code: https://github.com/themaplelab/oopixy
-
-- id: cognicrypt-tool
-  title: "CogniCrypt: Supporting Developers in Using Cryptography"
-  authors: Stefan Krüger, Sarah Nadi, Michael Reif, Karim Ali, Mira Mezini, Eric Bodden, Florian Göpfert, Felix Günther, Christian Weinert, Daniel Demmler, and Ram Kamath
-  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
-  year: 2017
-  pages: 931–936
-  doi: https://doi.org/10.1109/ASE.2017.8115707
-  code: https://github.com/CROSSINGTUD/CogniCrypt
-  video: https://www.youtube.com/watch?v=JUq5mRHfAWY
 
 - id: fpga
   title: A Case for Better Integration of Host and Target Compilation When Using OpenCL for FPGAs
