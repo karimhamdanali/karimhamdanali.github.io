@@ -10,7 +10,7 @@
   start: 2017
   members: bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
   publications:
-  description: Can I build a taint analysis for my Swift app? In this work, we have been developing a program analysis framework for Swift programs based on <a href="https://github.com/wala/WALA/" target="_blank">WALA</a>. The framework enables a wide range of static analyses, from simple constant propagation to sophisticated taint anlaysis using the powerful infrastructure that <a href="https://github.com/wala/WALA/" target="_blank">WALA</a> provides.
+  description: Can I detect security vulnerabilities in my Swift app? In this work, we have been developing a program analysis framework for Swift programs based on <a href="https://github.com/wala/WALA/" target="_blank">WALA</a>. The framework enables a wide range of static analyses, from simple constant propagation to sophisticated taint anlaysis using the powerful infrastructure that <a href="https://github.com/wala/WALA/" target="_blank">WALA</a> provides.
 
 - name: Just-in-Time Compilers
   id: jit
