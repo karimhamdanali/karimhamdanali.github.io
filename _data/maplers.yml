@@ -44,7 +44,7 @@
   prog: phd
   id: skrueger
   status: affiliated
-  bio: Stefan is a PhD Student at Paderborn University (supervised by Eric Bodden), and a member of the collaborative research center CROSSING. In 2014, he received his Master's Degree in Computer Science at Otto-von-Guericke University in Magdeburg. CROSSING aims at devising future-proof cryptography that is sound and easy to use even for non-experts. In that vein, his main research interests are API usability, DSLs for the specification of security properties of programs, and automated detection of crypto API misuses.
+  bio: Stefan is a PhD Student at Paderborn University (supervised by Eric Bodden), and a member of the collaborative research center CROSSING. In 2014, Stefan received a Master's Degree in Computer Science at Otto-von-Guericke University in Magdeburg. CROSSING aims at devising future-proof cryptography that is sound and easy to use even for non-experts. In that vein, Stefan's main research interests are API usability, DSLs for the specification of security properties of programs, and automated detection of crypto API misuses.
 
 - name: Lisa Nguyen Quang Do
   prog: phd
@@ -65,7 +65,7 @@
   id: almacken
   status: former
   bio: Alex is a dual major Computing Science and Biology undergrad student. He has worked in the lab in the summers of 2017 and 2018 to help build various components in <a href="https://github.com/ABenchM" alt="ABM">ABM</a> and <a href="https://github.com/delphi-hub" alt="Delphi">Delphi</a>.
-  
+
 - name: Jeff Cho
   prog: undergrad
   id: gojeffcho
