@@ -1,10 +1,15 @@
 ---
 layout: default
-title: Students
-permalink: /students/
+title: Maplers
+permalink: /maplers/
 weight: 2
 group: students
 ---
+
+<figure>
+	<img style="display=inline-block" width="15%" src="{{ "/resources/images/maple.png" |  prepend: site.baseurl }}" alt="The Maple Lab" />
+</figure>
+
 Maplers are members of my research lab (Maple), including master's and doctoral students, as well as undergrad research assistants. I'm always looking for new students (on all levels) to expand my group.
 
 If you are interested in joining Maple, I strongly encourage you to apply to the [Computing Science Department at UAlberta](https://www.ualberta.ca/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions). If you'd like to email me regarding joining Maple, please make sure to include the following information in your email for me to consider it:
