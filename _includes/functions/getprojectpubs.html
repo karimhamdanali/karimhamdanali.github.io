@@ -1,3 +1,9 @@
-{% assign pubs = project.publications %}
+{% assign papers = project.papers | split: "," %}
 
-{{ pubs }}
+<ul class="social-media-list">
+  <li><small><b>Papers</b></small></li>
+{% for paper in papers %}
+  {% assign pub = site.data.papers | where: "id",paper | first %}
+  <li><small><a href="{{ "/papers/#" | append: pub.id | prepend: site.baseurl }}">{{ pub.title }}</a> ({{ pub.year }})</small></li>
+{% endfor %}
+</ul>

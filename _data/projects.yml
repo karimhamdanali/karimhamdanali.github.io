@@ -2,22 +2,22 @@
   id: plml
   start: 2018
   members: revan,ikabir
-  publications:
+  papers:
   description: Can research in programming languages help with machine learning? In this work, we are exploring how to use/develop programming language techniques to solve some of the common problems that researchers and practicioners encounter while building machine learning systems.
 
-- name: RoadRunner
-  id: swift
+- name: SWAN
+  id: swan
   start: 2017
   members: bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
-  publications:
-  description: Can I detect security vulnerabilities in my Swift app? In this work, we have been developing a program analysis framework for Swift programs based on <a href="https://github.com/wala/WALA/" target="_blank">WALA</a>. The framework enables a wide range of static analyses, from simple constant propagation to sophisticated taint anlaysis using the powerful infrastructure that <a href="https://github.com/wala/WALA/" target="_blank">WALA</a> provides.
+  papers:
+  description: Can I detect security vulnerabilities in my Swift app? In this work, we have been developing SWAN, a program analysis framework for Swift programs based on <a href="https://github.com/wala/WALA/" target="_blank">WALA</a>. The framework enables a wide range of static analyses, from simple constant propagation to sophisticated taint anlaysis using the powerful infrastructure that <a href="https://github.com/wala/WALA/" target="_blank">WALA</a> provides.
 
 - name: Just-in-Time Compilers
   id: jit
   github:
   start: 2016
   members: eochoa
-  publications:
+  papers:
   description: Can we help JIT compilers make better decisions when applying a code transformation? In this work, we have been developing several algorithms that enable a JIT compiler to reason not only about the cost of applying a code tranformation (e.g., method inlining), but also about the potential future benefits (e.g., further optimizations) of applying such a code transformation.
   impact:
 
@@ -25,7 +25,7 @@
   id: crypto
   start: 2015
   members: knewbury,skrueger,mbenz
-  publications:
+  papers: crysl,cognicrypt-tool,crossing
   description: Can program analysis help developers use crypto APIs more securely? In this work, we have been working on an end-to-end solution to detect misuses of crypto APIs that provides a DSL to define the correct uses of an API, a compiler that generates static analysis checks based on those rules, and IDE extensions that help developers detect misuses in their code based on our infrastructure.
   impact: Most recently, our work with <a href="https://projects.eclipse.org/projects/technology.cognicrypt" target="_blank">CogniCrypt</a> helped <a href="https://support.symantec.com/en_US/article.SYMSA1460.html" target="_blank">Symantec</a> fix a bug in one of its products that could lead to privilege escalation.
 
@@ -33,14 +33,14 @@
   id: usability
   start: 2014
   members: lnqd,almacken,alex,tyler,swapnil
-  publications:
+  papers: visuflow,visuflow-tool,jit-analysis,cheetah-tool
   description: How can we build better experiences for users of static analysis tools? In this work, we have been exploring novel techniques to facilitate the development of program analyses that are more responsive, more precise, well-integrated in the developer's workflow, and customized to the developer's needs.
 
 - name: Scalable and Precise Pointer Analysis
   id: scaleprecise
   start: 2014
   members: spaeth
-  publications:
+  papers: ideal,boomerang
   description: Can pointer analysis be both scalable and precise? In this work, we explore how to leverage the advantages of distributive frameworks such as IFDS, IDE, and WPDS to perform scalable and precise non-distributive analyses such as pointer analysis. We have been building various on-demand pointer analyses that also encode rich alias information for the queried variables.
 
 - name: Partial-Program Analysis for Java
@@ -49,7 +49,7 @@
   start: 2010
   end: 2016
   members: mappel
-  publications:
+  papers: phd-thesis,averroes,cgc
   description: Can we perform whole-program analysis of a given Java application without analyzing the whole program? Through light-weight static analyses of the structure of a given application, we have shown that the answer to this question is 'yes'. Moreover, we developed Averroes, a placeholder library generator that enables the use of that suite in any Java whole-program analysis framework. Using Averroes reduces the amount of code that needs to be analyzed by up to 600x, improving the performance of call graph analysis as it becomes up to 7x faster, and uses up to 6x less memory.
   impact: Averroes is currently used by the major Java static analysis frameworks, <a href="https://github.com/Sable/soot/wiki/Extensions-to-Soot" target="_blank">Soot</a>, <a href="https://github.com/wala/WALA/wiki/WALA-Based-Tools" target="_blank">WALA</a>, and <a href="https://bitbucket.org/yanniss/doop" target="_blank">DOOP</a>.
 
@@ -58,7 +58,7 @@
   website: https://github.com/themaplelab/scalacg
   start: 2013
   end: 2015
-  publications:
+  papers: scalacg-journal,scalacg
   description: Is analyzing the Scala source code any different than analyzing the JVM bytecodes that the Scala compiler generates? In this work, we developed ScalaCG, a collection of low-cost call graph analyses that target the Scala source code and support various Scala features such as traits, abstract type members, closures, and path-dependent types. Using ScalaCG produces call graphs that are up to 19x more precise than using a bytecode-based approach in terms of call edges and reachable nodes.
   impact: ScalaCG was awarded a Distinguished Artifact Award at the European Conference on Object-Oriented Programming (ECOOP) in 2014. Scalacg has been extended by the original Scala research group at EPFL to improve call graph precision and decrease analysis time for non-trivial Scala programs. These extensions are integrated in the upcoming Scala Dotty compiler.
 
@@ -67,6 +67,7 @@
   website: https://sourceforge.net/projects/algorizmi/
   start: 2008
   end: 2009
+  papers: masters-thesis,kernel-ids,p2p-ais
   description: Can we have reproducible evaluations for intrusion detection systems? In this work, we developed an open-source configurable virtual testbed (based on the Eucalyptus cloud platform) for evaluating Intrusion Detection Systems.
 
 - name: Beep

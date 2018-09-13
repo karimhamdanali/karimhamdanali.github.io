@@ -11,9 +11,11 @@
 		<p>
       {{ project.description }} {{ project.impact }}
     </p>
-    <p>
-      {% include /functions/getprojectpubs.html project=project %}
-    </p>
+    {% if project.papers %}
+      <p>
+        {% include /functions/getprojectpubs.html project=project %}
+      </p>
+    {% endif %}
 	</div>
 </div>
 {% endfor %}

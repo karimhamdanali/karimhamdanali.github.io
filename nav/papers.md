@@ -10,7 +10,7 @@ group: pubs
 {% for year in papers_by_year %}
   <h3>{{ year.name }}</h3>
   {% for paper in year.items %}
-  <div class="publication">
+  <div class="publication" id="{{ paper.id }}">
     {% if paper.award %}
     <span class="icon">
       <svg><use xlink:href="#icon-award"/></svg>
