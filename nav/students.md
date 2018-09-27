@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Maplers
+title: Students
 permalink: /maplers/
 weight: 2
 group: students

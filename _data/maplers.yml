@@ -39,6 +39,20 @@
   status: current
   bio: Revan is a senior honours Computing Science undergrad student working in the lab in the summer of 2018 on applying programming language techniques to machine learning systems.
 
+- name: Jeff Cho
+  prog: undergrad
+  id: gojeffcho
+  website: http://www.jeffcho.com
+  status: current
+  bio: Jeff is a senior undergrad student in Computing Science with a passion for game development. Jeff has worked in the lab for over a year (2017–2018) to help kickstart RoadRunner by co-mentoring 8 undergrad students under the umbrella of <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a>.
+
+- name: Mark Mroz
+  prog: undergrad
+  id: mmroz
+  website: https://www.linkedin.com/in/mark-mroz
+  status: current
+  bio: Mark is a Software Engineering student at the University of Ottawa. He has expertise in iOS development using Swift and web development in Ruby On Rails. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to RoadRunner.
+
 # Affiliated
 - name: Stefan Krüger
   prog: phd
@@ -65,20 +79,6 @@
   id: almacken
   status: former
   bio: Alex is a dual major Computing Science and Biology undergrad student. He has worked in the lab in the summers of 2017 and 2018 to help build various components in <a href="https://github.com/ABenchM" alt="ABM">ABM</a> and <a href="https://github.com/delphi-hub" alt="Delphi">Delphi</a>.
-
-- name: Jeff Cho
-  prog: undergrad
-  id: gojeffcho
-  website: http://www.jeffcho.com
-  status: former
-  bio: Jeff is a senior undergrad student in Computing Science with a passion for game development. Jeff has worked in the lab for over a year (2017–2018) to help kickstart RoadRunner by co-mentoring 8 undergrad students under the umbrella of <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a>.
-
-- name: Mark Mroz
-  prog: undergrad
-  id: mmroz
-  website: linkedin.com/in/mark-mroz
-  status: former
-  bio: Mark is a Software Engineering student at the University of Ottawa. He has expertise in iOS development using Swift and web development in Ruby On Rails. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to RoadRunner.
 
 - name: Bryan Tam
   prog: undergrad
