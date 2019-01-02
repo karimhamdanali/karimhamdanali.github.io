@@ -1,3 +1,12 @@
+- id: spds
+  title: "Context-, Flow-, and Field-Sensitive Data-Flow Analysis using Synchronized Pushdown Systems"
+  authors: Johannes Späth, Karim Ali, and Eric Bodden
+  venue: ACM SIGPLAN Symposium on Principles of Programming Languages (POPL)
+  year: 2019
+  pages: 48:1–48:29
+  doi: https://doi.acm.org/10.1145/3290361
+  code: https://github.com/CROSSINGTUD/WPDS
+
 - id: visuflow
   title: Debugging Static Analysis
   authors: Lisa Nguyen Quang Do, Stefan Krüger, Patrick Hill, Karim Ali, and Eric Bodden
