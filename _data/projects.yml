@@ -40,7 +40,7 @@
   id: scaleprecise
   start: 2014
   members: spaeth
-  papers: ideal,boomerang,spds
+  papers: spds,ideal,boomerang
   description: Can pointer analysis be both scalable and precise? In this work, we explore how to leverage the advantages of distributive frameworks such as IFDS, IDE, and WPDS to perform scalable and precise non-distributive analyses such as pointer analysis. We have been building various on-demand pointer analyses that also encode rich alias information for the queried variables.
 
 - name: Partial-Program Analysis for Java
