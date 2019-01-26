@@ -44,22 +44,22 @@
   prog: phd
   id: skrueger
   status: affiliated
-  bio: Stefan is a PhD Student at Paderborn University (supervised by Eric Bodden), and a member of the collaborative research center CROSSING. In 2014, Stefan received a Master's Degree in Computer Science at Otto-von-Guericke University in Magdeburg. CROSSING aims at devising future-proof cryptography that is sound and easy to use even for non-experts. In that vein, Stefan's main research interests are API usability, DSLs for the specification of security properties of programs, and automated detection of crypto API misuses.
+  bio: Stefan is a PhD Student at Paderborn University (co-supervised with Eric Bodden), and a member of the collaborative research center CROSSING. In 2014, Stefan received a Master's Degree in Computer Science at Otto-von-Guericke University in Magdeburg. CROSSING aims at devising future-proof cryptography that is sound and easy to use even for non-experts. In that vein, Stefan's main research interests are API usability, DSLs for the specification of security properties of programs, and automated detection of crypto API misuses.
 
 - name: Lisa Nguyen Quang Do
   prog: phd
   id: lnqd
   website: http://lisanqd.com
   status: affiliated
-  bio: Lisa is a PhD Student at Paderborn University (supervised by Eric Bodden). She has received her MSc. in Computer Science from EPFL in 2014. Her research focuses on improving the usability of program analysis tools for code developers through different aspects that range from the optimization of the analysis algorithm to the implementation of its framework to the usability of its interface.
+  bio: Lisa is a PhD Student at Paderborn University (co-supervised with Eric Bodden). She has received her MSc. in Computer Science from EPFL in 2014. Her research focuses on improving the usability of program analysis tools for code developers through different aspects that range from the optimization of the analysis algorithm to the implementation of its framework to the usability of its interface.
 
+# Former
 - name: Johannes Späth
   prog: phd
   id: spaeth
-  status: affiliated
-  bio: Johannes is a Research Associate at the Software Engineering and IT Security Department of Fraunhofer IEM in Paderborn. In 2013, Johannes finished his Master's degree in Mathematics at TU Darmstadt. He joined the research group of Eric Bodden in 2014 and since then his research focuses on static analysis where he enjoys developing efficient and precise algorithms, e.g., points-to or typestate analysis.
+  status: former
+  bio: Johannes was a PhD student at Paderborn University (co-supervised with Eric Bodden). In 2013, Johannes received his Master's degree in Mathematics at TU Darmstadt. His research focused on designing efficient and precise algorithms for static analysis (e.g., points-to and typestate). He is now a Research Associate at the Software Engineering and IT Security Department of Fraunhofer IEM in Paderborn, Germany.
 
-# Former
 - name: Jeff Cho
   prog: undergrad
   id: gojeffcho
