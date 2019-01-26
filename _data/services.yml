@@ -1,4 +1,19 @@
 # 2019
+- name: SOAP
+  role: PC Member
+  year: 2019
+  website: https://pldi19.sigplan.org/home/SOAP-2019
+
+- name: PLMW @ SPLASH
+  role: Co-Organizer
+  year: 2019
+  website: https://2019.splashcon.org/home
+
+- name: TSE
+  role: Reviewer
+  year: 2019
+  website: https://www.computer.org/web/tse
+
 - name: ISSTA
   role: PC Member
   year: 2019
