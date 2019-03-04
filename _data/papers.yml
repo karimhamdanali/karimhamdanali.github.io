@@ -7,6 +7,7 @@
   doi: https://doi.acm.org/10.1145/3290361
   code: https://github.com/CROSSINGTUD/WPDS
   award: ACM SIGPLAN Distinguished Paper Award
+  video: https://www.youtube.com/watch?v=SJtfBfu1MDw
 
 - id: visuflow
   title: Debugging Static Analysis
