@@ -1,3 +1,9 @@
+- id: mlso
+  title: What Do Developers Know About Machine Learning: A Study of ML Discussions on StackOverflow
+  authors: Hareem-e-Sahar, Abdul Ali Bangash, Alexander William Wong, Shaiful Chowdhury, Abram Hindle, and Karim Ali
+  venue: International Conference on Mining Software Repositories (MSR) Mining Challenge
+  year: 2019
+
 - id: gpucpuselect
   title: Toward an Analytical Performance Model to Select between GPU and CPU Execution
   authors: Artem Chikin, José Nelson Amaral, Karim Ali, and Ettore Tiotto
