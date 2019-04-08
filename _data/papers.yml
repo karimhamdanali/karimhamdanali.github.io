@@ -1,3 +1,9 @@
+- id: gpucpuselect
+  title: Toward an Analytical Performance Model to Select between GPU and CPU Execution
+  authors: Artem Chikin, José Nelson Amaral, Karim Ali, and Ettore Tiotto
+  venue: International Workshop on High-Level Parallel Programming Models and Supportive Environments (HIPS)
+  year: 2019
+
 - id: spds
   title: "Context-, Flow-, and Field-Sensitive Data-Flow Analysis using Synchronized Pushdown Systems"
   authors: Johannes Späth, Karim Ali, and Eric Bodden
