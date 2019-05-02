@@ -17,13 +17,19 @@
   status: current
   bio: Abdul Ali is a PhD student in Computing Science. He obtained his Master's in Software Engineering at FAST National University, Pakistan. He's generally interested in helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence.
 
-
 - name: Kristen Newbury
   prog: masters
   id: knewbury
   website:
   status: current
   bio: Kristen is a Master's student in Computing Science. She's interested in using program analysis to detect crypto API misuses.
+
+- name: Ahmed Elkhair
+  prog: masters
+  id: ahmed
+  website:
+  status: current
+  bio: Ahmed is a Master's student in Computing Science.
 
 - name: Erick Ochoa
   prog: masters
@@ -37,7 +43,28 @@
   id: revan
   website: https://www.linkedin.com/in/revan-macqueen-931ab716a/
   status: current
-  bio: Revan is a senior honours Computing Science undergrad student working in the lab in the summer of 2018 on applying programming language techniques to machine learning systems.
+  bio: Revan is a senior honours Computing Science undergrad student who has been working in the lab since the summer of 2018 on fixing neural networks using solver-aided languages.
+
+- name: Jeff Cho
+  prog: undergrad
+  id: gojeffcho
+  website: http://www.jeffcho.com
+  status: current
+  bio: Jeff is a senior undergrad student in Computing Science with a passion for game development. Jeff has been working in the lab since 2017 to build <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift.
+
+- name: Daniil Tiganov
+  prog: undergrad
+  id: tiganov
+  website: https://tiganov.ca
+  status: current
+  bio: Daniil is a junior undergrad student in Computing Science who is working in the lab in the summer of 2019 on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift.
+
+- name: Jamie Rassameemasmuang
+  prog: undergrad
+  id: jamie
+  website: https://supakorn-ras.github.io
+  status: current
+  bio: Jamie is an undergrad student in Computing Science who is working in the lab in the summer of 2019 on verifying transformations for string equations.
 
 # Affiliated
 - name: Stefan Krüger
@@ -59,13 +86,6 @@
   id: spaeth
   status: former
   bio: Johannes was a PhD student at Paderborn University (co-supervised with Eric Bodden). In 2013, Johannes received his Master's degree in Mathematics at TU Darmstadt. His research focused on designing efficient and precise algorithms for static analysis (e.g., points-to and typestate). He is now a Research Associate at the Software Engineering and IT Security Department of Fraunhofer IEM in Paderborn, Germany.
-
-- name: Jeff Cho
-  prog: undergrad
-  id: gojeffcho
-  website: http://www.jeffcho.com
-  status: former
-  bio: Jeff is a senior undergrad student in Computing Science with a passion for game development. Jeff has worked in the lab for over a year (2017–2018) to help kickstart SWAN by co-mentoring 8 undergrad students under the umbrella of <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a>.
 
 - name: Mark Mroz
   prog: undergrad
