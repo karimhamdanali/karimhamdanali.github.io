@@ -59,12 +59,12 @@
   status: current
   bio: Daniil is a junior undergrad student in Computing Science who is working in the lab in the summer of 2019 on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift.
 
-- name: Jamie Rassameemasmuang
+- name: Supakorn 'Jamie' Rassameemasmuang
   prog: undergrad
   id: jamie
   website: https://supakorn-ras.github.io
   status: current
-  bio: Jamie is an undergrad student in Computing Science who is working in the lab in the summer of 2019 on verifying transformations for string equations.
+  bio: Jamie is currently an undergraduate student in Computing Science and Mathematics. They are interested in an intersection of pure mathematics alongside theoretical Computing Science, including Logic, program analysis, number theory and applications of pure mathematical results into computing. Jamie is working in the lab in the summer of 2019 on verifying transformations for string equations.
 
 # Affiliated
 - name: Stefan Krüger
