@@ -8,7 +8,7 @@
 - name: SWAN
   id: swan
   start: 2017
-  members: bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
+  members: tiganov,bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
   papers:
   description: Can I detect security vulnerabilities in my Swift app? In this work, we have been developing SWAN, a program analysis framework for Swift programs based on <a href="https://github.com/wala/WALA/" target="_blank">WALA</a>. The framework enables a wide range of static analyses, from simple constant propagation to sophisticated taint anlaysis using the powerful infrastructure that <a href="https://github.com/wala/WALA/" target="_blank">WALA</a> provides.
 
