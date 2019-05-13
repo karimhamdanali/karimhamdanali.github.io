@@ -29,7 +29,7 @@
   id: ahmed
   website:
   status: current
-  bio: Ahmed is a Master's student in Computing Science.
+  bio: Ahmed is a Master's student in Computing Science. He is interested in program analysis, analysis of binaries, programming languages, and formal semantics.
 
 - name: Erick Ochoa
   prog: masters
@@ -57,7 +57,7 @@
   id: tiganov
   website: https://tiganov.ca
   status: current
-  bio: Daniil is a junior undergrad student in Computing Science who is working in the lab in the summer of 2019 on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift.
+  bio: Daniil is a senior undergrad student in Computing Science who is working in the lab in the summer of 2019 on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift.
 
 - name: Supakorn 'Jamie' Rassameemasmuang
   prog: undergrad
