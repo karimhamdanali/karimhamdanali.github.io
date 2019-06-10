@@ -92,7 +92,7 @@
   id: mmroz
   website: https://www.linkedin.com/in/mark-mroz
   status: former
-  bio: Mark is a Software Engineering student at the University of Ottawa. He has expertise in iOS development using Swift and web development in Ruby On Rails. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to SWAN.
+  bio: Mark is a Software Engineering student at the University of Ottawa. He has expertise in iOS development using Swift and web development in Ruby On Rails. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>.
 
 - name: Alexander MacKenzie
   prog: undergrad
@@ -104,20 +104,20 @@
   prog: undergrad
   id: btam
   status: former
-  bio: Bryan is a senior undergrad student in Computer Science at the University of Toronto with an interest in computer systems. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in the winter of 2018, and as a research assistant in the summer of 2018, to contribute to SWAN.
+  bio: Bryan is a senior undergrad student in Computer Science at the University of Toronto with an interest in computer systems. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in the winter of 2018, and as a research assistant in the summer of 2018, to contribute to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>.
 
 - name: Leo Li
   prog: undergrad
   id: ao
   website: http://leeeo.me/
   status: former
-  bio: Leo obtained a bachelor's degree in Computer Science from Simon Fraser University where he was interested in programming languages and software engineering. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to SWAN. He went on to do his Master's degree at the University of Toronto.
+  bio: Leo obtained a bachelor's degree in Computer Science from Simon Fraser University where he was interested in programming languages and software engineering. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>. He went on to do his Master's degree at the University of Toronto.
 
 - name: Anthony Hill
   prog: undergrad
   id: ahill
   status: former
-  bio: Anthony obtained his bachelor's degree in Computer Science from Wilfrid Laurier University. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to SWAN.
+  bio: Anthony obtained his bachelor's degree in Computer Science from Wilfrid Laurier University. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2018, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>.
 
 - name: Swapnil Shah
   prog: undergrad
@@ -144,20 +144,20 @@
   id: yaser
   website: https://www.yaser.ca
   status: former
-  bio: Yaser obtained a bachelor's degree in Computer Science from Dalhousie University where he developed his passion for algorithms engineering research. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to SWAN. He went on to work as a software engineer at Microsoft with the Azure Data Factory Team.
+  bio: Yaser obtained a bachelor's degree in Computer Science from Dalhousie University where he developed his passion for algorithms engineering research. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>. He went on to work as a software engineer at Microsoft with the Azure Data Factory Team.
 
 - name: Lydia Wu
   prog: undergrad
   id: lydia
   status: former
-  bio: Qi (Lydia) Wu obtained her bachelor's degree at Simon Fraser University (Dual Degree Program with Zhejiang University, China). Her research interests include computing systems and computer vision. She worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to SWAN. Lydia went on to pursue her Master's degree in visual computing and computer graphics at UC Berkeley.
+  bio: Qi (Lydia) Wu obtained her bachelor's degree at Simon Fraser University (Dual Degree Program with Zhejiang University, China). Her research interests include computing systems and computer vision. She worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>. Lydia went on to pursue her Master's degree in visual computing and computer graphics at UC Berkeley.
 
 - name: Chen Song
   prog: undergrad
   id: chen
   website: http://www.songc.me
   status: former
-  bio: Chen Song is an undergraduate student at Simon Fraser University (Dual Degree Program with Zhejiang University, China). His research interests include performance issues in cloud computing and deep-learning based image generation. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to SWAN.
+  bio: Chen Song is an undergraduate student at Simon Fraser University (Dual Degree Program with Zhejiang University, China). His research interests include performance issues in cloud computing and deep-learning based image generation. He worked in the lab through a <a href="http://ucosp.ca" alt="UCOSP" target="_blank">UCOSP</a> project in 2017, and contributed to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>.
 
 - name: Stuart Hoye
   prog: undergrad
@@ -177,7 +177,7 @@
   id: nweninge
   website: https://byte.observer
   status: former
-  bio: Noah is a senior undergrad student in Computing Science with a passion for programming languages, algorithms, games, and procedural art. Noah has worked in the lab in the winter of 2017 to help kickstart SWAN.
+  bio: Noah obtained his bachelor's degree in Computing Science from the University of Alberta in 2019. He has worked in the lab in the winter of 2017 to help kickstart <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>. He went on to pursue his Master's degree in computer theory at UBC.
 
 - name: Michael Appel
   prog: masters
