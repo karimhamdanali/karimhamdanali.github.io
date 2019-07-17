@@ -4,7 +4,7 @@
   venue: International Conference on Mining Software Repositories (MSR) Mining Challenge
   year: 2019
   pages: 260–264
-  doi: https://dl.acm.org/citation.cfm?id=3341931
+  doi: https://doi.org/10.1109/MSR.2019.00052
 
 - id: gpucpuselect
   title: Toward an Analytical Performance Model to Select between GPU and CPU Execution
