@@ -31,13 +31,6 @@
   status: current
   bio: Ahmed is a Master's student in Computing Science. He is interested in program analysis, analysis of binaries, programming languages, and formal semantics.
 
-- name: Erick Ochoa
-  prog: masters
-  id: eochoa
-  website: https://efferifick.gitlab.io/compiler-dictionary/
-  status: current
-  bio: Erick is a Master's student in Computing Science. He has worked on FPGAs, benchmarking, and managed runtimes. He's also interested in program verification, program synthesis, and new media art.
-
 - name: Revan MacQueen
   prog: undergrad
   id: revan
@@ -66,6 +59,13 @@
   status: current
   bio: Jamie is currently an undergraduate student in Computing Science and Mathematics. They are interested in an intersection of pure mathematics alongside theoretical Computing Science, including Logic, program analysis, number theory and applications of pure mathematical results into computing. Jamie is working in the lab in the summer of 2019 on verifying transformations for string equations.
 
+- name: Spencer Killen
+  prog: undergrad
+  id: sjkillen
+  website: https://tiganov.ca
+  status: current
+  bio: Spencer is a senior undergrad student in Computing Science who is working in the lab in the summer of 2019 to improve the JIT inliner within the <a href="https://github.com/themaplelab/openj9" alt="OpenJ9" target="_blank">OpenJ9</a> runtime environment.
+
 # Affiliated
 - name: Stefan Krüger
   prog: phd
@@ -81,6 +81,13 @@
   bio: Lisa is a PhD Student at Paderborn University (co-supervised with Eric Bodden). She has received her MSc. in Computer Science from EPFL in 2014. Her research focuses on improving the usability of program analysis tools for code developers through different aspects that range from the optimization of the analysis algorithm to the implementation of its framework to the usability of its interface.
 
 # Former
+- name: Erick Ochoa
+  prog: masters
+  id: eochoa
+  website: https://efferifick.gitlab.io/compiler-dictionary/
+  status: former
+  bio: Erick was a Master's student in Computing Science. He has worked on FPGAs, benchmarking, and managed runtimes. His master's thesis focused on guiding inlining decisions using post-inlining transformations. He has moved on to work as a Compiler Engineer at IBM.
+
 - name: Johannes Späth
   prog: phd
   id: spaeth
