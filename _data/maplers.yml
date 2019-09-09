@@ -17,6 +17,13 @@
   status: current
   bio: Abdul Ali is a PhD student in Computing Science. He obtained his Master's in Software Engineering at FAST National University, Pakistan. He's generally interested in helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence.
 
+- name: David Seekatz
+  prog: masters
+  id: seekatz
+  website:
+  status: current
+  bio: David is a Master's student in Computing Science. He's interested in developing a program analysis framework for IoT devices.
+
 - name: Kristen Newbury
   prog: masters
   id: knewbury
@@ -38,33 +45,19 @@
   status: current
   bio: Revan is a senior honours Computing Science undergrad student who has been working in the lab since the summer of 2018 on fixing neural networks using solver-aided languages.
 
-- name: Jeff Cho
-  prog: undergrad
-  id: gojeffcho
-  website: http://www.jeffcho.com
-  status: current
-  bio: Jeff is a senior undergrad student in Computing Science with a passion for game development. Jeff has been working in the lab since 2017 to build <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift.
-
 - name: Daniil Tiganov
   prog: undergrad
   id: tiganov
   website: https://tiganov.ca
   status: current
-  bio: Daniil is a senior undergrad student in Computing Science who is working in the lab in the summer of 2019 on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift.
-
-- name: Supakorn 'Jamie' Rassameemasmuang
-  prog: undergrad
-  id: jamie
-  website: https://supakorn-ras.github.io
-  status: current
-  bio: Jamie is currently an undergraduate student in Computing Science and Mathematics. They are interested in an intersection of pure mathematics alongside theoretical Computing Science, including Logic, program analysis, number theory and applications of pure mathematical results into computing. Jamie is working in the lab in the summer of 2019 on verifying transformations for string equations.
+  bio: Daniil is a senior undergrad student in Computing Science who has been working in the lab since the summer of 2019 on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift.
 
 - name: Spencer Killen
-  prog: undergrad
+  prog: masters
   id: sjkillen
-  website: https://tiganov.ca
+  website:
   status: current
-  bio: Spencer is a senior undergrad student in Computing Science who is working in the lab in the summer of 2019 to improve the JIT inliner within the <a href="https://github.com/themaplelab/openj9" alt="OpenJ9" target="_blank">OpenJ9</a> runtime environment.
+  bio: Spencer is a masters student in Computing Science who has been working in the lab since the summer of 2019 to improve the JIT inliner within the <a href="https://github.com/themaplelab/openj9" alt="OpenJ9" target="_blank">OpenJ9</a> runtime environment.
 
 # Affiliated
 - name: Stefan Krüger
@@ -81,12 +74,26 @@
   bio: Lisa is a PhD Student at Paderborn University (co-supervised with Eric Bodden). She has received her MSc. in Computer Science from EPFL in 2014. Her research focuses on improving the usability of program analysis tools for code developers through different aspects that range from the optimization of the analysis algorithm to the implementation of its framework to the usability of its interface.
 
 # Former
+- name: Jeff Cho
+  prog: undergrad
+  id: gojeffcho
+  website: http://www.jeffcho.com
+  status: current
+  bio: Jeff obtained his bachelor's degree in Computing Science at the University of Alberta in 2019. In addition to his passion for game development, he worked in the lab from 2017 to 2019 to help build <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift. Jeff went on to pursue his master's degree at the University of Alberta.
+
+- name: Supakorn 'Jamie' Rassameemasmuang
+  prog: undergrad
+  id: jamie
+  website: https://supakorn-ras.github.io
+  status: current
+  bio: Jamie is an undergraduate student in Computing Science and Mathematics. They are interested in an intersection of pure mathematics alongside theoretical Computing Science, including Logic, program analysis, number theory and applications of pure mathematical results into computing. In the summer of 2019, Jamie has worked in the lab on verifying transformations for string equations using Coq.
+
 - name: Erick Ochoa
   prog: masters
   id: eochoa
   website: https://efferifick.gitlab.io/compiler-dictionary/
   status: former
-  bio: Erick was a Master's student in Computing Science. He has worked on FPGAs, benchmarking, and managed runtimes. His master's thesis focused on guiding inlining decisions using post-inlining transformations. He has moved on to work as a Compiler Engineer at IBM.
+  bio: Erick was a Master's student in Computing Science. He has worked on FPGAs, benchmarking, and managed runtimes. His master's thesis focused on guiding inlining decisions using post-inlining transformations.
 
 - name: Johannes Späth
   prog: phd
