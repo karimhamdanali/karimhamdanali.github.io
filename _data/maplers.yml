@@ -78,14 +78,14 @@
   prog: undergrad
   id: gojeffcho
   website: http://www.jeffcho.com
-  status: current
+  status: former
   bio: Jeff obtained his bachelor's degree in Computing Science at the University of Alberta in 2019. In addition to his passion for game development, he worked in the lab from 2017 to 2019 to help build <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift. Jeff went on to pursue his master's degree at the University of Alberta.
 
 - name: Supakorn 'Jamie' Rassameemasmuang
   prog: undergrad
   id: jamie
   website: https://supakorn-ras.github.io
-  status: current
+  status: former
   bio: Jamie is an undergraduate student in Computing Science and Mathematics. They are interested in an intersection of pure mathematics alongside theoretical Computing Science, including Logic, program analysis, number theory and applications of pure mathematical results into computing. In the summer of 2019, Jamie has worked in the lab on verifying transformations for string equations using Coq.
 
 - name: Erick Ochoa
