@@ -1,9 +1,11 @@
-- name: PL & ML
+<!---
+  - name: PL & ML
   id: plml
   start: 2018
   members: revan,ikabir
   papers:
   description: Can research in programming languages help with machine learning? In this work, we are exploring how to use/develop programming language techniques to solve some of the common problems that researchers and practicioners encounter while building machine learning systems.
+-->
 
 - name: SWAN
   id: swan
