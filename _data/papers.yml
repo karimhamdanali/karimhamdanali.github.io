@@ -1,3 +1,10 @@
+- id: ccgen
+  title: "CogniCrypt<sub>GEN</sub> - Generating Code for the Secure Usage of Crypto APIs"
+  authors: Stefan Krüger, Karim Ali, and Eric Bodden
+  venue: International Symposium on Code Generation and Optimization (CGO)
+  year: 2020
+  pages:
+
 - id: mlso
   title: "What Do Developers Know About Machine Learning: A Study of ML Discussions on StackOverflow"
   authors: Hareem Sahar, Abdul Ali Bangash, Alexander William Wong, Shaiful Chowdhury, Abram Hindle, and Karim Ali
