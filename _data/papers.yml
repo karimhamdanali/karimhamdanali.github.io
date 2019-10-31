@@ -5,6 +5,15 @@
   year: 2020
   pages:
 
+- id: crysl-tse
+  title: "CrySL: An Extensible Approach to Validating the Correct Usage of Cryptographic APIs"
+  authors: Stefan Krüger, Johannes Späth, Karim Ali, Eric Bodden, and Mira Mezini
+  venue: IEEE Transactions on Software Engineering (TSE)
+  year: 2019
+  pages:
+  doi:
+  code: https://github.com/CROSSINGTUD/CryptSL
+
 - id: mlso
   title: "What Do Developers Know About Machine Learning: A Study of ML Discussions on StackOverflow"
   authors: Hareem Sahar, Abdul Ali Bangash, Alexander William Wong, Shaiful Chowdhury, Abram Hindle, and Karim Ali
