@@ -70,7 +70,8 @@
   prog: phd
   id: lnqd
   website: http://lisanqd.com
-  status: affiliated
+  status: former
+  thesis: https://doi.org/10.17619/UNIPB/1-820
   bio: Lisa is a PhD Student at Paderborn University (co-supervised with Eric Bodden). She has received her MSc. in Computer Science from EPFL in 2014. Her research focuses on improving the usability of program analysis tools for code developers through different aspects that range from the optimization of the analysis algorithm to the implementation of its framework to the usability of its interface.
 
 # Former
@@ -99,6 +100,7 @@
   prog: phd
   id: spaeth
   status: former
+  thesis: https://doi.org/10.17619/UNIPB/1-640
   bio: Johannes was a PhD student at Paderborn University (co-supervised with Eric Bodden). In 2013, Johannes received his Master's degree in Mathematics at TU Darmstadt. His research focused on designing efficient and precise algorithms for static analysis (e.g., points-to and typestate). He is now a Research Associate at the Software Engineering and IT Security Department of Fraunhofer IEM in Paderborn, Germany.
 
 - name: Mark Mroz
