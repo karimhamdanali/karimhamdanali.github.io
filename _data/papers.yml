@@ -3,15 +3,12 @@
   authors: Stefan Krüger, Karim Ali, and Eric Bodden
   venue: International Symposium on Code Generation and Optimization (CGO)
   year: 2020
-  pages:
 
 - id: cgstudy
   title: "A Study of Call Graph Construction for JVM-Hosted Languages"
   authors: Karim Ali, Xiaoni Lai, Zhaoyi Luo, Ondřej Lhoták, Julian Dolby, and Frank Tip
   venue: IEEE Transactions on Software Engineering (TSE)
   year: 2019
-  pages:
-  doi:
 
 - id: crysl-tse
   title: "CrySL: An Extensible Approach to Validating the Correct Usage of Cryptographic APIs"
