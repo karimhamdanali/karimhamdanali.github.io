@@ -3,6 +3,7 @@
   authors: Stefan Krüger, Karim Ali, and Eric Bodden
   venue: International Symposium on Code Generation and Optimization (CGO)
   year: 2020
+  code: https://github.com/eclipse-cognicrypt/CogniCrypt/tree/develop/plugins/de.cognicrypt.codegenerator
 
 - id: cgstudy
   title: "A Study of Call Graph Construction for JVM-Hosted Languages"
