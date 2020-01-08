@@ -14,15 +14,16 @@ $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
+$text-color:       #111111;    // dark: #EEEEEE
+$background-color: #FDFDFD; // dark: #020202
 $brand-color:      #96172E;
 //$brand-color:      #007c41;
+$code-color:       #EEEEFF;    // dark: #111100
 
 $twitter-color:    #3BA9EE;
 
 //$grey-color:       #808080;
-$grey-color:       rgba(0, 0, 0, 0.6);
+$grey-color:       rgba(0, 0, 0, 0.6); // dark: rgba(255, 255, 255, 0.6)
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
@@ -45,7 +46,7 @@ $footer-font-size:	$small-font-size;
 $hover-opacity: 0.65;
 
 // Marks
-$mark-color: white;
+$mark-color: white; // dark: black
 
 
 
