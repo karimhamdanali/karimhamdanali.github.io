@@ -38,13 +38,6 @@
   status: current
   bio: Ahmed is a Master's student in Computing Science. He is interested in program analysis, analysis of binaries, programming languages, and formal semantics.
 
-- name: Spencer Killen
-  prog: masters
-  id: sjkillen
-  website:
-  status: current
-  bio: Spencer is a masters student in Computing Science who has been working in the lab since the summer of 2019 to improve the JIT inliner within the <a href="https://github.com/themaplelab/openj9" alt="OpenJ9" target="_blank">OpenJ9</a> runtime environment.
-
 # Affiliated
 - name: Stefan Krüger
   prog: phd
@@ -81,6 +74,13 @@
   website: http://www.jeffcho.com
   status: former
   bio: Jeff obtained his bachelor's degree in Computing Science at the University of Alberta in 2019. In addition to his passion for game development, he worked in the lab from 2017 to 2019 to help build <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift. Jeff went on to pursue his master's degree at the University of Alberta.
+
+- name: Spencer Killen
+  prog: undergrad
+  id: sjkillen
+  website:
+  status: former
+  bio: Spencer obtained his bachelor's degree in Computing Science at the University of Alberta in 2019. He worked in the lab during the summer of 2019 to improve the JIT inliner within the <a href="https://github.com/themaplelab/openj9" alt="OpenJ9" target="_blank">OpenJ9</a> runtime environment.
 
 - name: Supakorn 'Jamie' Rassameemasmuang
   prog: undergrad
