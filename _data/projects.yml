@@ -16,7 +16,7 @@
   id: jit
   github:
   start: 2016
-  members: eochoa
+  members: knewbury,eochoa,sjkillen
   papers:
   description: Can we help JIT compilers make better decisions when applying a code transformation? In this work, we have been developing several algorithms that enable a JIT compiler to reason not only about the cost of applying a code tranformation (e.g., method inlining), but also about the potential future benefits (e.g., further optimizations) of applying such a code transformation.
   impact:
