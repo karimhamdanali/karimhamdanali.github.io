@@ -17,12 +17,19 @@
   status: current
   bio: Abdul Ali is a PhD student in Computing Science. He obtained his Master's in Software Engineering at FAST National University, Pakistan. He's generally interested in helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence.
 
+- name: Jeff Cho
+  prog: masters
+  id: gojeffcho
+  website: http://www.jeffcho.com
+  status: current
+  bio: Jeff obtained his bachelor's degree in Computing Science at the University of Alberta in 2019. In addition to his passion for game development, he worked in the lab from 2017 to 2019 to help build <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift. For his master's degree, Jeff is currently working on automatic verification of comparators and hash functions.
+
 - name: David Seekatz
   prog: masters
   id: seekatz
   website:
   status: current
-  bio: David is a Master's student in Computing Science. He's interested in developing a program analysis framework for IoT devices.
+  bio: David is a Master's student in Computing Science. He's interested in the construction of precise code summaries for analyzing Java libraries.
 
 - name: Kristen Newbury
   prog: masters
@@ -67,13 +74,6 @@
   status: former
   thesis: https://doi.org/10.17619/UNIPB/1-820
   bio: Lisa was a PhD Student at Paderborn University (co-supervised with Eric Bodden). She has received her MSc. in Computer Science from EPFL in 2014. Her research focuses on improving the usability of program analysis tools for code developers through different aspects that range from the optimization of the analysis algorithm to the implementation of its framework to the usability of its interface. She went on to be a Software Engineer at Google, Zurich.
-
-- name: Jeff Cho
-  prog: undergrad
-  id: gojeffcho
-  website: http://www.jeffcho.com
-  status: former
-  bio: Jeff obtained his bachelor's degree in Computing Science at the University of Alberta in 2019. In addition to his passion for game development, he worked in the lab from 2017 to 2019 to help build <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift. Jeff went on to pursue his master's degree at the University of Alberta.
 
 - name: Spencer Killen
   prog: undergrad

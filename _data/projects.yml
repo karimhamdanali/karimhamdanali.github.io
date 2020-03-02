@@ -29,13 +29,6 @@
   description: Can program analysis help developers use crypto APIs more securely? In this work, we have been working on an end-to-end solution to detect misuses of crypto APIs that provides a DSL to define the correct uses of an API, a compiler that generates static analysis checks based on those rules, and IDE extensions that help developers detect misuses in their code based on our infrastructure.
   impact: Most recently, our work with <a href="https://projects.eclipse.org/projects/technology.cognicrypt" target="_blank">CogniCrypt</a> helped <a href="https://support.symantec.com/en_US/article.SYMSA1460.html" target="_blank">Symantec</a> fix a bug in one of its products that could lead to privilege escalation.
 
-- name: Usability of Static Analysis Tools
-  id: usability
-  start: 2014
-  members: lnqd,almacken,alex,tyler,swapnil
-  papers: visuflow,visuflow-tool,jit-analysis,cheetah-tool
-  description: How can we build better experiences for users of static analysis tools? In this work, we have been exploring novel techniques to facilitate the development of program analyses that are more responsive, more precise, well-integrated in the developer's workflow, and customized to the developer's needs.
-
 - name: Scalable and Precise Pointer Analysis
   id: scaleprecise
   start: 2014
@@ -47,11 +40,18 @@
   id: averroes
   github:
   start: 2010
-  end: 2016
-  members: mappel
+  members: seekatz,mappel
   papers: phd-thesis,averroes,cgc
   description: Can we perform whole-program analysis of a given Java application without analyzing the whole program? Through light-weight static analyses of the structure of a given application, we have shown that the answer to this question is 'yes'. Moreover, we developed Averroes, a placeholder library generator that enables the use of that suite in any Java whole-program analysis framework. Using Averroes reduces the amount of code that needs to be analyzed by up to 600x, improving the performance of call graph analysis as it becomes up to 7x faster, and uses up to 6x less memory.
   impact: Averroes is currently used by the major Java static analysis frameworks, <a href="https://github.com/Sable/soot/wiki/Extensions-to-Soot" target="_blank">Soot</a>, <a href="https://github.com/wala/WALA/wiki/WALA-Based-Tools" target="_blank">WALA</a>, and <a href="https://bitbucket.org/yanniss/doop" target="_blank">DOOP</a>.
+
+- name: Usability of Static Analysis Tools
+  id: usability
+  start: 2014
+  end: 2019
+  members: lnqd,almacken,alex,tyler,swapnil
+  papers: visuflow,visuflow-tool,jit-analysis,cheetah-tool
+  description: How can we build better experiences for users of static analysis tools? In this work, we have been exploring novel techniques to facilitate the development of program analyses that are more responsive, more precise, well-integrated in the developer's workflow, and customized to the developer's needs.
 
 - name: ScalaCG
   id: scalacg
