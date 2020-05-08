@@ -3,6 +3,8 @@
   authors: Stefan Krüger, Karim Ali, and Eric Bodden
   venue: International Symposium on Code Generation and Optimization (CGO)
   year: 2020
+  pages: 185–198
+  doi: https://doi.org/10.1145/3368826.3377905
   code: https://github.com/eclipse-cognicrypt/CogniCrypt/tree/develop/plugins/de.cognicrypt.codegenerator
 
 - id: cgstudy
