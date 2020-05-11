@@ -94,6 +94,7 @@
   id: eochoa
   website: https://efferifick.gitlab.io/compiler-dictionary/
   status: former
+  thesis: https://doi.org/10.7939/r3-dk74-he24
   bio: Erick was a Master's student in Computing Science. He has worked on FPGAs, benchmarking, and managed runtimes. His master's thesis focused on guiding inlining decisions using post-inlining transformations. He went on to be a Compiler Engineer at Theobroma Systems.
 
 - name: Johannes Späth
