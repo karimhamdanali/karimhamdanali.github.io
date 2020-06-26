@@ -1,3 +1,12 @@
+- id: softwareag-study
+  title: Why Do Software Developers Use Static Analysis Tools? A User-Centered Study of Developer Needs and Motivations
+  authors: Lisa Nguyen Quang Do, James R. Wright, and Karim Ali
+  venue: IEEE Transactions on Software Engineering (TSE)
+  year: 2020
+  pages:
+  doi: https://doi.org/10.1109/TSE.2020.3004525
+  code: https://sideresearch.wordpress.com
+
 - id: ccgen
   title: "CogniCrypt<sub>GEN</sub> - Generating Code for the Secure Usage of Crypto APIs"
   authors: Stefan Krüger, Karim Ali, and Eric Bodden
