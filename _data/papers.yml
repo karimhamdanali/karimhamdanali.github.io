@@ -1,7 +1,7 @@
 - id: swan
   title: "SWAN: A Static Analysis Framework for Swift"
   authors: Daniil Tiganov, Jeff Cho, Karim Ali, and Julian Dolby
-  venue: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) Tool Track
+  venue: ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
   year: 2020
   pages:
   doi:
@@ -106,7 +106,7 @@
 - id: cognicrypt-tool
   title: "CogniCrypt: Supporting Developers in Using Cryptography"
   authors: Stefan Krüger, Sarah Nadi, Michael Reif, Karim Ali, Mira Mezini, Eric Bodden, Florian Göpfert, Felix Günther, Christian Weinert, Daniel Demmler, and Ram Kamath
-  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE) Tool Track
+  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
   year: 2017
   pages: 931–936
   doi: https://doi.org/10.1109/ASE.2017.8115707
