@@ -1,5 +1,5 @@
 - id: swan
-  title: SWAN: A Static Analysis Framework for Swift
+  title: "SWAN: A Static Analysis Framework for Swift"
   authors: Daniil Tiganov, Jeff Cho, Karim Ali, and Julian Dolby
   venue: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) Tool Track
   year: 2020
