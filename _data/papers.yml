@@ -1,3 +1,22 @@
+- id: swan
+  title: SWAN: A Static Analysis Framework for Swift
+  authors: Daniil Tiganov, Jeff Cho, Karim Ali, and Julian Dolby
+  venue: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE) Tool Track
+  year: 2020
+  pages:
+  doi:
+  code: https://github.com/themaplelab/swan
+  video: https://www.youtube.com/watch?v=AZwfhOGqwFs
+
+- id: concstability
+  title: On the Time-Based Conclusion Stability of Software Defect Prediction Models
+  authors: Abdul Ali Bangash, Hareem Sahar, Abram Hindle, and Karim Ali
+  venue: International Journal on Empirical Software Engineering (EMSE)
+  year: 2020
+  pages:
+  doi:
+  code:
+
 - id: softwareag-study
   title: Why Do Software Developers Use Static Analysis Tools? A User-Centered Study of Developer Needs and Motivations
   authors: Lisa Nguyen Quang Do, James R. Wright, and Karim Ali
@@ -28,7 +47,7 @@
   venue: IEEE Transactions on Software Engineering (TSE)
   year: 2019
   pages:
-  doi:
+  doi: https://doi.org/10.1109/TSE.2019.2948910
   code: https://github.com/CROSSINGTUD/CryptSL
 
 - id: mlso
@@ -61,7 +80,7 @@
   authors: Lisa Nguyen Quang Do, Stefan Krüger, Patrick Hill, Karim Ali, and Eric Bodden
   venue: IEEE Transactions on Software Engineering (TSE)
   year: 2018
-  pages:
+  pages: 697-709
   doi: https://doi.org/10.1109/TSE.2018.2868349
   code: https://github.com/visuflow
 
@@ -77,7 +96,7 @@
 - id: visuflow-tool
   title: "VISUFLOW: a debugging environment for static analyses"
   authors: Lisa Nguyen Quang Do, Stefan Krüger, Patrick Hill, Karim Ali, and Eric Bodden
-  venue: International Conference on Software Engineering (ICSE) Companion Proceeedings
+  venue: International Conference on Software Engineering (ICSE) Companion Proceedings
   year: 2018
   pages: 89–92
   doi: http://doi.acm.org/10.1145/3183440.3183470
@@ -87,7 +106,7 @@
 - id: cognicrypt-tool
   title: "CogniCrypt: Supporting Developers in Using Cryptography"
   authors: Stefan Krüger, Sarah Nadi, Michael Reif, Karim Ali, Mira Mezini, Eric Bodden, Florian Göpfert, Felix Günther, Christian Weinert, Daniel Demmler, and Ram Kamath
-  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE)
+  venue: IEEE/ACM International Conference on Automated Software Engineering (ASE) Tool Track
   year: 2017
   pages: 931–936
   doi: https://doi.org/10.1109/ASE.2017.8115707
