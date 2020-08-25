@@ -25,10 +25,6 @@ Below is a list of current, affiliated, and former Maplers.
 {% assign current = site.data.maplers | where:"status","current" %}
 {% include maplers.html data=current %}
 
-### Affiliated Maplers
-{% assign affiliated = site.data.maplers | where:"status","affiliated" %}
-{% include maplers.html data=affiliated %}
-
 ### Former Maplers
 {% assign former = site.data.maplers | where:"status","former" %}
 {% include maplers.html data=former %}
