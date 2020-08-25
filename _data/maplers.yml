@@ -45,14 +45,13 @@
   status: current
   bio: Ahmed is a Master's student in Computing Science. He is interested in program analysis, analysis of binaries, programming languages, and formal semantics.
 
-# Affiliated
+# Former
 - name: Stefan Krüger
   prog: phd
   id: skrueger
-  status: affiliated
-  bio: Stefan is a PhD Student at Paderborn University (co-supervised with Eric Bodden), and a member of the collaborative research center CROSSING. In 2014, Stefan received a Master's Degree in Computer Science at Otto-von-Guericke University in Magdeburg. CROSSING aims at devising future-proof cryptography that is sound and easy to use even for non-experts. In that vein, Stefan's main research interests are API usability, DSLs for the specification of security properties of programs, and automated detection of crypto API misuses.
+  status: former
+  bio: Stefan was a PhD Student at Paderborn University (co-supervised with Eric Bodden), and a member of the collaborative research center CROSSING. In 2014, Stefan received a Master's Degree in Computer Science at Otto-von-Guericke University in Magdeburg. CROSSING aims at devising future-proof cryptography that is sound and easy to use even for non-experts. In that vein, Stefan's main research interests are API usability, DSLs for the specification of security properties of programs, and automated detection of crypto API misuses.
 
-# Former
 - name: Revan MacQueen
   prog: undergrad
   id: revan
