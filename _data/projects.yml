@@ -9,14 +9,14 @@
   id: swan
   start: 2017
   members: tiganov,bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
-  papers:
+  papers: swan
   description: Can I detect security vulnerabilities in my Swift app? In this work, we have been developing SWAN, a program analysis framework for Swift programs based on <a href="https://github.com/wala/WALA/" target="_blank">WALA</a>. The framework enables a wide range of static analyses, from simple constant propagation to sophisticated taint anlaysis using the powerful infrastructure that <a href="https://github.com/wala/WALA/" target="_blank">WALA</a> provides.
 
 - name: Just-in-Time Compilers
   id: jit
   github:
   start: 2016
-  members: knewbury,eochoa,sjkillen
+  members: cijie,knewbury,eochoa,sjkillen
   papers:
   description: Can we help JIT compilers make better decisions when applying a code transformation? In this work, we have been developing several algorithms that enable a JIT compiler to reason not only about the cost of applying a code tranformation (e.g., method inlining), but also about the potential future benefits (e.g., further optimizations) of applying such a code transformation.
   impact:
