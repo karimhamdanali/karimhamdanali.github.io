@@ -45,6 +45,20 @@
   status: current
   bio: Ahmed is a Master's student in Computing Science. He is interested in program analysis, analysis of binaries, programming languages, and formal semantics.
 
+- name: Daniil Tiganov
+  prog: undergrad
+  id: tiganov
+  website: https://tiganov.ca
+  status: current
+  bio: Daniil is a senior undergrad student in Computing Science who, in 2019, made significant contributions to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analayis framework for Swift.
+
+- name: Cijie Xia
+  prog: undergrad
+  id: cijie
+  website: https://xiacijie.github.io
+  status: current
+  bio: Cijie is a senior honours undergraduate student in Computing Science who has been working in the lab since the summer of 2020 on JIT compiler optimizations for Eclipse OpenJ9. He is interested in programming languages, computer systems, and software engineering.
+
 # Former
 - name: Stefan Krüger
   prog: phd
@@ -58,13 +72,6 @@
   website: https://www.linkedin.com/in/revan-macqueen-931ab716a/
   status: former
   bio: Revan is a senior honours Computing Science undergrad student who has been working in the lab in the summers of 2018 and 2019 on fixing neural networks using solver-aided languages.
-
-- name: Daniil Tiganov
-  prog: undergrad
-  id: tiganov
-  website: https://tiganov.ca
-  status: former
-  bio: Daniil is a senior undergrad student in Computing Science who, in 2019, made significant contributions to <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analayis framework for Swift.
 
 - name: Lisa Nguyen Quang Do
   prog: phd
