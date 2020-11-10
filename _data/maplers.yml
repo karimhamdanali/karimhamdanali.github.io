@@ -3,6 +3,12 @@
   website: https://karimali.ca
 
 # Current
+- name: Jiaqi He
+  prog: phd
+  id: jiaqi
+  status: current
+  bio: Jiaqi is a PhD student in Computing Science. He obtained his Bachelor’s degree in Computer Science at Northeastern University (China), and his Master’s degree in Informatics at Nagoya University. He is interested in program analysis, formal verification, SMT solving, and reinforcement learning.
+
 - name: Ifaz Kabir
   prog: phd
   id: ikabir
@@ -31,13 +37,6 @@
   status: current
   bio: David is a Master's student in Computing Science. He's interested in the construction of precise code summaries for analyzing Java libraries.
 
-- name: Kristen Newbury
-  prog: masters
-  id: knewbury
-  website:
-  status: current
-  bio: Kristen is a Master's student in Computing Science. She's interested in using program analysis to detect crypto API misuses.
-
 - name: Ahmed Elkhair
   prog: masters
   id: ahmed
@@ -60,6 +59,12 @@
   bio: Cijie is a senior honours undergraduate student in Computing Science who has been working in the lab since the summer of 2020 on JIT compiler optimizations for Eclipse OpenJ9. He is interested in programming languages, computer systems, and software engineering.
 
 # Former
+- name: Kristen Newbury
+  prog: masters
+  id: knewbury
+  status: former
+  bio: Kristen was a Master's student in Computing Science. During her thesis, she has worked on using program analysis to detect and repair crypto API misuses in Java programs.
+
 - name: Stefan Krüger
   prog: phd
   id: skrueger
