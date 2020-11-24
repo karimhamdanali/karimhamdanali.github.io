@@ -40,6 +40,7 @@
   authors: Karim Ali, Xiaoni Lai, Zhaoyi Luo, Ondřej Lhoták, Julian Dolby, and Frank Tip
   venue: IEEE Transactions on Software Engineering (TSE)
   year: 2019
+  video: https://youtu.be/bot2QnP0iOc
 
 - id: crysl-tse
   title: "CrySL: An Extensible Approach to Validating the Correct Usage of Cryptographic APIs"
