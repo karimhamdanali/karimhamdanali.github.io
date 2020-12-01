@@ -63,6 +63,7 @@
   prog: masters
   id: knewbury
   status: former
+  thesis: https://doi.org/10.7939/r3-3th1-ng86
   bio: Kristen was a Master's student in Computing Science. During her thesis, she has worked on using program analysis to detect and repair crypto API misuses in Java programs.
 
 - name: Stefan Krüger
