@@ -3,10 +3,10 @@
   website: https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/foundations-of-program-analysis
   description: This undergraduate course introduces students to intermediate representations, inter-procedural and intra-procedural analyses, call graphs, pointer analysis, and analysis frameworks. Students acquire a solid knowledge about the theory of program analysis, as well as practical experience through the course assignments and project.
 
-- name: Static Program Analysis
-  id: 620
+- name: Secure Software Engineering
+  id: 664
   website:
-  description: This graduate course provides a platform for students to discuss research papers about both classical and state-of-the-art program analyses. It also enables students to conduct in-depth research in program analysis, with the ability to apply it to their own area of interest (e.g., security or usability).
+  description: This graduate course provides a platform for students to discuss research papers that study what it takes to build secure software. It also enables students to conduct in-depth research in software security, with the ability to apply it to their own area of interest (e.g., computer architecture, machine learning).
 
 - name: Computer Organization and Architecture I
   id: 229
