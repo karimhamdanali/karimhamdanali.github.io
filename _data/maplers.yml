@@ -51,14 +51,14 @@
   status: current
   bio: Daniil is a senior undergrad student in Computing Science who, since 2019, has been leading the work on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analayis framework for Swift.
 
+# Former
 - name: Cijie Xia
   prog: undergrad
   id: cijie
   website: https://xiacijie.github.io
-  status: current
-  bio: Cijie is a senior honours undergraduate student in Computing Science who has been working in the lab since the summer of 2020 on JIT compiler optimizations for Eclipse OpenJ9. He is interested in programming languages, computer systems, and software engineering.
+  status: former
+  bio: Cijie is a senior honours undergraduate student in Computing Science who has been working in the lab during 2020 on JIT compiler optimizations for Eclipse OpenJ9. He is interested in programming languages, computer systems, and software engineering.
 
-# Former
 - name: Kristen Newbury
   prog: masters
   id: knewbury
