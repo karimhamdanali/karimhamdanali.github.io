@@ -3,6 +3,12 @@
   website: https://karimali.ca
 
 # Current
+- name: Saqib Ameen
+  prog: masters
+  id: saqib
+  status: current
+  bio: Saqib is a Master’s student in Computing Science. He is interested in program analysis, programming languages, and software engineering.
+
 - name: Jiaqi He
   prog: phd
   id: jiaqi
