@@ -37,13 +37,6 @@
   status: current
   bio: David is a Master's student in Computing Science. He's interested in the construction of precise code summaries for analyzing Java libraries.
 
-- name: Ahmed Elkhair
-  prog: masters
-  id: ahmed
-  website:
-  status: current
-  bio: Ahmed is a Master's student in Computing Science. He is interested in program analysis, analysis of binaries, programming languages, and formal semantics.
-
 - name: Daniil Tiganov
   prog: undergrad
   id: tiganov
@@ -52,6 +45,13 @@
   bio: Daniil is a senior undergrad student in Computing Science who, since 2019, has been leading the work on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analayis framework for Swift.
 
 # Former
+- name: Ahmed Elkhair
+  prog: masters
+  id: ahmed
+  website:
+  status: former
+  bio: Ahmed obtained his Master's degree in Computing Science from the University of Alberta in 2021. He is interested in program analysis, analysis of binaries, programming languages, and formal semantics.
+
 - name: Cijie Xia
   prog: undergrad
   id: cijie
@@ -64,7 +64,7 @@
   id: knewbury
   status: former
   thesis: https://doi.org/10.7939/r3-3th1-ng86
-  bio: Kristen was a Master's student in Computing Science. During her thesis, she has worked on using program analysis to detect and repair crypto API misuses in Java programs.
+  bio: Kristen was a Master's student in Computing Science. During her thesis, she has worked on using program analysis to detect and repair crypto API misuses in Java programs. She went on to be a CodeQL Analysis Engineer at GitHub.
 
 - name: Stefan Krüger
   prog: phd
