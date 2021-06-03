@@ -10,7 +10,7 @@
   start: 2017
   members: tiganov,bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
   papers: swan
-  description: Can I detect security vulnerabilities in my Swift app? In this work, we have been developing SWAN, a program analysis framework for Swift programs based on <a href="https://github.com/wala/WALA/" target="_blank">WALA</a>. The framework enables a wide range of static analyses, from simple constant propagation to sophisticated taint anlaysis using the powerful infrastructure that <a href="https://github.com/wala/WALA/" target="_blank">WALA</a> provides.
+  description: Can I detect security vulnerabilities in my Swift app? In this work, we have been developing SWAN, a program analysis framework for Swift programs based on <a href="https://github.com/CodeShield-Security/SPDS" target="_blank">SPDS</a> . The framework enables various deep static analyses, from finding API misuses using typestate analysis to detecting security vulnerabilities using taint analysis.
 
 - name: Just-in-Time Compilers
   id: jit
