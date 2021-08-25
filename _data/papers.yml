@@ -1,3 +1,21 @@
+- id: hotfixer
+  title: "Hotfixing Misuses of Crypto APIs in Java Programs"
+  authors: Kristen Newbury, Karim Ali, and Andrew Craik
+  venue: International Conference on Computer Science and Software Engineering (CASCON)
+  year: 2021
+  pages:
+  doi:
+  code: https://github.com/themaplelab/hotfixer
+
+- id: ourinliner
+  title: "U Can't Inline This!"
+  authors: Erick Ochoa, Cijie Xia, Karim Ali, Andrew Craik, and José Nelson Amaral
+  venue: International Conference on Computer Science and Software Engineering (CASCON)
+  year: 2021
+  pages:
+  doi:
+  code: https://github.com/themaplelab/openj9
+
 - id: igreenminer
   title: "Energy Efficient Guidelines for iOS Core Location Framework"
   authors: Abdul Ali Bangash, Daniil Tiganov, Karim Ali, and Abram Hindle
