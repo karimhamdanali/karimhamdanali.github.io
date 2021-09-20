@@ -1,3 +1,12 @@
+- id: swan-acmqueue
+  title: "Designing UIs for Static Analysis Tools: Evaluating Tool Design Guidelines with SWAN"
+  authors: Lisa Nguyen Quang Do, Daniil Tiganov, and Karim Ali
+  venue: ACM Queue
+  year: 2021
+  pages: 97--118
+  doi: https://doi.org/10.1145/3487019.3487026
+  code: https://github.com/themaplelab/swan
+
 - id: hotfixer
   title: "Hotfixing Misuses of Crypto APIs in Java Programs"
   authors: Kristen Newbury, Karim Ali, and Andrew Craik
