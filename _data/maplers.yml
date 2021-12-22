@@ -44,11 +44,11 @@
   bio: David is a Master's student in Computing Science. He's interested in the construction of precise code summaries for analyzing Java libraries.
 
 - name: Daniil Tiganov
-  prog: undergrad
+  prog: masters
   id: tiganov
   website: https://tiganov.ca
   status: current
-  bio: Daniil is a senior undergrad student in Computing Science who, since 2019, has been leading the work on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analysis framework for Swift.
+  bio: Daniil is a Master's student in Computing Science who, since 2019, has been leading the work on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analysis framework for Swift.
 
 # Former
 - name: Ahmed Elkhair
