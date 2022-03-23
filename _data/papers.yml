@@ -1,3 +1,12 @@
+- id: bbox-android
+  title: "A Black Box Technique to Reduce Energy Consumption of Android Apps"
+  authors: Abdul Ali Bangash, Karim Ali, and Abram Hindle
+  venue: ICSE NIER
+  year: 2022
+  pages:
+  doi: https://doi.org/10.1145/3510455.3512795
+  code:
+
 - id: swan-acmqueue
   title: "Designing UIs for Static Analysis Tools: Evaluating Tool Design Guidelines with SWAN"
   authors: Lisa Nguyen Quang Do, Daniil Tiganov, and Karim Ali
