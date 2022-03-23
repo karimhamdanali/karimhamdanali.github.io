@@ -5,7 +5,7 @@
   year: 2022
   pages:
   doi: https://doi.org/10.1145/3510455.3512795
-  code:
+  code: https://github.com/AbdulAli/EnergyDataset-ICSE-NIER22
 
 - id: swan-acmqueue
   title: "Designing UIs for Static Analysis Tools: Evaluating Tool Design Guidelines with SWAN"
