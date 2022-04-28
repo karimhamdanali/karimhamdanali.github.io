@@ -29,13 +29,6 @@
   status: current
   bio: Abdul Ali is a PhD student in Computing Science. He obtained his Master's in Software Engineering at FAST National University, Pakistan. He's generally interested in helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence.
 
-- name: Jeff Cho
-  prog: masters
-  id: gojeffcho
-  website: http://www.jeffcho.com
-  status: current
-  bio: Jeff obtained his bachelor's degree in Computing Science at the University of Alberta in 2019. In addition to his passion for game development, he worked in the lab from 2017 to 2019 to help build <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analayis framework for Swift. For his master's degree, Jeff is currently working on automatic verification of comparators and hash functions.
-
 - name: David Seekatz
   prog: masters
   id: seekatz
@@ -51,6 +44,13 @@
   bio: Daniil is a Master's student in Computing Science who, since 2019, has been leading the work on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analysis framework for Swift.
 
 # Former
+- name: Jeff Cho
+  prog: masters
+  id: gojeffcho
+  website: http://www.jeffcho.com
+  status: former
+  bio: Jeff obtained his Master's degree in Computing Science from the University of Alberta in 2022. In addition to his passion for game development, he worked in the lab on building <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analysis framework for Swift, as well studying game testing. He went on to be a Communications and Electronics Engineering Officer with the Royal Canadian Air Force and the Game Director for Caldera Interactive.
+
 - name: Ahmed Elkhair
   prog: masters
   id: ahmed
