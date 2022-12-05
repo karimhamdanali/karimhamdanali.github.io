@@ -29,13 +29,6 @@
   status: current
   bio: Abdul Ali is a PhD student in Computing Science. He obtained his Master's in Software Engineering at FAST National University, Pakistan. He's generally interested in helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence.
 
-- name: David Seekatz
-  prog: masters
-  id: seekatz
-  website:
-  status: current
-  bio: David is a Master's student in Computing Science. He's interested in the construction of precise code summaries for analyzing Java libraries.
-
 - name: Daniil Tiganov
   prog: masters
   id: tiganov
@@ -44,6 +37,13 @@
   bio: Daniil is a Master's student in Computing Science who, since 2019, has been leading the work on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analysis framework for Swift.
 
 # Former
+- name: David Seekatz
+  prog: masters
+  id: seekatz
+  website:
+  status: former
+  bio: David obtained his Master's degree in Computing Science from the University of Alberta in 2022. He's interested in the construction of precise code summaries for analyzing Java libraries. He went on to be a Senior Application Security Software Engineer at Oracle.
+
 - name: Jeff Cho
   prog: masters
   id: gojeffcho
