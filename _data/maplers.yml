@@ -3,12 +3,6 @@
   website: https://karimali.ca
 
 # Current
-- name: Hamza Mustafa Alvi
-  prog: phd
-  id: hamza
-  status: current
-  bio: Hamza obtained his bachelor's and master's degree in Computer Science from the National University of Computer & Emerging Sciences, Pakistan. He is interested in just-in-time compilation, program analysis, representation learning, and machine learning.
-
 - name: Jiaqi He
   prog: phd
   id: jiaqi
