@@ -1,3 +1,20 @@
+- id: efactor
+  title: "Energy Consumption Estimation of API-usage in Mobile Apps via Static Analysis"
+  authors: Abdul Ali Bangash, Qasim Jamal, Kalvin Eng, Karim Ali, and Abram Hindle
+  venue: MSR
+  year: 2023
+  pages:
+  doi:
+  code: https://github.com/themaplelab/swan
+
+- id: indiegames
+  title: "Exploring Quality Assurance Practices and Tools for Indie Games"
+  authors: Jeff Cho and Karim Ali
+  venue: GAS
+  year: 2023
+  pages:
+  doi:
+
 - id: rvt
   title: "A Human-in-the-loop Approach to Generate Annotation Usage Rules: A Case Study with MicroProfile"
   authors: Mansur Gulami, Ajay Kumar Jha, Sarah Nadi, Karim Ali, Yee-Kang Chang, and Emily Jiang
@@ -12,7 +29,7 @@
   authors: Abdul Ali Bangash, Karim Ali, and Abram Hindle
   venue: ICSE NIER
   year: 2022
-  pages:
+  pages: 1--5
   doi: https://doi.org/10.1145/3510455.3512795
   code: https://github.com/AbdulAli/EnergyDataset-ICSE-NIER22
 
@@ -30,8 +47,8 @@
   authors: Kristen Newbury, Karim Ali, and Andrew Craik
   venue: International Conference on Computer Science and Software Engineering (CASCON)
   year: 2021
-  pages:
-  doi:
+  pages: 73–82
+  doi: https://dl.acm.org/doi/abs/10.5555/3507788.3507799
   code: https://github.com/themaplelab/hotfixer
 
 - id: ourinliner
@@ -39,8 +56,8 @@
   authors: Erick Ochoa, Cijie Xia, Karim Ali, Andrew Craik, and José Nelson Amaral
   venue: International Conference on Computer Science and Software Engineering (CASCON)
   year: 2021
-  pages:
-  doi:
+  pages: 173-182
+  doi: https://dl.acm.org/doi/abs/10.5555/3507788.3507812
   code: https://github.com/themaplelab/openj9
 
 - id: igreenminer
@@ -48,8 +65,8 @@
   authors: Abdul Ali Bangash, Daniil Tiganov, Karim Ali, and Abram Hindle
   venue: International Conference on Software Maintenance and Evolution (ICSME)
   year: 2021
-  pages:
-  doi:
+  pages: 320-331
+  doi: https://doi.org/10.1109/ICSME52107.2021.00035
   code: https://github.com/themaplelab/swan
   video: https://www.morressier.com/article/energy-efficient-guidelines-ios-core-location-framework/613b5418842293c031b5b5f0
 
@@ -58,8 +75,8 @@
   authors: Daniil Tiganov, Jeff Cho, Karim Ali, and Julian Dolby
   venue: ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)
   year: 2020
-  pages:
-  doi:
+  pages: 1640--1644
+  doi: https://doi.org/10.1145/3368089.3417924
   code: https://github.com/themaplelab/swan
   video: https://www.youtube.com/watch?v=AZwfhOGqwFs
 
@@ -68,9 +85,8 @@
   authors: Abdul Ali Bangash, Hareem Sahar, Abram Hindle, and Karim Ali
   venue: International Journal on Empirical Software Engineering (EMSE)
   year: 2020
-  pages:
-  doi:
-  code:
+  pages: 5047--5083
+  doi: https://doi.org/10.1007/s10664-020-09878-9
 
 - id: softwareag-study
   title: Why Do Software Developers Use Static Analysis Tools? A User-Centered Study of Developer Needs and Motivations
