@@ -1,7 +1,7 @@
 - id: efactor
   title: "Energy Consumption Estimation of API-usage in Mobile Apps via Static Analysis"
   authors: Abdul Ali Bangash, Qasim Jamal, Kalvin Eng, Karim Ali, and Abram Hindle
-  venue: MSR
+  venue: International Conference on Mining Software Repositories (MSR)
   year: 2023
   pages:
   doi:
@@ -10,7 +10,7 @@
 - id: indiegames
   title: "Exploring Quality Assurance Practices and Tools for Indie Games"
   authors: Jeff Cho and Karim Ali
-  venue: GAS
+  venue: International ICSE Workshop on Games and Software Engineering (GAS)
   year: 2023
   pages:
   doi:
