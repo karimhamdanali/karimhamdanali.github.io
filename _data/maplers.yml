@@ -3,6 +3,18 @@
   website: https://karimali.ca
 
 # Current
+- name: Nipuni Hewage
+  prog: masters
+  id: nipuni
+  status: current
+  bio: Nipuni is a Master's student in Computing Science. She obtained her Bachelor’s degree at University of Moratuwa, Sri Lanka. She is interested in program analysis, mining software repositories, and software quality.
+
+- name: Mingwei Li
+  prog: ra
+  id: mingwei
+  status: current
+  bio: Mingwei obtained his bachelor’s degree in Computing Science at the University of Alberta. He has a wide interest in software design, software engineering, and machine learning.
+  
 - name: Jiaqi He
   prog: phd
   id: jiaqi
