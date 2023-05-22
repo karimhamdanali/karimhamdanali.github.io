@@ -7,7 +7,7 @@
   prog: masters
   id: nipuni
   status: current
-  bio: Nipuni is a Master's student in Computing Science. She obtained her Bachelor’s degree at University of Moratuwa, Sri Lanka. She is interested in program analysis, mining software repositories, and software quality.
+  bio: Nipuni is a Master's student in Computing Science. She obtained her Bachelor’s degree at the University of Moratuwa, Sri Lanka. She is interested in program analysis, mining software repositories, and software quality.
 
 - name: Mingwei Li
   prog: ra
@@ -21,13 +21,6 @@
   status: current
   bio: Jiaqi is a PhD student in Computing Science. He obtained his Bachelor’s degree in Computer Science at Northeastern University (China), and his Master’s degree in Informatics at Nagoya University. He is interested in program analysis, formal verification, SMT solving, and reinforcement learning.
 
-- name: Ifaz Kabir
-  prog: phd
-  id: ikabir
-  website: http://www.ifazk.com
-  status: current
-  bio: Ifaz is a PhD student in Computing Science. He obtained a bachelor's degree in Pure Mathematics and Computer Science as well as a Masters degree in Computer Science, all at the University of Waterloo. He's interested in type systems, type inference, null safety, type systems for logic, and program analysis.
-
 - name: Abdul Ali Bangash
   prog: phd
   id: bangash
@@ -35,19 +28,26 @@
   status: current
   bio: Abdul Ali is a PhD student in Computing Science. He obtained his Master's in Software Engineering at FAST National University, Pakistan. He's generally interested in helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence.
 
+- name: Ifaz Kabir
+  prog: phd
+  id: ikabir
+  website: http://www.ifazk.com
+  status: current
+  bio: Ifaz is a PhD student in Computing Science. He obtained a bachelor's degree in Pure Mathematics and Computer Science as well as a Masters degree in Computer Science, all at the University of Waterloo. He's interested in type systems, type inference, null safety, type systems for logic, and program analysis.
+
+# Former
 - name: Daniil Tiganov
   prog: masters
   id: tiganov
   website: https://tiganov.ca
-  status: current
-  bio: Daniil is a Master's student in Computing Science who, since 2019, has been leading the work on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analysis framework for Swift.
+  status: former
+  bio: Daniil obtained his Master's degree in Computing Science from the University of Alberta in 2023. During his time in the lab, he has led the work on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analysis framework for Swift. Daniil moved on to be a Senior Software Developer at Synopsys.
 
-# Former
 - name: David Seekatz
   prog: masters
   id: seekatz
-  website:
   status: former
+  thesis: https://doi.org/10.7939/r3-ntna-1v63
   bio: David obtained his Master's degree in Computing Science from the University of Alberta in 2022. He's interested in the construction of precise code summaries for analyzing Java libraries. He went on to be a Senior Application Security Software Engineer at Oracle.
 
 - name: Jeff Cho
@@ -55,6 +55,7 @@
   id: gojeffcho
   website: http://www.jeffcho.com
   status: former
+  thesis: https://doi.org/10.7939/r3-0dey-pm87
   bio: Jeff obtained his Master's degree in Computing Science from the University of Alberta in 2022. In addition to his passion for game development, he worked in the lab on building <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, which is a static analysis framework for Swift, as well studying game testing. He went on to be a Communications and Electronics Engineering Officer with the Royal Canadian Air Force and the Game Director for Caldera Interactive.
 
 - name: Ahmed Elkhair
