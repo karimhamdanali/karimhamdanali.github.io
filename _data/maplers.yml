@@ -21,13 +21,6 @@
   status: current
   bio: Jiaqi is a PhD student in Computing Science. He obtained his Bachelor’s degree in Computer Science at Northeastern University (China), and his Master’s degree in Informatics at Nagoya University. He is interested in program analysis, formal verification, SMT solving, and reinforcement learning.
 
-- name: Abdul Ali Bangash
-  prog: phd
-  id: bangash
-  website: https://sites.google.com/view/bangash
-  status: current
-  bio: Abdul Ali is a PhD student in Computing Science. He obtained his Master's in Software Engineering at FAST National University, Pakistan. He's generally interested in helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence.
-
 - name: Ifaz Kabir
   prog: phd
   id: ikabir
@@ -36,6 +29,13 @@
   bio: Ifaz is a PhD student in Computing Science. He obtained a bachelor's degree in Pure Mathematics and Computer Science as well as a Masters degree in Computer Science, all at the University of Waterloo. He's interested in type systems, type inference, null safety, type systems for logic, and program analysis.
 
 # Former
+- name: Abdul Ali Bangash
+  prog: phd
+  id: bangash
+  website: https://sites.google.com/view/bangash
+  status: current
+  bio: Abdul Ali obtained his PhD student in Computing Science from the University of Alberta in 2023. While working towards his PhD, Ali has worked on helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence. Abdul Ali moved on to be a Postdocoral Researcher with the SAIL Lab at Queen's University.
+
 - name: Daniil Tiganov
   prog: masters
   id: tiganov
