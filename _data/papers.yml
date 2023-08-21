@@ -1,3 +1,11 @@
+- id: gt-security
+  title: "Finding an Optimal Set of Static Analyzers To Detect Software Vulnerabilities"
+  authors: Jiaqi He, Revan MacQueen, Natalie Bombardieri, Karim Ali, James Wright, and Cristina Cifuentes
+  venue: International Conference on Software Maintenance and Evolution (ICSME)
+  year: 2023
+  pages:
+  doi:
+
 - id: efactor
   title: "Energy Consumption Estimation of API-usage in Mobile Apps via Static Analysis"
   authors: Abdul Ali Bangash, Qasim Jamal, Kalvin Eng, Karim Ali, and Abram Hindle
