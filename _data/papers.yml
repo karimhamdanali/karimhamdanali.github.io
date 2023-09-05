@@ -1,3 +1,11 @@
+- id: secdev
+  title: "Securing Your Crypto-API Usage Through Tool Support - A Usability Study"
+  authors: Stefan Krüger, Michael Reif, Anna-Katharina Wickert, Sarah Nadi, Karim Ali, Eric Bodden, Mira Mezini, Yasemin Acar, and Sascha Fahl
+  venue: IEEE Secure Development Conference (SecDev)
+  year: 2023
+  pages:
+  doi:
+
 - id: gt-security
   title: "Finding an Optimal Set of Static Analyzers To Detect Software Vulnerabilities"
   authors: Jiaqi He, Revan MacQueen, Natalie Bombardieri, Karim Ali, James Wright, and Cristina Cifuentes
