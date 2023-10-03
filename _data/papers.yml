@@ -19,8 +19,8 @@
   authors: Abdul Ali Bangash, Qasim Jamal, Kalvin Eng, Karim Ali, and Abram Hindle
   venue: International Conference on Mining Software Repositories (MSR)
   year: 2023
-  pages:
-  doi:
+  pages: 272--283
+  doi: https://doi.org/10.1109/MSR59073.2023.00047
   code: https://github.com/themaplelab/swan
 
 - id: indiegames
@@ -28,8 +28,8 @@
   authors: Jeff Cho and Karim Ali
   venue: International ICSE Workshop on Games and Software Engineering (GAS)
   year: 2023
-  pages:
-  doi:
+  pages: 16--24
+  doi: https://doi.org/10.1109/GAS59301.2023.00010
 
 - id: rvt
   title: "A Human-in-the-loop Approach to Generate Annotation Usage Rules: A Case Study with MicroProfile"
