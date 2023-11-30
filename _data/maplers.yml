@@ -8,7 +8,7 @@
   id: jiaqi
   status: current
   bio: Jiaqi is a PhD student in Computing Science. He obtained his Bachelor’s degree in Computer Science at Northeastern University (China), and his Master’s degree in Informatics at Nagoya University. He is interested in program analysis, formal verification, SMT solving, and reinforcement learning.
-  
+
 - name: Nipuni Hewage
   prog: masters
   id: nipuni
@@ -27,6 +27,7 @@
   id: bangash
   website: https://sites.google.com/view/bangash
   status: former
+  thesis: https://doi.org/10.7939/r3-dpgs-9f50
   bio: Abdul Ali obtained his PhD student in Computing Science from the University of Alberta in 2023. While working towards his PhD, Ali has worked on helping software developers overcome the rising demand to build energy-efficient software systems. In particular, his research directions include mining software repositories, process mining, programming languages, and computational intelligence. Abdul Ali moved on to be a Postdocoral Researcher with the SAIL Lab at Queen's University.
 
 - name: Daniil Tiganov
@@ -34,6 +35,7 @@
   id: tiganov
   website: https://tiganov.ca
   status: former
+  thesis: https://doi.org/10.7939/r3-m47t-hh61
   bio: Daniil obtained his Master's degree in Computing Science from the University of Alberta in 2023. During his time in the lab, he has led the work on <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analysis framework for Swift. Daniil moved on to be a Senior Software Developer at Synopsys.
 
 - name: David Seekatz
