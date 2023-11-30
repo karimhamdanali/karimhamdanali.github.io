@@ -1,14 +1,14 @@
 # - name: PL & ML
 #   id: plml
 #   start: 2018
-#   members: revan,ikabir
+#   members: revan
 #   papers:
 #   description: Can research in programming languages help with machine learning? In this work, we are exploring how to use/develop programming language techniques to solve some of the common problems that researchers and practicioners encounter while building machine learning systems.
 
 - name: SWAN
   id: swan
   start: 2017
-  members: tiganov,bangash,gojeffcho,ikabir,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
+  members: tiganov,bangash,gojeffcho,mmroz,nweninge,btam,ao,ahill,yaser,lydia,chen
   papers: efactor,swan-acmqueue,igreenminer,swan
   description: Can I detect security vulnerabilities in my Swift app? In this work, we have been developing SWAN, a program analysis framework for Swift programs based on <a href="https://github.com/CodeShield-Security/SPDS" target="_blank">SPDS</a> . The framework enables various deep static analyses, from finding API misuses using typestate analysis to detecting security vulnerabilities using taint analysis.
 
