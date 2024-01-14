@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 weight: 6
 ---
-I am currently an Associate Professor of Computer Science at NYU Abu Dhabi. I received my Ph.D. from the University of Waterloo in 2014 and worked as a postdoctoral researcher in TU Darmstadt for approximately two years. Before joining NYU Abu Dhabi, I was an Associate Professor in the Department of Computing Science at the University of Alberta.
+I am currently an Associate Professor of Computer Science at NYU Abu Dhabi. I received my PhD from the University of Waterloo in 2014 and worked as a postdoctoral researcher in TU Darmstadt for approximately two years. Before joining NYU Abu Dhabi, I was an Associate Professor in the Department of Computing Science at the University of Alberta.
 
 My lab conducts research on programming languages, particularly in scalability, precision, and usability of program analysis tools. My work ranges from developing new theories for scalable and precise program analyses to applications of program analysis in security and just-in-time compilers.
 
