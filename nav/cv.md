@@ -4,11 +4,9 @@ title: CV
 permalink: /cv/
 weight: 6
 ---
-I am currently an Associate Professor in the Department of Computing Science at the University of Alberta. Priori to that, I spent 1.5 years as a postdoctoral researcher at Technische Universität Darmstadt, Germany within the [Secure Software Engineering (SSE) Group](https://blogs.uni-paderborn.de/sse/){:target="_blank"} led by [Eric Bodden](http://bodden.de/){:target="_blank"}.
+I am currently an Associate Professor of Computer Science at NYU Abu Dhabi. I received my Ph.D. from the University of Waterloo in 2014 and worked as a postdoctoral researcher in TU Darmstadt for approximately two years. Before joining NYU Abu Dhabi, I was an Associate Professor in the Department of Computing Science at the University of Alberta.
 
-Just before moving to Germany, I finished my Ph.D. studies under the supervision of [Ondřej Lhoták](https://plg.uwaterloo.ca/~olhotak/){:target="_blank"} in the [Programming Languages Group](https://plg.uwaterloo.ca/){:target="_blank"} at the University of Waterloo. You can find my thesis: **The Separate Compilation Assumption** [here](http://hdl.handle.net/10012/8835){:target="_blank"}.
-
-Prior to that, I received my MMath degree at the University of Waterloo in 2010 when I was part of the Security Research Group led by [Raouf Boutaba](http://rboutaba.cs.uwaterloo.ca/index.html){:target="_blank"}.
+My lab conducts research on programming languages, particularly in scalability, precision, and usability of program analysis tools. My work ranges from developing new theories for scalable and precise program analyses to applications of program analysis in security and just-in-time compilers.
 
 You can find my more detailed CV [here][cvpdf]{:target="_blank"}.
 
