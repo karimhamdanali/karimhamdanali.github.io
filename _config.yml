@@ -4,14 +4,14 @@ url: https://karimali.ca # the base hostname & protocol for your site
 
 # User settings
 title: Karim Ali
-email: karim.ali@ualberta.ca
+email: karim.ali@nyu.edu
 group: The Maple Lab
 groupweb: https://github.com/themaplelab
-dept: Computing Science
-deptweb: https://cs.ualberta.ca
-institution: University of Alberta
-institutionweb: https://ualberta.ca
-address: ATH 3-42
+dept: Computer Science
+deptweb: https://nyuad.nyu.edu/en/academics/divisions/science/academic-programs/computer-science.html
+institution: NYU Abu Dhabi
+institutionweb: https://nyuad.nyu.edu/en/
+address: A1 151
 twitter: karimhamdanali
 github: karimhamdanali
 dblp: Ali_0001:Karim
