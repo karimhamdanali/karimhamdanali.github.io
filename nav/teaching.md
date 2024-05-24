@@ -12,7 +12,7 @@ These are the courses that I regularly teach.
 		{% include /functions/getcoursepic.html course=course %}
 	</div>
 	<div class="row-info">
-		<a href="{{ course.website | default: "#" }}" target="_blank">{{ course.code }}&ndash;{{ course.name }}</a>
+		<a href="{{ course.website | default: "#" }}" target="_blank">{{ course.code }} &ndash; {{ course.name }}</a>
 		<p>{{ course.description }}</p>
 	</div>
 </div>
