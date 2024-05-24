@@ -1,3 +1,8 @@
+- name: Computer Systems Organization
+  id: cso
+  website: 
+  description: This undergraduate course focuses on understanding lower-level (closer to hardware) issues in computer design and programming. The course starts with the C programming language, down to assembly and machine-level code, to basic operating system concepts. Students learn to read assembly code and reverse-engineer programs in binary.
+
 - name: Foundations of Program Analysis
   id: 416
   website: https://www.ualberta.ca/computing-science/undergraduate-studies/course-directory/courses/foundations-of-program-analysis
@@ -5,7 +10,7 @@
 
 - name: Secure Software Engineering
   id: 664
-  website:
+  website: https://www.ualberta.ca/computing-science/graduate-studies/course-directory/courses/secure-software-engineering.html
   description: This graduate course provides a platform for students to discuss research papers that study what it takes to build secure software. It also enables students to conduct in-depth research in software security, with the ability to apply it to their own area of interest (e.g., computer architecture, machine learning).
 
 - name: Computer Organization and Architecture I
