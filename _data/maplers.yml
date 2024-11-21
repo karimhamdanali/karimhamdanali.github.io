@@ -9,19 +9,20 @@
   status: current
   bio: Jiaqi is a PhD student in Computing Science. He obtained his Bachelor’s degree in Computer Science at Northeastern University (China), and his Master’s degree in Informatics at Nagoya University. He is interested in program analysis, formal verification, SMT solving, and reinforcement learning.
 
+# Former
 - name: Nipuni Hewage
   prog: masters
   id: nipuni
-  status: current
-  bio: Nipuni is a Master's student in Computing Science. She obtained her Bachelor’s degree at the University of Moratuwa, Sri Lanka. She is interested in program analysis, mining software repositories, and software quality.
-
+  status: former
+  thesis: https://doi.org/10.7939/r3-twq2-a872
+  bio: Nipuni obtained her Master's degree in Computing Science from the University of Alberta in 2024. During her time in the lab, she worked on mining patterns for language feature migration. Nipuni moved on to be a Software Developer at IBM.
+  
 - name: Mingwei Li
   prog: ra
   id: mingwei
-  status: current
+  status: former
   bio: Mingwei obtained his bachelor’s degree in Computing Science at the University of Alberta. He has a wide interest in software design, software engineering, and machine learning.
 
-# Former
 - name: Abdul Ali Bangash
   prog: phd
   id: bangash
