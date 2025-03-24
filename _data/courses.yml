@@ -2,14 +2,14 @@
   id: cso
   status: current
   code: CS-UH 2010
-  website: 
+  website: https://bulletins.nyu.edu/search/?P=CS-UH%202010
   description: This undergraduate course focuses on understanding lower-level (closer to hardware) issues in computer design and programming. The course starts with the C programming language, down to assembly and machine-level code, to basic operating system concepts. Students learn to read assembly code and reverse-engineer programs in binary.
 
 - name: Static Program Analysis
   id: spa
   status: current
   code: CS-UH 3260
-  website: 
+  website: https://bulletins.nyu.edu/search/?P=CS-UH%203260
   description: This undergraduate course introduces students to intermediate representations, inter-procedural and intra-procedural analyses, call graphs, pointer analysis, and analysis frameworks. Students acquire a solid knowledge about the theory of program analysis, as well as practical experience through the course assignments and project.
 
 - name: Foundations of Program Analysis
