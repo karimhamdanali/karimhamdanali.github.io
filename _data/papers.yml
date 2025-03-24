@@ -1,18 +1,26 @@
+- id: progslice
+  title: "Dynamic Program Slices Change How Developers Diagnose Gradual Run‑time Type Errors"
+  authors: Felipe Bañados Schwerter, Ronald Garcia, Reid Holmes, and Karim Ali
+  venue: The Art, Science, and Engineering of Programming (Programming)
+  year: 2025
+  pages:
+  doi: https://doi.org/10.22152/programming-journal.org/2025/10/8
+
 - id: secdev
   title: "Securing Your Crypto-API Usage Through Tool Support - A Usability Study"
   authors: Stefan Krüger, Michael Reif, Anna-Katharina Wickert, Sarah Nadi, Karim Ali, Eric Bodden, Mira Mezini, Yasemin Acar, and Sascha Fahl
   venue: IEEE Secure Development Conference (SecDev)
   year: 2023
-  pages:
-  doi:
+  pages: 14--25
+  doi: https://doi.org/10.1109/SecDev56634.2023.00015
 
 - id: gt-security
   title: "Finding an Optimal Set of Static Analyzers To Detect Software Vulnerabilities"
   authors: Jiaqi He, Revan MacQueen, Natalie Bombardieri, Karim Ali, James Wright, and Cristina Cifuentes
   venue: International Conference on Software Maintenance and Evolution (ICSME)
   year: 2023
-  pages:
-  doi:
+  pages: 463--473
+  doi: https://doi.org/10.1109/ICSME58846.2023.00060
 
 - id: efactor
   title: "Energy Consumption Estimation of API-usage in Mobile Apps via Static Analysis"
