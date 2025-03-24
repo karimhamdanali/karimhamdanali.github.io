@@ -3,6 +3,36 @@
   website: https://karimali.ca
 
 # Current
+- name: Tamer Abdelaziz
+  prog: postdoc
+  id: tamer
+  status: current
+  bio: Tamer Abdelaziz is a postdoctoral associate within SANAD. Prior to this, he earned his doctoral degree from the National University of Singapore. His research primarily focuses on employing deep learning techniques to identify and mitigate security threats within smart contract source code, bytecode, and transactions. With a keen interest in security, privacy, distributed ledgers, programming languages, and software engineering, Tamer delves into innovative approaches to bolster the security of blockchain systems. His current research endeavors explore the integration of blockchain verification techniques with the analysis of blockchain attacks. He is particularly dedicated to investigating the potential of deep learning in revolutionizing these fields.
+
+- name: Rui Rua
+  prog: postdoc
+  id: rui
+  status: current
+  bio: Rui is a postdoctoral associate within SANAD. Rui characterizes himself as an individual of innovation and unwavering diligence, underpinned by a resolute spirit of initiative. Identifying as both a creator and an achiever, Rui is consistently driven to realize proof-of-concept applications and delve deeply into emerging trends and technologies. As a scientist, Rui’s primary focus is on advancing and refining software development and maintenance methodologies. The main objective is to generate knowledge that enhances software products and their source code through the use of automated software analysis techniques.
+
+- name: Musa Khan
+  prog: undergrad
+  id: musa
+  status: current
+  bio: Musa is an undergraduate student at NYU Abu Dhabi, majoring in Computing Science and minoring in Applied Maths and Economics. His interests are many, including Deep Learning, Deep Reinforcement Learning, Reasoning in LLMs, Programming Languages, Functional Programming, Set Theory, Program Analysis, and Formal Verification. At SANAD, he is currently working with Postdoc Rui Rua on the automatic detection and refactoring of energy anti-patterns in Android applications developed in Kotlin.
+
+- name: Jae Kim
+  prog: undergrad
+  id: jae
+  status: current
+  bio: Jae is a sophomore at New York University Abu Dhabi, majoring in Computer Science with a minor in Mathematics. He is interested in exploring and utilizing large language models (LLMs) to enhance the software development environment, with a focus on improving code analysis, debugging, and developer productivity.
+
+- name: Abdelreheem Arar
+  prog: undergrad
+  id: arar
+  status: current
+  bio: Abdelreheem is a sophomore at NYU Abu Dhabi, majoring in Computer Engineering, with interests in cybersecurity and networking. At SANAD, he has been working on building a VS Code plugin for <a href="https://github.com/themaplelab/swan" alt="SWAN" target="_blank">SWAN</a>, a static analysis framework for Swift.
+
 - name: Jiaqi He
   prog: phd
   id: jiaqi
