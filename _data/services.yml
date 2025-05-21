@@ -5,6 +5,11 @@
   website: https://conf.researchr.org/home/icse-2026
 
 # 2025
+- name: TOSEM
+  role: Reviewer
+  year: 2025
+  website: https://dl.acm.org/journal/tosem
+
 - name: PLDI
   role: PC Member
   year: 2025
