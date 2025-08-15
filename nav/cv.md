@@ -2,7 +2,7 @@
 layout: default
 title: CV
 permalink: /cv/
-weight: 6
+weight: 5
 ---
 I am currently an Associate Professor of Computer Science at NYU Abu Dhabi. I received my PhD from the University of Waterloo in 2014 and worked as a postdoctoral researcher in TU Darmstadt for approximately two years. Before joining NYU Abu Dhabi, I was an Associate Professor in the Department of Computing Science at the University of Alberta.
 
